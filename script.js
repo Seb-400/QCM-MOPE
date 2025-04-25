@@ -94,7 +94,7 @@ restartBtn.addEventListener("click", () => {
 function showResult() {
   document.getElementById("quiz-container").classList.add("hidden");
   resultEl.classList.remove("hidden");
-  scoreEl.textContent = \`Vous avez obtenu \${score} sur \${questions.length} bonnes réponses.\`;
+  scoreEl.textContent = "Vous avez obtenu " + score + " sur " + questions.length + " bonnes réponses.";
 }
 
 loadQuestion();
