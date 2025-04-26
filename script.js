@@ -27,6 +27,7 @@ const questionImage = document.getElementById("question-image");
 
 function populateSubjects() {
   const subjects = [...new Set(allQuestions.map(q => q.subject))];
+  console.log("Matières détectées :", subjects); // 👈 Ajoute ce log aussi
   subjectSelect.innerHTML = "";
   subjects.forEach(subject => {
     const option = document.createElement("option");
@@ -35,6 +36,7 @@ function populateSubjects() {
     subjectSelect.appendChild(option);
   });
 }
+
 
 startBtn.addEventListener("click", () => {
   const selectedSubject = subjectSelect.value;
