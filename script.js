@@ -1,28 +1,13 @@
-const questions = [
-  {
-    question: "Quelles structures pouvons-nous trouver dans l'oreille interne ?",
-    options: [
-      "La pars flaccida",
-      "La membrane de Reissner",
-      "Le canal de Rosenthal",
-      "Le canal de Fallope"
-    ],
-    correctAnswers: [1, 2]
-  },
-  {
-    question: "La voie afférente auditive possède :",
-    options: [
-      "Toutes les réponses sont justes.",
-      "L'information atteint les deux côtés du cortex.",
-      "Les fibres ascendantes sont homolatérales et controlatérales.",
-      "Un traitement monaural et binaural."
-    ],
-    correctAnswers: [0]
-  }
-];
-
+let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
+
+fetch('questions.json')
+  .then(response => response.json())
+  .then(data => {
+    questions = data;
+    loadQuestion();
+  });
 
 const questionEl = document.getElementById("question");
 const answersForm = document.getElementById("answers-form");
@@ -96,5 +81,3 @@ function showResult() {
   resultEl.classList.remove("hidden");
   scoreEl.textContent = "Vous avez obtenu " + score + " sur " + questions.length + " bonnes réponses.";
 }
-
-loadQuestion();
