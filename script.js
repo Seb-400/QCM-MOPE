@@ -47,16 +47,14 @@ startBtn.addEventListener("click", () => {
   const selectedSubject = subjectSelect.value;
   let filteredQuestions = allQuestions.filter(q => q.subject === selectedSubject);
 
-  // Prendre 20 questions aléatoires maximum
-  if (filteredQuestions.length > 20) {
-    filteredQuestions = shuffleArray(filteredQuestions).slice(0, 20);
-  }
+  // 🔥 TIRAGE ALÉATOIRE LIMITÉ À 20
+  filteredQuestions = shuffleArray(filteredQuestions).slice(0, 20);
 
   questions = filteredQuestions;
   currentQuestionIndex = 0;
   score = 0;
   mistakes = [];
-  startTime = new Date(); // Lancer le chrono
+  startTime = new Date();
   subjectSelection.classList.add("hidden");
   quizContainer.classList.remove("hidden");
   loadQuestion();
