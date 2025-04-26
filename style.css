@@ -56,3 +56,32 @@ h1, h2 {
   margin-top: 20px;
   text-align: left;
 }
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  font-size: 18px; /* Taille texte augmentée */
+  margin: 0;
+  padding: 0;
+}
+
+#answers-form label {
+  display: block; /* 🔥 Met chaque réponse sur une nouvelle ligne */
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+
+#submit-btn {
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1.1em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+#submit-btn:hover {
+  background-color: #1976D2;
+}
