@@ -85,7 +85,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Quelle est la plage dynamique normale de loreille humaine ?",
+    "question": "Quelle est la plage dynamique normale de l'oreille humaine ?",
     "options": [
       "10-40 dB",
       "20-60 dB",
@@ -99,10 +99,10 @@
   },
   {
     "subject": "CASA",
-    "question": "Quest-ce que la presbyacousie ?",
+    "question": "Qu'est-ce que la presbyacousie ?",
     "options": [
       "Une surdité héréditaire",
-      "Une perte auditive liée à lâge",
+      "Une perte auditive liée à l'âge",
       "Un traumatisme auditif",
       "Une infection chronique"
     ],
@@ -113,7 +113,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Quel est le rôle de la trompe dEustache ?",
+    "question": "Quel est le rôle de la trompe d'Eustache ?",
     "options": [
       "Amplifier le son",
       "Équilibrer les pressions",
@@ -143,7 +143,7 @@
     "subject": "CASA",
     "question": "Les OEA (otoémissions acoustiques) sont utilisées pour :",
     "options": [
-      "Tester léquilibre",
+      "Tester l'équilibre",
       "Mesurer la conduction osseuse",
       "Évaluer la réponse des cellules ciliées",
       "Mesurer la pression tympanique"
@@ -183,11 +183,11 @@
   },
   {
     "subject": "CASA",
-    "question": "Quel organe est responsable de léquilibre ?",
+    "question": "Quel organe est responsable de l'équilibre ?",
     "options": [
       "Cochlée",
       "Canaux semi-circulaires",
-      "Trompe dEustache",
+      "Trompe d'Eustache",
       "Marteau"
     ],
     "correctAnswers": [
@@ -211,10 +211,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
+    "question": "L'oreille externe a pour fonction principale de capter les ondes sonores afin qu'elles puissent être dirigées vers l'oreille moyenne",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -223,10 +225,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
+    "question": "L'oreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers l'oreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -235,10 +239,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
+    "question": "La fonction principale de l'ectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -250,9 +256,9 @@
     "question": "La cavité tympanique se situe dans",
     "options": [
       "Le CAE",
-      "Loreille moyenne",
+      "L'oreille moyenne",
       "Le pavillon",
-      "Loreille interne"
+      "L'oreille interne"
     ],
     "correctAnswers": [
       1
@@ -264,9 +270,9 @@
     "question": "La cavité tympanique se situe dans",
     "options": [
       "Le CAE",
-      "Loreille moyenne",
+      "L'oreille moyenne",
       "Le pavillon",
-      "Loreille interne"
+      "L'oreille interne"
     ],
     "correctAnswers": [
       1
@@ -289,10 +295,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
+    "question": "L'oreille externe a pour fonction principale de capter les ondes sonores afin qu'elles puissent être dirigées vers l'oreille moyenne",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -301,10 +309,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
+    "question": "L'oreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers l'oreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -313,10 +323,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
+    "question": "La fonction principale de l'ectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -339,12 +351,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La formation de la trompe dEustache situe dans",
+    "question": "La formation de la trompe d'Eustache situe dans",
     "options": [
       "La première poche pharyngée",
       "Toutes les réponses sont correctes",
       "La première fente pharyngée",
-      "Lectoderme"
+      "L'ectoderme"
     ],
     "correctAnswers": [
       0
@@ -367,10 +379,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Entendre est un processus volontaire qui implique dautres processus cognitifs?",
+    "question": "Entendre est un processus volontaire qui implique d'autres processus cognitifs?",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -393,10 +407,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Létrier est attaché à la fenêtre ovale par le ligament annulaire.",
+    "question": "L'étrier est attaché à la fenêtre ovale par le ligament annulaire.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -405,10 +421,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La trompe dEustache chez un enfant est plus longue et plus étroite que chez un adulte. Cest pourquoi on retrouve plus souvent des pathologies de loreille moyenne comme des otites récurrentes chez les enfants.",
+    "question": "La trompe d'Eustache chez un enfant est plus longue et plus étroite que chez un adulte. C'est pourquoi on retrouve plus souvent des pathologies de l'oreille moyenne comme des otites récurrentes chez les enfants.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -419,10 +437,10 @@
     "subject": "CASA",
     "question": "La vascularisation de la cavité tympanique et de la mastoïde est faite par :",
     "options": [
-      "Les branches des Artères carotides externe et de lArtère vertébrale",
+      "Les branches des Artères carotides externe et de l'Artère vertébrale",
       "Artère vertébrale seulement",
-      "Les branches des Artères carotides interne et de lArtère vertébrale",
-      "Les branches des Artères carotides externe et interne et de lArtère vertébrale"
+      "Les branches des Artères carotides interne et de l'Artère vertébrale",
+      "Les branches des Artères carotides externe et interne et de l'Artère vertébrale"
     ],
     "correctAnswers": [
       3
@@ -431,11 +449,11 @@
   },
   {
     "subject": "CASA",
-    "question": "Quelle partie de loreille nest pas constituée de cartilage :",
+    "question": "Quelle partie de l'oreille n'est pas constituée de cartilage :",
     "options": [
-      "Lhélix",
+      "L'hélix",
       "Le tragus",
-      "Lantitragus",
+      "L'antitragus",
       "Le lobe"
     ],
     "correctAnswers": [
@@ -445,10 +463,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La trompe dEustache s' ouvre lors du bâillement ou de la déglutition, en raison de la contraction musculaire.",
+    "question": "La trompe d'Eustache s' ouvre lors du bâillement ou de la déglutition, en raison de la contraction musculaire.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -457,7 +477,7 @@
   },
   {
     "subject": "CASA",
-    "question": "La vascularisation et linnervation du pavillon auditif est fait par :",
+    "question": "La vascularisation et l'innervation du pavillon auditif est fait par :",
     "options": [
       "Aorte interne, Nerf crânien V, Nerf auriculaire du plexus brachial",
       "Artère carotide interne, Nerf facial, Nerf trijumeau et Nerf auriculaire du plexus cervical",
@@ -471,7 +491,7 @@
   },
   {
     "subject": "CASA",
-    "question": "La trompe deustache possède 2 portions :",
+    "question": "La trompe d'eustache possède 2 portions :",
     "options": [
       "1/3 portion fibro cartilagineuse et 2/3 portion osseuse",
       "1/3 portion membranaire et 2/3 portion fibro cartilagineuse",
@@ -485,10 +505,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille externe transmet londe du son à loreille interne, transformant londe sonore en onde mécanique.",
+    "question": "L'oreille externe transmet l'onde du son à l'oreille interne, transformant l'onde sonore en onde mécanique.",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -497,10 +519,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Il existe le muscle du marteau et le muscle de lenclume.",
+    "question": "Il existe le muscle du marteau et le muscle de l'enclume.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -525,10 +549,10 @@
     "subject": "CASA",
     "question": "Concernant les ligaments internes et externes",
     "options": [
-      "Les ligaments externes permettent de fixer loreille à los pariétal et les structures voisines et les ligaments internes relient les différentes structures entre elles et lui donne sa forme",
-      "Les ligaments internes permettent de fixer loreille à los temporal et les structures voisines et les ligaments externes relient les différentes structures entre elles et lui donne sa forme",
-      "Les ligaments externes permettent de fixer loreille à los temporal et les structures voisines et les ligaments internes relient les différentes structures entre elles et lui donne sa forme",
-      "Aucune réponse nest juste"
+      "Les ligaments externes permettent de fixer l'oreille à l'os pariétal et les structures voisines et les ligaments internes relient les différentes structures entre elles et lui donne sa forme",
+      "Les ligaments internes permettent de fixer l'oreille à l'os temporal et les structures voisines et les ligaments externes relient les différentes structures entre elles et lui donne sa forme",
+      "Les ligaments externes permettent de fixer l'oreille à l'os temporal et les structures voisines et les ligaments internes relient les différentes structures entre elles et lui donne sa forme",
+      "Aucune réponse n'est juste"
     ],
     "correctAnswers": [
       2
@@ -537,10 +561,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le tympan est ancré à los tympanique par le ligament annulaire qui le fixe à los temporal.",
+    "question": "Le tympan est ancré à l'os tympanique par le ligament annulaire qui le fixe à l'os temporal.",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -563,10 +589,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou lon trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de lépithélium contre lentrée de particules étrangères de poussières, insectes",
+    "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou l'on trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de l'épithélium contre l'entrée de particules étrangères de poussières, insectes...",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -589,7 +617,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Dans le labyrinthe antérieur de loreille interne nous retrouvons :",
+    "question": "Dans le labyrinthe antérieur de l'oreille interne nous retrouvons :",
     "options": [
       "Le vestibule",
       "La cochlée, le vestibule et les canaux circulaires",
@@ -605,7 +633,7 @@
     "subject": "CASA",
     "question": "Dans une coupe transversale de la cochlée, on peut délimiter 3 espaces :",
     "options": [
-      "Aucune réponse nest juste",
+      "Aucune réponse n'est juste",
       "La rampe médiane, la rampe vestibulaire et la rampe tympanique",
       "La rampe antérieure, la rampe postérieure et la rampe médiane",
       "La rampe utriculaire, la rampe vestibulaire et la rampe tympanique"
@@ -617,10 +645,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Sur la paroi externe du vestibule, se trouve la fenêtre ovale et la fenêtre ronde de la caisse du tympan de loreille moyenne.",
+    "question": "Sur la paroi externe du vestibule, se trouve la fenêtre ovale et la fenêtre ronde de la caisse du tympan de l'oreille moyenne.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -629,10 +659,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Les CCI sont de forme ovale avec la partie supérieure plus étroite. Elles sont situées près de laxe de lescargot. Les CCI sont moins nombreuses que les CCE et forment une seule rangée.",
+    "question": "Les CCI sont de forme ovale avec la partie supérieure plus étroite. Elles sont situées près de l'axe de l'escargot. Les CCI sont moins nombreuses que les CCE et forment une seule rangée.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -641,7 +673,7 @@
   },
   {
     "subject": "CASA",
-    "question": "La vascularisation et linnervation de loreille interne est permise par :",
+    "question": "La vascularisation et l'innervation de l'oreille interne est permise par :",
     "options": [
       "Le tronc cérébral et les deux artères carotides externe et artères vertébrales",
       "Le SNC et les deux artères carotides externe et artères vertébrales",
@@ -655,7 +687,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lorgane de Corti se trouve sur :",
+    "question": "L'organe de Corti se trouve sur :",
     "options": [
       "La membrane cochléaire",
       "La membrane basilaire",
@@ -669,10 +701,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La transduction sonore se fait dans le labyrinthe postérieur grâce aux cellules de lorgane de Corti.",
+    "question": "La transduction sonore se fait dans le labyrinthe postérieur grâce aux cellules de l'organe de Corti.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -681,10 +715,12 @@
   },
   {
     "subject": "CASA",
-    "question": "L'aqueduc cochléaire est un conduit osseux qui sétend de la rampe tympanique, près de la fenêtre ronde, jusquà la partie postérieure du rocher de los temporal, sous le CAI.",
+    "question": "L'aqueduc cochléaire est un conduit osseux qui s'étend de la rampe tympanique, près de la fenêtre ronde, jusqu'à la partie postérieure du rocher de l'os temporal, sous le CAI.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -695,7 +731,7 @@
     "subject": "CASA",
     "question": "Les hautes fréquences sont perçues :",
     "options": [
-      "À lapex de la membrane basilaire",
+      "À l'apex de la membrane basilaire",
       "À la base de la membrane basilaire",
       "Sur toute la longueur de la membrane basilaire",
       "Sur la partie intermédiaire de la membrane basilaire"
@@ -709,10 +745,10 @@
     "subject": "CASA",
     "question": "Les CCI sont responsables de :",
     "options": [
-      "La conversion de l'énergie mécanique en énergie électrique permettant ainsi la transduction de linformation au cortex auditif cérébral à travers la voie auditive",
-      "La conversion de l'énergie mécanique en énergie électrique permettant ainsi la conduction de linformation au système nerveux central",
-      "La conversion de l'énergie électrique en énergie mécanique permettant ainsi la transduction de linformation au cortex auditif cérébral à travers la voie auditive",
-      "La conversion de l'énergie électrique en énergie mécanique permettant ainsi la transmission de linformation au système nerveux central"
+      "La conversion de l'énergie mécanique en énergie électrique permettant ainsi la transduction de l'information au cortex auditif cérébral à travers la voie auditive",
+      "La conversion de l'énergie mécanique en énergie électrique permettant ainsi la conduction de l'information au système nerveux central",
+      "La conversion de l'énergie électrique en énergie mécanique permettant ainsi la transduction de l'information au cortex auditif cérébral à travers la voie auditive",
+      "La conversion de l'énergie électrique en énergie mécanique permettant ainsi la transmission de l'information au système nerveux central"
     ],
     "correctAnswers": [
       1
@@ -751,7 +787,7 @@
     "subject": "CASA",
     "question": "Le ganglion spiral de Corti se trouve dans :",
     "options": [
-      "Aucune réponse nest juste",
+      "Aucune réponse n'est juste",
       "Le canal de Rosenthal",
       "Le canal de Corti",
       "Le canal pétro-mastoïdien"
@@ -763,10 +799,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Lorgane de Corti se situe dans le canal cochléaire :",
+    "question": "L'organe de Corti se situe dans le canal cochléaire :",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -780,7 +818,7 @@
       "La rampe vestibulaire contient de la périlymphe et communique avec la cavité tympanique par la fenêtre ronde",
       "La rampe vestibulaire contient de la périlymphe et communique avec la cavité tympanique par la fenêtre ovale",
       "La rampe tympanique contient de la périlymphe et communique avec la cavité tympanique par la fenêtre ovale",
-      "La rampe vestibulaire contient de lendolymphe et communique avec la cavité tympanique par la fenêtre ovale"
+      "La rampe vestibulaire contient de l'endolymphe et communique avec la cavité tympanique par la fenêtre ovale"
     ],
     "correctAnswers": [
       1
@@ -803,7 +841,7 @@
   },
   {
     "subject": "CASA",
-    "question": "La cochlée communique avec loreille moyenne par :",
+    "question": "La cochlée communique avec l'oreille moyenne par :",
     "options": [
       "La fenêtre ronde et la fenêtre ovale",
       "Aucunes des deux fenêtres",
@@ -817,12 +855,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Lappareil vestibulaire est formé par :",
+    "question": "L'appareil vestibulaire est formé par :",
     "options": [
-      "Le saccule et lutricule",
-      "Lescargot",
-      "Lutricule seulement",
-      "Le saccule, lutricule et les canaux semi circulaires"
+      "Le saccule et l'utricule",
+      "L'escargot",
+      "L'utricule seulement",
+      "Le saccule, l'utricule et les canaux semi circulaires"
     ],
     "correctAnswers": [
       3
@@ -849,7 +887,7 @@
     "options": [
       "Du mouvement de rotation",
       "Du mouvement linéaire",
-      "Du mouvement dinclinaison",
+      "Du mouvement d'inclinaison",
       "Aucune réponse est juste"
     ],
     "correctAnswers": [
@@ -861,10 +899,10 @@
     "subject": "CASA",
     "question": "Il existe 2 voies auditives :",
     "options": [
-      "Une voie afférente par laquelle linformation est transmise des noyaux nerveux centraux vers la périphérie et une voie efférente qui transporte linformation de la périphérie vers les organes centraux.",
-      "Une voie efférente par laquelle linformation est transmise des noyaux nerveux centraux vers la périphérie et une voie afférente qui transporte linformation de la périphérie vers les organes centraux.",
-      "Une voie afférente par laquelle linformation est transmise du système nerveux central vers la périphérie et une voie efférente qui transporte linformation de la périphérie vers les organes centraux.",
-      "Aucune réponse nest juste."
+      "Une voie afférente par laquelle l'information est transmise des noyaux nerveux centraux vers la périphérie et une voie efférente qui transporte l'information de la périphérie vers les organes centraux.",
+      "Une voie efférente par laquelle l'information est transmise des noyaux nerveux centraux vers la périphérie et une voie afférente qui transporte l'information de la périphérie vers les organes centraux.",
+      "Une voie afférente par laquelle l'information est transmise du système nerveux central vers la périphérie et une voie efférente qui transporte l'information de la périphérie vers les organes centraux.",
+      "Aucune réponse n'est juste."
     ],
     "correctAnswers": [
       1
@@ -890,8 +928,8 @@
     "question": "Une lésion dans les aires de Brodmann et de Wernicke peut entraîner :",
     "options": [
       "La personne peut entendre parfaitement les mots et de les comprendre",
-      "La personne peut entendre parfaitement les mots, mais il lui est impossible dinterpréter leur signification.",
-      "Une lésion de cette zone entraîne une incapacité de compréhension, une perte du sens du langage et de léquilibre.",
+      "La personne peut entendre parfaitement les mots, mais il lui est impossible d'interpréter leur signification.",
+      "Une lésion de cette zone entraîne une incapacité de compréhension, une perte du sens du langage et de l'équilibre.",
       "La personne ne peut pas entendre les mots mais les comprendre"
     ],
     "correctAnswers": [
@@ -905,7 +943,7 @@
     "options": [
       "Ses fibres atteignent le thalamus.",
       "Ses fibres atteignent le cortex auditif.",
-      "Les différences interaurales de temps et dintensité sont analysées ici.",
+      "Les différences interaurales de temps et d'intensité sont analysées ici.",
       "Réponse b et c sont justes."
     ],
     "correctAnswers": [
@@ -943,10 +981,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Les PEATC (le test des potentiels évoqués auditifs du tronc cérébral sont au nombre de 5 dondes)",
+    "question": "Les PEATC (le test des potentiels évoqués auditifs du tronc cérébral sont au nombre de 5 d'ondes)",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -955,12 +995,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Laudition binaurale désigne la capacité de percevoir simultanément des sons par les deux oreilles. Elle est essentielle pour la perception et la localisation des sources sonores dans lespace. Cette détection de la direction doù provient le son est possible grâce à :",
+    "question": "L'audition binaurale désigne la capacité de percevoir simultanément des sons par les deux oreilles. Elle est essentielle pour la perception et la localisation des sources sonores dans l'espace. Cette détection de la direction d'où provient le son est possible grâce à :",
     "options": [
-      "La somme de temps darrivée et la différence dintensité sonore.",
-      "La somme de temps darrivée et la somme dintensité sonore.",
-      "La différence de temps darrivée et la somme dintensité sonore.",
-      "La différence de temps darrivée et la différence dintensité sonore."
+      "La somme de temps d'arrivée et la différence d'intensité sonore.",
+      "La somme de temps d'arrivée et la somme d'intensité sonore.",
+      "La différence de temps d'arrivée et la somme d'intensité sonore.",
+      "La différence de temps d'arrivée et la différence d'intensité sonore."
     ],
     "correctAnswers": [
       3
@@ -969,11 +1009,11 @@
   },
   {
     "subject": "CASA",
-    "question": "Le masquage auditif fait référence à linhibition quun son produit sur la perception dautres sons :",
+    "question": "Le masquage auditif fait référence à l'inhibition qu'un son produit sur la perception d'autres sons :",
     "options": [
       "Un son puissant va masquer un son plus faible.",
       "A intensité égale, le masquage est plus efficace lorsque les sons proviennent de la même direction.",
-      "A intensité sonore égale, les sons aigus sont masqués par les graves (mais pas linverse).",
+      "A intensité sonore égale, les sons aigus sont masqués par les graves (mais pas l'inverse).",
       "Toutes les réponses sont justes."
     ],
     "correctAnswers": [
@@ -1000,8 +1040,8 @@
     "question": "Le cortex auditif possède :",
     "options": [
       "Les aires 41,42 et 22 de Brodman",
-      "Laire de Wernicke",
-      "Laire 21 de Brodmann",
+      "L'aire de Wernicke",
+      "L'aire 21 de Brodmann",
       "Réponse a et b sont justes."
     ],
     "correctAnswers": [
@@ -1011,12 +1051,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La transduction auditive seffectue dans loreille interne :",
+    "question": "La transduction auditive s'effectue dans l'oreille interne :",
     "options": [
-      "Cest la conversion dune onde mécanique en une impulsion électrique. Ce signal électrique est transmis par le Nerf Cochléaire aux noyaux du SNC et au cortex cérébral, ou linformation sonore est traitée.",
-      "Cest la conversion dune impulsion électrique en une onde mécanique. Cette onde mécanique est transmise par le Nerf cochléaire aux noyaux du SNC et au cortex cérébral, ou linformation sonore est traitée.",
-      "Cest la conversion dune onde mécanique en une impulsion électrique. Ce signal électrique est transmis par le Nerf vestibulaire aux noyaux du SNC et au cortex cérébral, ou linformation sonore est traitée.",
-      "Aucune réponse nest juste."
+      "C'est la conversion d'une onde mécanique en une impulsion électrique. Ce signal électrique est transmis par le Nerf Cochléaire aux noyaux du SNC et au cortex cérébral, ou l'information sonore est traitée.",
+      "C'est la conversion d'une impulsion électrique en une onde mécanique. Cette onde mécanique est transmise par le Nerf cochléaire aux noyaux du SNC et au cortex cérébral, ou l'information sonore est traitée.",
+      "C'est la conversion d'une onde mécanique en une impulsion électrique. Ce signal électrique est transmis par le Nerf vestibulaire aux noyaux du SNC et au cortex cérébral, ou l'information sonore est traitée.",
+      "Aucune réponse n'est juste."
     ],
     "correctAnswers": [
       0
@@ -1042,7 +1082,7 @@
     "question": "La voie afférente auditive possède :",
     "options": [
       "Toutes les réponses sont justes.",
-      "Linformation atteint les deux côtés du cortex.",
+      "L'information atteint les deux côtés du cortex.",
       "Les fibres ascendantes sont homolatérales et controlatérales.",
       "Un traitement monaural et binaural."
     ],
@@ -1053,7 +1093,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Les mouvements de la tête sont détectés par les récepteurs vestibulaires et envoyé sous forme dimpulsion par :",
+    "question": "Les mouvements de la tête sont détectés par les récepteurs vestibulaires et envoyé sous forme d'impulsion par :",
     "options": [
       "Le nerf cochléaire au SNC",
       "Le nerf vestibulaire au SNC",
@@ -1083,9 +1123,9 @@
     "subject": "CASA",
     "question": "Les informations binaurales des noyaux cochléaires permettent de déterminer :",
     "options": [
-      "Si un son est plus fort dans une oreille que dans lautre.",
+      "Si un son est plus fort dans une oreille que dans l'autre.",
       "Si sa durée est différente entre les deux oreilles.",
-      "Permet lanalyse des différentes fréquences sonores reçues de la cochlée.",
+      "Permet l'analyse des différentes fréquences sonores reçues de la cochlée.",
       "Toutes les réponses sont justes."
     ],
     "correctAnswers": [
@@ -1098,8 +1138,8 @@
     "question": "Fonction de la voie efférente :",
     "options": [
       "Moduler la perception auditive, protection contre les sons de hautes intensités.",
-      "Amélioration de laudition des stimuli auditifs dans les environnements bruyants en masquant le bruit de fond.",
-      "La possibilité de lattention sélective et la régulation de la sensibilité de la cochlée",
+      "Amélioration de l'audition des stimuli auditifs dans les environnements bruyants en masquant le bruit de fond.",
+      "La possibilité de l'attention sélective et la régulation de la sensibilité de la cochlée",
       "Toutes les réponses sont justes."
     ],
     "correctAnswers": [
@@ -1109,7 +1149,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Ladaptation auditive est :",
+    "question": "L'adaptation auditive est :",
     "options": [
       "Une réponse réflexe et volontaire avec un effet protecteur.",
       "Une réponse réflexe et involontaire avec un effet protecteur.",
@@ -1140,7 +1180,9 @@
     "question": "Pour le calcul de pourcentage de perte binaurale la formule = (% valeur meilleure oreille x7) + (% valeur mauvaise oreille x1) / 8",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1149,7 +1191,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Sur un audiogramme le symbole  ]  représente :",
+    "question": "Sur un audiogramme le symbole \" ] \" représente :",
     "options": [
       "La VO de OG avec masquage",
       "La VO DE OG sans masquage",
@@ -1163,10 +1205,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Une hypoacousie mixte signifie que cest une perte qui peut toucher les hommes et les femmes ?",
+    "question": "Une hypoacousie mixte signifie que c'est une perte qui peut toucher les hommes et les femmes ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1178,7 +1222,9 @@
     "question": "Si votre patient contracte la maladie de Ménière il aura une perte plus importante dans les fréquences graves ?",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1191,7 +1237,7 @@
     "options": [
       "Selon la partie endommagée",
       "Selon la gravité de la perte",
-      "Selon lâge du patient",
+      "Selon l'âge du patient",
       "Selon la configuration de la perte"
     ],
     "correctAnswers": [
@@ -1201,7 +1247,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Le seuil dinconfort est mesuré sur les fréquences :",
+    "question": "Le seuil d'inconfort est mesuré sur les fréquences :",
     "options": [
       "1000Hz, 2000 Hz,3000 Hz et4000Hz",
       "500, 1000Hz, 2000Hz et 4000 Hz",
@@ -1232,7 +1278,9 @@
     "question": "LE PTA (Power Tone Average) ou moyenne des sons purs, se calcule selon la formule suivante : PTA = (VA 500 Hz + VA 1000Hz+VA 2000HZ) /4",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1246,7 +1294,7 @@
       "RC = (VO 500Hz +VO 1000Hz + VO 2000 Hz)/3",
       "RC = (VO 125HZ + VO 250Hz + VO 2000 Hz)/3",
       "RC = (VO 500Hz + VA 1000Hz + 2000Hz)/3",
-      "Aucune réponse nest correcte"
+      "Aucune réponse n'est correcte"
     ],
     "correctAnswers": [
       0
@@ -1255,10 +1303,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Laudiométrie conventionnelle mesure les fréquences entre 125 Hz et 6000 Hz ?",
+    "question": "L'audiométrie conventionnelle mesure les fréquences entre 125 Hz et 6000 Hz ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1269,10 +1319,10 @@
     "subject": "CASA",
     "question": "La perte neurosensorielle cochléaire et la perte neurosensorielle rétro cochléaire concernent :",
     "options": [
-      "Loreille moyenne",
-      "Loreille externe",
-      "Loreille interne",
-      "Loreille moyenne et loreille externe"
+      "L'oreille moyenne",
+      "L'oreille externe",
+      "L'oreille interne",
+      "L'oreille moyenne et l'oreille externe"
     ],
     "correctAnswers": [
       2
@@ -1281,7 +1331,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Sur un audiogramme le triangle rouge ? représente :",
+    "question": "Sur un audiogramme le triangle rouge \"?\" représente :",
     "options": [
       "La VA de OD avec masquage",
       "La VA de OG avec masquage",
@@ -1300,7 +1350,7 @@
       "L'intensité, la hauteur et la couleur.",
       "L'équilibre, la hauteur et le timbre.",
       "L'intensité, la hauteur et le timbre.",
-      "L'intensité, laudition et le timbre."
+      "L'intensité, l'audition et le timbre."
     ],
     "correctAnswers": [
       2
@@ -1309,7 +1359,7 @@
   },
   {
     "subject": "CASA",
-    "question": "A partir de quel seuil considérons-nous quil y ait une perte auditive ?",
+    "question": "A partir de quel seuil considérons-nous qu'il y ait une perte auditive ?",
     "options": [
       "40 dB HL",
       "30 dB HL",
@@ -1323,10 +1373,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Sur un audiogramme tonal, laxe vertical représente les intensités et laxe horizontal représente les fréquences ?",
+    "question": "Sur un audiogramme tonal, l'axe vertical représente les intensités et l'axe horizontal représente les fréquences ?",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1363,7 +1415,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Sur un audiogramme, une croix noire  X  représente :",
+    "question": "Sur un audiogramme, une croix noire \" X \" représente :",
     "options": [
       "La VA de OG avec masquage",
       "La VO de OD sans masquage",
@@ -1377,10 +1429,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La plage dynamique = UCL  VA ?",
+    "question": "La plage dynamique = UCL - VA ?",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1403,10 +1457,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Il existe plusieurs tailles de spéculums pour lotoscopie ?",
+    "question": "Il existe plusieurs tailles de spéculums pour l'otoscopie ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1429,10 +1485,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Il est conseillé de tenir lotoscope dans la même main que loreille examinée (main droite/oreille droite-main gauche/oreille gauche)",
+    "question": "Il est conseillé de tenir l'otoscope dans la même main que l'oreille examinée (main droite/oreille droite-main gauche/oreille gauche)",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1441,7 +1499,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lanamnèse est un questionnaire qui recueille des données auprès du patient :",
+    "question": "L'anamnèse est un questionnaire qui recueille des données auprès du patient :",
     "options": [
       "Objectives",
       "Subjectives et objectives",
@@ -1486,7 +1544,9 @@
     "question": "La manoeuvre de Toynbee crée une pression négative dans la cavité tympanique",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1498,7 +1558,9 @@
     "question": "Lors du test de Weber, nous devons placer le diapason sur la mastoïde et devant le CAE",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1510,7 +1572,9 @@
     "question": "Le test de Rinne compare la VA et la VO de la même oreille",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1519,10 +1583,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors de la mise en place de lotoscope dans loreille du patient il faut y aller vite et sèchement afin de prendre le patient par surprise ?",
+    "question": "Lors de la mise en place de l'otoscope dans l'oreille du patient il faut y aller vite et sèchement afin de prendre le patient par surprise ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1531,10 +1597,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le triangle lumineux se produit en éclairant le tympan avec une lumière artificielle. Il sagit dun reflet produit sur la membrane tympanique par la lumière et est toujours situé dans le quadrant antéroinférieur de la membrane.",
+    "question": "Le triangle lumineux se produit en éclairant le tympan avec une lumière artificielle. Il s'agit d'un reflet produit sur la membrane tympanique par la lumière et est toujours situé dans le quadrant antéroinférieur de la membrane.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1546,7 +1614,9 @@
     "question": "Les questions que nous posons ont aussi pour objectif de déterminer la capacité économique du patient à acheter des aides auditives",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1583,7 +1653,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors du test de Rinne, le patient entend mieux en voie aérienne quen voie osseuse ; nous pouvons en déduire :",
+    "question": "Lors du test de Rinne, le patient entend mieux en voie aérienne qu'en voie osseuse ; nous pouvons en déduire :",
     "options": [
       "Audition normal ou HNS",
       "HNS uniquement",
@@ -1597,10 +1667,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Si le manche du marteau est incliné vers la droite, cest loreille droite",
+    "question": "Si le manche du marteau est incliné vers la droite, c'est l'oreille droite",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1609,11 +1681,11 @@
   },
   {
     "subject": "CASA",
-    "question": "Lanamnèse est un questionnaire réalisé :",
+    "question": "L'anamnèse est un questionnaire réalisé :",
     "options": [
       "Uniquement auprès du patient",
       "Uniquement auprès de l'accompagnant",
-      "Auprès du patient et de laccompagnant",
+      "Auprès du patient et de l'accompagnant",
       "Toutes les réponses sont correctes"
     ],
     "correctAnswers": [
@@ -1623,7 +1695,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lotoscopie est une technique de base pour lexamen de :",
+    "question": "L'otoscopie est une technique de base pour l'examen de :",
     "options": [
       "CAE",
       "Tympan",
@@ -1637,10 +1709,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors de la manuvre de Valsalva, on force la fermeture de la trompe dEustache à partir du pharynx, lair entre dans les oreilles moyennes avec une pression positive et pousse la membrane vers l'extérieur, en direction du CAE (membrane tympanique bombée).",
+    "question": "Lors de la manuvre de Valsalva, on force la fermeture de la trompe d'Eustache à partir du pharynx, l'air entre dans les oreilles moyennes avec une pression positive et pousse la membrane vers l'extérieur, en direction du CAE (membrane tympanique bombée).",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1663,10 +1737,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors du test de lUCL, le seuil d'inconfort, le test consiste à pincer le patient pendant l'audiométrie ?",
+    "question": "Lors du test de l'UCL, le seuil d'inconfort, le test consiste à pincer le patient pendant l'audiométrie ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1678,7 +1754,9 @@
     "question": "Le symbole de la VA (OD) en audiométrie tonale est identique au symbole de l'audiométrie verbale ?",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1687,7 +1765,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Laudiométrie se compose :",
+    "question": "L'audiométrie se compose :",
     "options": [
       "ATL et UCL",
       "ATL",
@@ -1718,7 +1796,9 @@
     "question": "La VO est représentée par un triangle",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1727,7 +1807,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors dune audiométrie tonale avec masquage en VA, le calcul de lintensité du bruit de masquage est :",
+    "question": "Lors d'une audiométrie tonale avec masquage en VA, le calcul de l'intensité du bruit de masquage est :",
     "options": [
       "NBN Onte = VA Ote + 10dB",
       "NBN Onte = VA Onte + 10dB",
@@ -1741,10 +1821,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le masquage est un processus permettant dobtenir le seuil auditif réel lorsque les deux oreilles présentent une différence daudition significative. Lobjectif du masquage est déviter la latéralisation du son et déviter les courbes fantômes. Pour masquer, nous utilisons un bruit de masquage qui annule laudition de loreille NTE afin dobtenir la valeur réelle de l'audition de loreille TE.",
+    "question": "Le masquage est un processus permettant d'obtenir le seuil auditif réel lorsque les deux oreilles présentent une différence d'audition significative. L'objectif du masquage est d'éviter la latéralisation du son et d'éviter les courbes fantômes. Pour masquer, nous utilisons un bruit de masquage qui annule l'audition de l'oreille NTE afin d'obtenir la valeur réelle de l'audition de l'oreille TE.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1767,10 +1849,12 @@
   },
   {
     "subject": "CASA",
-    "question": "LATL nous permet de déterminer les seuils auditifs avec un stimulus tonal à différentes intensités (dBHL) à la fois par voie aérienne et par voie osseuse; à différentes fréquences entre 125 et 8000 Hz en général.",
+    "question": "L'ATL nous permet de déterminer les seuils auditifs avec un stimulus tonal à différentes intensités (dBHL) à la fois par voie aérienne et par voie osseuse; à différentes fréquences entre 125 et 8000 Hz en général.",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1779,10 +1863,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Laudiométrie est le principal test audiologique qui permet de connaître le niveau daudition de nos patients de manière objective :",
+    "question": "L'audiométrie est le principal test audiologique qui permet de connaître le niveau d'audition de nos patients de manière objective :",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1791,7 +1877,7 @@
   },
   {
     "subject": "CASA",
-    "question": "LURV, le seuil de réception verbale correspond à:",
+    "question": "L'URV, le seuil de réception verbale correspond à:",
     "options": [
       "40% de discrimination des mots",
       "60% de discrimination des mots",
@@ -1819,12 +1905,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le pourcentage de discrimination maximal sobtient un fois lURV trouvée en :",
+    "question": "Le pourcentage de discrimination maximal s'obtient un fois l'URV trouvée en :",
     "options": [
-      "Augmentant lintensité de 35 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
-      "Diminuant lintensité de 35 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
-      "Diminuant lintensité de 20 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
-      "Augmentant lintensité de 20 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites"
+      "Augmentant l'intensité de 35 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
+      "Diminuant l'intensité de 35 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
+      "Diminuant l'intensité de 20 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
+      "Augmentant l'intensité de 20 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites"
     ],
     "correctAnswers": [
       0
@@ -1850,9 +1936,9 @@
     "question": "Le crosshearing est :",
     "options": [
       "La diminution du son",
-      "Linclinaison du son",
+      "L'inclinaison du son",
       "La latéralisation du son",
-      "Lamplification du son"
+      "L'amplification du son"
     ],
     "correctAnswers": [
       2
@@ -1875,10 +1961,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le crossover est la quantité de son qui traverse le crâne de loreille TE à loreille NTE.",
+    "question": "Le crossover est la quantité de son qui traverse le crâne de l'oreille TE à l'oreille NTE.",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -1887,7 +1975,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Leffet docclusion se produit :",
+    "question": "L'effet d'occlusion se produit :",
     "options": [
       "Les seuils de voie osseuse ne sont jamais modifiés.",
       "Lorsque le CAE est obstrué",
@@ -1904,7 +1992,9 @@
     "question": "L'atténuation intéraurale ou interauriculaire, correspond à l'isolation de la cabine insonorisée ?",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -1913,7 +2003,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Laudiométrie vocale évalue à différentes intensités :",
+    "question": "L'audiométrie vocale évalue à différentes intensités :",
     "options": [
       "La discrimination",
       "L'intelligibilité",
@@ -1941,7 +2031,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Tests permettant de confirmer la présence ou labsence dun recrutement :",
+    "question": "Tests permettant de confirmer la présence ou l'absence d'un recrutement :",
     "options": [
       "Test de Metz",
       "Test de SISI",
@@ -1983,12 +2073,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le test de limpédance permet de :",
+    "question": "Le test de l'impédance permet de :",
     "options": [
-      "Connaître létat de loreille interne uniquement",
-      "Connaître létat de loreille externe",
-      "Connaître létat de loreille moyenne",
-      "Connaître létat de loreille moyenne et le réflexe endo cochléaire"
+      "Connaître l'état de l'oreille interne uniquement",
+      "Connaître l'état de l'oreille externe",
+      "Connaître l'état de l'oreille moyenne",
+      "Connaître l'état de l'oreille moyenne et le réflexe endo cochléaire"
     ],
     "correctAnswers": [
       2
@@ -1997,7 +2087,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Quels tests pouvons-nous effectuer avec limpédancemètre :",
+    "question": "Quels tests pouvons-nous effectuer avec l'impédancemètre :",
     "options": [
       "Tympanométrie",
       "Etude et seuil du réflexe stapédien",
@@ -2039,12 +2129,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Limpédance est :",
+    "question": "L'impédance est :",
     "options": [
-      "La résistance que lappareil de transmission oppose au passage de londe sonore",
-      "La résistance que lappareil réfléchit sur la membrane tympanique",
+      "La résistance que l'appareil de transmission oppose au passage de l'onde sonore",
+      "La résistance que l'appareil réfléchit sur la membrane tympanique",
       "La mobilité de la membrane tympanique",
-      "Un appareil qui mesure lintensité du nerf"
+      "Un appareil qui mesure l'intensité du nerf"
     ],
     "correctAnswers": [
       0
@@ -2070,7 +2160,7 @@
     "question": "La tympanométrie est un test :",
     "options": [
       "Subjectif",
-      "Pas dotoscopie à réaliser avant le test",
+      "Pas d'otoscopie à réaliser avant le test",
       "La motivation et la collaboration orale du patient est indispensable",
       "Objectif"
     ],
@@ -2113,7 +2203,7 @@
     "options": [
       "Hypermobilité de la membrane tympanique",
       "Courbe déplacé vers des pressions négatives et compliance maximale à des pressions inférieures à la normale",
-      "Pas de dysfonctionnement de la trompe deustache",
+      "Pas de dysfonctionnement de la trompe d'eustache",
       "Volume supérieur aux normes uniquement"
     ],
     "correctAnswers": [
@@ -2125,9 +2215,9 @@
     "subject": "CASA",
     "question": "La compliance est :",
     "options": [
-      "La capacité dabsorption de londe sonore",
+      "La capacité d'absorption de l'onde sonore",
       "La mobilité du conduit auditif externe",
-      "La capacité de transmission de londe sonore",
+      "La capacité de transmission de l'onde sonore",
       "La résistance acoustique"
     ],
     "correctAnswers": [
@@ -2141,8 +2231,8 @@
     "options": [
       "Ne présente pas de réflexe stapédien",
       "Présente un réflexe stapédien",
-      "HT généralement due à une lésion au niveau de loreille interne",
-      "Pour quil apparaisse, il faut stimuler 160 dB sur le tympanométre ce qui rend son apparition facile et mesurable"
+      "HT généralement due à une lésion au niveau de l'oreille interne",
+      "Pour qu'il apparaisse, il faut stimuler 160 dB sur le tympanométre ce qui rend son apparition facile et mesurable"
     ],
     "correctAnswers": [
       0
@@ -2179,7 +2269,7 @@
   },
   {
     "subject": "CASA",
-    "question": "La pression de loreille moyenne est la pression à laquelle se trouve la valeur maximale de distension du système, elle est généralement à :",
+    "question": "La pression de l'oreille moyenne est la pression à laquelle se trouve la valeur maximale de distension du système, elle est généralement à :",
     "options": [
       "20 daPa",
       "0 daPa",
@@ -2221,7 +2311,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Les PEATC sont composées dondes qui sont nommées par des chiffres romains de :",
+    "question": "Les PEATC sont composées d'ondes qui sont nommées par des chiffres romains de :",
     "options": [
       "I à IV",
       "I à VIII",
@@ -2235,10 +2325,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Le diagnostic tardif de lhypoacousie infantile permet un pronostic meilleur :",
+    "question": "Le diagnostic tardif de l'hypoacousie infantile permet un pronostic meilleur :",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2247,10 +2339,10 @@
   },
   {
     "subject": "CASA",
-    "question": "En général il est essentiel de réaliser lors dune perte daudition chez lenfant :",
+    "question": "En général il est essentiel de réaliser lors d'une perte d'audition chez l'enfant :",
     "options": [
       "Test de Metz et FLOWER de façon systématique",
-      "Impédancemétrie et létude du réflexe stapédien",
+      "Impédancemétrie et l'étude du réflexe stapédien",
       "Tympanométrie seulement",
       "Toutes les propositions sont fausses"
     ],
@@ -2261,10 +2353,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Les OEA sont des sons générés à lintérieur de la cochlée normale de manière spontanée ou en réponse à une stimulation acoustique, dans ce cas elles sont appelées évoquées .",
+    "question": "Les OEA sont des sons générés à l'intérieur de la cochlée normale de manière spontanée ou en réponse à une stimulation acoustique, dans ce cas elles sont appelées évoquées .",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2276,9 +2370,9 @@
     "question": "Le potentiel évoqué auditifs PEA permet :",
     "options": [
       "Toutes les propositions sont justes",
-      "Lenregistrement de lactivité électrique liée au nerf auditif",
+      "L'enregistrement de l'activité électrique liée au nerf auditif",
       "De détecter des lésions conductives, cochléaires et du nerf auditifs",
-      "Cest une méthode quantitative et qualitative objectif pour évaluer la fonction auditive"
+      "C'est une méthode quantitative et qualitative objectif pour évaluer la fonction auditive"
     ],
     "correctAnswers": [
       0
@@ -2315,7 +2409,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Lors dune neuropathie auditive :",
+    "question": "Lors d'une neuropathie auditive :",
     "options": [
       "Les OEA sont positives et les potentiels sont détectés ou sont organisés",
       "Les OEA sont négatives et les potentiels sont détectés ou sont organisés",
@@ -2345,7 +2439,7 @@
     "subject": "CASA",
     "question": "PEATC dans une HNS rétro cochléaire",
     "options": [
-      "Augmente lintervalle I-V",
+      "Augmente l'intervalle I-V",
       "Le signal circule lentement, le long du nerf",
       "Seuil augmenté",
       "Toutes les propositions sont justes"
@@ -2357,12 +2451,12 @@
   },
   {
     "subject": "CASA",
-    "question": "La perte daudition chez lenfant entraîne :",
+    "question": "La perte d'audition chez l'enfant entraîne :",
     "options": [
       "Toutes les propositions sont justes",
-      "Un retard dans lapprentissage et des répercussions psychologique",
-      "Un manque d'habileté dans lacquisition de la parole",
-      "Des troubles de la voix et des altérations dans lutilisation du langage"
+      "Un retard dans l'apprentissage et des répercussions psychologique",
+      "Un manque d'habileté dans l'acquisition de la parole",
+      "Des troubles de la voix et des altérations dans l'utilisation du langage"
     ],
     "correctAnswers": [
       0
@@ -2373,10 +2467,10 @@
     "subject": "CASA",
     "question": "PEATC dans une hypoacousie de transmission",
     "options": [
-      "Augmente le seuil de londe V et augmente la latence de toutes les ondes",
-      "Diminue le seuil de londe V et diminue la latence de londe VI",
-      "Diminue le seuil de londe V et diminue la latence de toutes les ondes",
-      "Augmente le seuil de londe V et augmente la latence de londe VI"
+      "Augmente le seuil de l'onde V et augmente la latence de toutes les ondes",
+      "Diminue le seuil de l'onde V et diminue la latence de l'onde VI",
+      "Diminue le seuil de l'onde V et diminue la latence de toutes les ondes",
+      "Augmente le seuil de l'onde V et augmente la latence de l'onde VI"
     ],
     "correctAnswers": [
       0
@@ -2385,12 +2479,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Limportance des PEATC est dans le fait quils :",
+    "question": "L'importance des PEATC est dans le fait qu'ils :",
     "options": [
-      "Offrent la possibilité dexplorer la voie auditive à différents niveaux et permettent destimer de manière subjective le seuil auditif dans lapex de la cochlée.",
-      "Offrent la possibilité dexplorer la voie auditive à différents niveaux et permettent destimer de manière objective le seuil auditif dans la spirale basale de la cochlée.",
-      "Offrent la possibilité dexplorer la voie auditive à différents niveaux et permettent destimer de manière subjective le seuil auditif dans la spirale basale de la cochlée.",
-      "Offrent la possibilité dexplorer la voie auditive à un seul niveau, le 1 er"
+      "Offrent la possibilité d'explorer la voie auditive à différents niveaux et permettent d'estimer de manière subjective le seuil auditif dans l'apex de la cochlée.",
+      "Offrent la possibilité d'explorer la voie auditive à différents niveaux et permettent d'estimer de manière objective le seuil auditif dans la spirale basale de la cochlée.",
+      "Offrent la possibilité d'explorer la voie auditive à différents niveaux et permettent d'estimer de manière subjective le seuil auditif dans la spirale basale de la cochlée.",
+      "Offrent la possibilité d'explorer la voie auditive à un seul niveau, le 1 er"
     ],
     "correctAnswers": [
       1
@@ -2427,10 +2521,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Si les émissions otoacoustiques ne sont pas enregistrées, il faut exclure les problèmes doreille moyenne avant de considérer la possibilité dune lésion cochléaire",
+    "question": "Si les émissions otoacoustiques ne sont pas enregistrées, il faut exclure les problèmes d'oreille moyenne avant de considérer la possibilité d'une lésion cochléaire",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -2453,7 +2549,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Létude de laudition chez les enfants comprend :",
+    "question": "L'étude de l'audition chez les enfants comprend :",
     "options": [
       "OEA ET PEA",
       "AEP ET OED",
@@ -2467,11 +2563,11 @@
   },
   {
     "subject": "CASA",
-    "question": "Test découte dichotique de chiffres EDC",
+    "question": "Test d'écoute dichotique de chiffres EDC",
     "options": [
-      "Évalue lintégration et la dissociation binaurale",
+      "Évalue l'intégration et la dissociation binaurale",
       "Test avec un stimulus sonore envoyé par voie osseuse",
-      "Évalue lintégration et lassociation binaurale",
+      "Évalue l'intégration et l'association binaurale",
       "Test dans une oreille uniquement"
     ],
     "correctAnswers": [
@@ -2485,7 +2581,8 @@
     "options": [
       "La couche la plus superficielle, l'ectoderme",
       "La couche intermédiaire, le mésoderme",
-      "La couche la plus interne, l'endoderme"
+      "La couche la plus interne, l'endoderme",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2498,7 +2595,8 @@
     "options": [
       "Fenêtre ovale",
       "Fenêtre ronde",
-      "Fenêtre dorsale"
+      "Fenêtre dorsale",
+      ""
     ],
     "correctAnswers": [
       0
@@ -2511,7 +2609,8 @@
     "options": [
       "Rampe médiane",
       "Rampe tympanique",
-      "Rampe vestibulaire"
+      "Rampe vestibulaire",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2523,7 +2622,9 @@
     "question": "Dans l'oreille interne, on distingue deux zones : le labyrinthe antérieur et le labyrinthe postérieur. Dans quelle zone se trouve la cochlée ?",
     "options": [
       "Dans le labyrinthe postérieur",
-      "Dans le labyrinthe antérieur"
+      "Dans le labyrinthe antérieur",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2536,7 +2637,8 @@
     "options": [
       "Les cellules ciliées externes",
       "Les cellules ciliées de soutien",
-      "Les cellules ciliées internes"
+      "Les cellules ciliées internes",
+      ""
     ],
     "correctAnswers": [
       0
@@ -2549,7 +2651,8 @@
     "options": [
       "L'embryoblaste",
       "Zygote",
-      "Trophoblaste"
+      "Trophoblaste",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2558,11 +2661,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Dans quel espace se trouve lendolymphe ?",
+    "question": "Dans quel espace se trouve l'endolymphe ?",
     "options": [
       "Dans l'espace qui se trouve à l'intérieur du labyrinthe osseux",
       "Dans l'espace qui se trouve à l'intérieur du labyrinthe membraneux",
-      "Dans l'espace qui se trouve entre le labyrinthe osseux et membraneux"
+      "Dans l'espace qui se trouve entre le labyrinthe osseux et membraneux",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2575,7 +2679,8 @@
     "options": [
       "Le nerf facial",
       "Le nerf auriculaire du plexus cervical",
-      "Le nerf trijumeau"
+      "Le nerf trijumeau",
+      ""
     ],
     "correctAnswers": [
       0
@@ -2627,10 +2732,12 @@
   },
   {
     "subject": "CASA",
-    "question": "Loreille est un organe pair et symétrique, située de chaque coté du crâne, dans los temporal :",
+    "question": "L'oreille est un organe pair et symétrique, située de chaque coté du crâne, dans l'os temporal :",
     "options": [
       "FAUX",
-      "VRAI"
+      "VRAI",
+      "",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2639,7 +2746,7 @@
   },
   {
     "subject": "CASA",
-    "question": "LURV théorique est le PTA ± ¿ ?:",
+    "question": "L'URV théorique est le PTA ± ¿ ?:",
     "options": [
       "20 dB HL",
       "10 dB HL",
@@ -2657,7 +2764,8 @@
     "options": [
       "Paroi supérieure, crânienne ou tegmentaire",
       "La paroi médiale, interne ou labyrinthique",
-      "Paroi postérieure, dorsale ou mastoïdienne"
+      "Paroi postérieure, dorsale ou mastoïdienne",
+      ""
     ],
     "correctAnswers": [
       1
@@ -2670,7 +2778,8 @@
     "options": [
       "Sur la membrane de Reissner",
       "Sur la strie vasculaire",
-      "Sur la membrane basilaire"
+      "Sur la membrane basilaire",
+      ""
     ],
     "correctAnswers": [
       2
@@ -2700,11 +2809,10 @@
     "options": [
       "Nerf auditif.",
       "Colliculus inférieur.",
-      "Corps géniculé médial du thalamus."
+      "Corps géniculé médial du thalamus.",
+      ""
     ],
-    "correctAnswers": [
-      0
-    ],
+    "correctAnswers": [],
     "image": ""
   },
   {
@@ -2727,7 +2835,9 @@
     "question": "Les émissions otoacoustiques sont des sons de faible intensité produits par une activité normale de la cochlée qui peuvent être mesurés à l'aide d'un microphone placé dans une sonde insérée dans le conduit auditif externe",
     "options": [
       "VRAI",
-      "FAUX"
+      "FAUX",
+      "",
+      ""
     ],
     "correctAnswers": [
       0
@@ -3424,7 +3534,7 @@
     "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, la vitesse est maximale lorsque",
     "options": [
-      "Laccélération est zéro.",
+      "L'accélération est zéro.",
       "La période est maximale.",
       "La fréquence est maximale.",
       "L'élongation est maximale"
@@ -3621,7 +3731,7 @@
     "question": "Qu'est-ce que l'impédance ?",
     "options": [
       "C'est la distance entre deux points consécutifs.",
-      "C'est la résistance quoppose un milieu aux ondes qui s'y propagent.",
+      "C'est la résistance qu'oppose un milieu aux ondes qui s'y propagent.",
       "C'est un paramètre physique lié à la perception du son.",
       "C'est le temps nécessaire à un objet pour revenir à sa position initiale."
     ],
@@ -4182,6 +4292,7 @@
     "options": [
       "Le nombre de cycles qui se produisent en une seconde",
       "Le nombre de demi-cycles compris dans une seconde",
+      "",
       "C'est la fréquence"
     ],
     "correctAnswers": [
@@ -5567,7 +5678,8 @@
     "options": [
       "Aucune des réponses ci-dessus n'est correcte.",
       "Il le déphase de 180°.",
-      "Il produit un signal de sortie en phase avec l'entrée."
+      "Il produit un signal de sortie en phase avec l'entrée.",
+      ""
     ],
     "correctAnswers": [
       2
@@ -5917,7 +6029,7 @@
       "3,5v.",
       "5v.",
       "12v.",
-      "Aucune des réponses nest correcte."
+      "Aucune des réponses n'est correcte."
     ],
     "correctAnswers": [
       1
@@ -5959,7 +6071,7 @@
       "183.",
       "155",
       "160",
-      "Aucune des réponses nest correcte"
+      "Aucune des réponses n'est correcte"
     ],
     "correctAnswers": [
       3
@@ -5970,7 +6082,7 @@
     "subject": "TEPA",
     "question": "À quoi correspond 1010 en hexadécimal ?",
     "options": [
-      "Aucune des réponses nest correcte.",
+      "Aucune des réponses n'est correcte.",
       "B.",
       "A.",
       "C."
@@ -6054,7 +6166,7 @@
     "subject": "TEPA",
     "question": "Quel nombre décimal correspond à 1010 ?",
     "options": [
-      "Aucune des réponses nest correcte",
+      "Aucune des réponses n'est correcte",
       "16",
       "15",
       "8"
@@ -6068,7 +6180,7 @@
     "subject": "TEPA",
     "question": "À quoi correspond 01101011 en hexadécimal ?",
     "options": [
-      "Aucune des réponses nest correcte",
+      "Aucune des réponses n'est correcte",
       "2C",
       "3A",
       "6B"
@@ -6124,7 +6236,7 @@
     "subject": "TEPA",
     "question": "En binaire, quel est le nombre B8 ?",
     "options": [
-      "Aucune des réponses nest correcte",
+      "Aucune des réponses n'est correcte",
       "10111000",
       "11010101",
       "11101011"
@@ -6238,7 +6350,7 @@
     "options": [
       "Des troubles musculo-squelettiques",
       "Une dermatite",
-      "De lhypoacousie",
+      "De l'hypoacousie",
       "Du stress"
     ],
     "correctAnswers": [
@@ -6251,8 +6363,8 @@
     "question": "Quel risque de sécurité est associé à la mauvaise manipulation de machines lourdes ? :",
     "options": [
       "Le stress",
-      "Lécrasement",
-      "Lexposition au bruit",
+      "L'écrasement",
+      "L'exposition au bruit",
       "Le contact avec des produits chimiques"
     ],
     "correctAnswers": [
@@ -6304,7 +6416,7 @@
   },
   {
     "subject": "IPE",
-    "question": "Quelle est lobligation des travailleurs par rapport aux normes de prévention des risques professionnels ? :",
+    "question": "Quelle est l'obligation des travailleurs par rapport aux normes de prévention des risques professionnels ? :",
     "options": [
       "Décider s'ils veulent suivre les mesures de prévention",
       "Créer leurs propres normes de sécurité",
@@ -6332,9 +6444,9 @@
   },
   {
     "subject": "IPE",
-    "question": "Laquelle de ces propositions est un exemple daccident du travail ? :",
+    "question": "Laquelle de ces propositions est un exemple d'accident du travail ? :",
     "options": [
-      "Linsomnie",
+      "L'insomnie",
       "La fatigue chronique",
       "Le stress au travail",
       "Une chute de hauteur"
@@ -6418,7 +6530,7 @@
     "subject": "IPE",
     "question": "Quelle mesure préventive se concentre sur l'élimination des contaminants de l'air sur le lieu de travail ? :",
     "options": [
-      "Lutilisation de gants",
+      "L'utilisation de gants",
       "Les protections oculaires",
       "La signalisation de sécurité",
       "Les systèmes de ventilation et d'extraction"
@@ -6432,8 +6544,8 @@
     "subject": "IPE",
     "question": "Quelle condition ergonomique défectueuse peut causer un mal de dos et des lésions articulaires ? :",
     "options": [
-      "Lutilisation de produits chimiques",
-      "Lexposition au bruit",
+      "L'utilisation de produits chimiques",
+      "L'exposition au bruit",
       "Des postures inadéquates",
       "Le stress au travail"
     ],
@@ -6448,6 +6560,7 @@
     "options": [
       "La préférence du travailleur concerné",
       "La gravité et la probabilité du risque",
+      "",
       "Le coût économique de la mesure"
     ],
     "correctAnswers": [
@@ -6711,10 +6824,10 @@
     "subject": "IPE",
     "question": "Quel article de la constitution espagnole réglemente la négociation collective ?",
     "options": [
-      "larticle 35",
-      "larticle 37",
-      "larticle 36",
-      "larticle 38"
+      "l'article 35",
+      "l'article 37",
+      "l'article 36",
+      "l'article 38"
     ],
     "correctAnswers": [
       1
@@ -6737,11 +6850,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce que la téléaudiologie ?",
+    "question": "Qu'est-ce que la téléaudiologie ?",
     "options": [
       "La mise en uvre de thérapies psychoacoustiques basées sur la reprogrammation cérébrale pour traiter la perte auditive",
       "Les initiatives visant à réduire l'utilisation d'appareils électroniques pour la santé auditive",
-      "Lapplication de techniques sonores thérapeutiques, notamment de musique classique, pour améliorer l'audition",
+      "L'application de techniques sonores thérapeutiques, notamment de musique classique, pour améliorer l'audition",
       "La prestation de services d'audition à distance, y compris la programmation à distance des aides auditives"
     ],
     "correctAnswers": [
@@ -6751,12 +6864,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel aspect de lutilisation de lintelligence artificielle (IA) révolutionne le diagnostic audiologique ?",
+    "question": "Quel aspect de l'utilisation de l'intelligence artificielle (IA) révolutionne le diagnostic audiologique ?",
     "options": [
-      "Lanalyse de grandes quantités de données auditives pour une évaluation plus précise",
+      "L'analyse de grandes quantités de données auditives pour une évaluation plus précise",
       "La simplification du processus de vente d'appareils auditifs",
-      "Larrêt des appareils auditifs",
-      "Lélimination complète de la perte auditive"
+      "L'arrêt des appareils auditifs",
+      "L'élimination complète de la perte auditive"
     ],
     "correctAnswers": [
       0
@@ -6767,10 +6880,10 @@
     "subject": "IPE",
     "question": "Quelle compétence interpersonnelle est la plus pertinente pour un audioprothésiste face à des patients frustrés par leur perte auditive ?",
     "options": [
-      "Lempathie et capacité d'écoute active pour comprendre et accompagner les patients dans leur processus d'adaptation",
+      "L'empathie et capacité d'écoute active pour comprendre et accompagner les patients dans leur processus d'adaptation",
       "La capacité à gérer les stocks de dispositifs médicaux",
       "Des connaissances avancées en biotechnologie",
-      "La capacité deffectuer des diagnostics visuels"
+      "La capacité d'effectuer des diagnostics visuels"
     ],
     "correctAnswers": [
       0
@@ -6807,11 +6920,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce qui a récemment transformé le secteur de laudiologie prothétique ?",
+    "question": "Qu'est-ce qui a récemment transformé le secteur de l'audiologie prothétique ?",
     "options": [
       "Le remplacement des appareils auditifs par des traitements pharmacologiques pour la perte auditive",
       "Le développement d'appareils auditifs numériques et la miniaturisation des composants",
-      "Lintégration de technologies analogiques pour améliorer la précision auditive",
+      "L'intégration de technologies analogiques pour améliorer la précision auditive",
       "Se concentrer sur les thérapies alternatives plutôt que sur les appareils auditifs électroniques"
     ],
     "correctAnswers": [
@@ -6821,12 +6934,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce qui représente un défi pour le secteur de laudiologie prothétique ?",
+    "question": "Qu'est-ce qui représente un défi pour le secteur de l'audiologie prothétique ?",
     "options": [
       "Les difficultés d'intégration des nouveaux développements technologiques en raison des restrictions réglementaires",
       "La réduction de la demande d'appareils auditifs en raison de l'amélioration de la santé publique",
       "Le besoin de mettre continuellement ses compétences à jour en raison de l'évolution technologique rapide",
-      "Lexcès de professionnels dans les zones urbaines qui réduit les opportunités d'emploi dans les zones rurales"
+      "L'excès de professionnels dans les zones urbaines qui réduit les opportunités d'emploi dans les zones rurales"
     ],
     "correctAnswers": [
       2
@@ -6835,11 +6948,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel est lenjeu majeur du secteur de laudiologie prothétique ?",
+    "question": "Quel est l'enjeu majeur du secteur de l'audiologie prothétique ?",
     "options": [
       "La diminution de la demande de services auditifs",
       "Le manque d'innovation technologique",
-      "Lexcès de personnel qualifié",
+      "L'excès de personnel qualifié",
       "La mise à jour continue des technologies et des méthodologies de travail"
     ],
     "correctAnswers": [
@@ -6853,7 +6966,7 @@
     "options": [
       "La maîtrise des techniques audiométriques et des logiciels de programmation d'appareils auditifs",
       "La connaissance de la pharmacologie",
-      "Lexpérience en chirurgie auditive",
+      "L'expérience en chirurgie auditive",
       "La capacité à concevoir des prothèses orthopédiques"
     ],
     "correctAnswers": [
@@ -6894,9 +7007,9 @@
     "question": "Quel facteur a accru la demande de services auditifs parmi les populations plus jeunes ?",
     "options": [
       "Une plus grande sensibilisation à la relation entre l'alimentation et la santé auditive",
-      "Lexposition accrue aux rayonnements électromagnétiques des appareils mobiles",
+      "L'exposition accrue aux rayonnements électromagnétiques des appareils mobiles",
       "La réduction de l'exposition aux environnements bruyants due à l'urbanisation",
-      "La prise de conscience de limportance de la santé auditive"
+      "La prise de conscience de l'importance de la santé auditive"
     ],
     "correctAnswers": [
       3
@@ -6905,7 +7018,7 @@
   },
   {
     "subject": "IPE",
-    "question": "La prise de conscience de limportance de la santé auditive",
+    "question": "La prise de conscience de l'importance de la santé auditive",
     "options": [
       "Le conseil en matière de réglementation des dispositifs médicaux dans le secteur fiscal",
       "Les départements d'innovation dans les entreprises de fabrication d'aides auditives",
@@ -6919,7 +7032,7 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce qui a motivé ladoption de technologies pour les soins à distance en audiologie ?",
+    "question": "Qu'est-ce qui a motivé l'adoption de technologies pour les soins à distance en audiologie ?",
     "options": [
       "Le manque de professionnels dans le secteur",
       "La pandémie de covid-19",
@@ -6933,7 +7046,7 @@
   },
   {
     "subject": "IPE",
-    "question": "Parmi les propositions suivantes, quelle est celle qui décrit correctement lobjectif principal du secteur de laudiologie prothétique ?",
+    "question": "Parmi les propositions suivantes, quelle est celle qui décrit correctement l'objectif principal du secteur de l'audiologie prothétique ?",
     "options": [
       "Étudier de nouvelles techniques pour améliorer la vision",
       "Améliorer la qualité de vie des personnes malentendantes grâce à l'adaptation et à l'entretien des appareils auditifs",
@@ -6947,12 +7060,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel est le facteur clé qui a contribué à la croissance de la demande de services daudiologie prothétique ?",
+    "question": "Quel est le facteur clé qui a contribué à la croissance de la demande de services d'audiologie prothétique ?",
     "options": [
       "La baisse de l'utilisation des appareils électroniques chez les jeunes",
-      "Le vieillissement de la population et une plus grande prise de conscience de limportance de la santé auditive à tout âge",
+      "Le vieillissement de la population et une plus grande prise de conscience de l'importance de la santé auditive à tout âge",
       "La réduction des nuisances sonores",
-      "Laugmentation des coûts des appareils auditifs"
+      "L'augmentation des coûts des appareils auditifs"
     ],
     "correctAnswers": [
       1
@@ -6965,7 +7078,7 @@
     "options": [
       "La diminution de l'employabilité",
       "La stabilité sans changements notables",
-      "Laugmentation de l'employabilité en raison du vieillissement de la population et de la sensibilisation à la perte auditive",
+      "L'augmentation de l'employabilité en raison du vieillissement de la population et de la sensibilisation à la perte auditive",
       "La diminution du nombre de professionnels formés"
     ],
     "correctAnswers": [
@@ -6975,10 +7088,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quels types dentreprises sont majoritaires dans le secteur de laudiologie prothétique ?",
+    "question": "Quels types d'entreprises sont majoritaires dans le secteur de l'audiologie prothétique ?",
     "options": [
       "Les petites et moyennes entreprises (PME)",
       "Les multinationales",
+      "",
       "Les sociétés d'état"
     ],
     "correctAnswers": [
@@ -6988,7 +7102,7 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel est le rôle dun représentant commercial dappareils auditifs ?",
+    "question": "Quel est le rôle d'un représentant commercial d'appareils auditifs ?",
     "options": [
       "Développer des techniques avancées pour intégrer les prothèses dentaires aux appareils auditifs",
       "Le conseil technique : fournir un support technique aux clients et aider les patients à choisir les produits les mieux adaptés à leurs pathologies",
@@ -7006,7 +7120,8 @@
     "options": [
       "Dans les cliniques spécialisées",
       "Dans les centres auditifs",
-      "Dans les hôpitaux et les centres de santé"
+      "Dans les hôpitaux et les centres de santé",
+      ""
     ],
     "correctAnswers": [
       3
@@ -7033,7 +7148,7 @@
     "options": [
       "Pour limiter son champ d'action professionnel.",
       "Pour se concentrer uniquement sur les technologies.",
-      "Pour améliorer lorganisation, linnovation et ladaptabilité.",
+      "Pour améliorer l'organisation, l'innovation et l'adaptabilité.",
       "Pour éviter les critiques des autres."
     ],
     "correctAnswers": [
@@ -7076,7 +7191,7 @@
       "La capacité de critiquer nos propres compétences.",
       "La perception générale de notre propre valeur et de nos capacités.",
       "La comparaison constante avec nos collègues.",
-      "Lanalyse de la valeur des autres."
+      "L'analyse de la valeur des autres."
     ],
     "correctAnswers": [
       1
@@ -7116,7 +7231,7 @@
     "question": "Quels sont les bénéfices d'une mentalité de croissance ?",
     "options": [
       "Se concentrer sur des compétences fixes.",
-      "Voir les erreurs comme des opportunités dapprentissage.",
+      "Voir les erreurs comme des opportunités d'apprentissage.",
       "Refuser les changements professionnels.",
       "Réduire les erreurs en évitant les défis."
     ],
@@ -7131,7 +7246,7 @@
     "options": [
       "Les compétences cognitives, la mémoire et la flexibilité.",
       "La performance professionnelle.",
-      "Les objectifs de lentreprise.",
+      "Les objectifs de l'entreprise.",
       "Les expériences passées, les commentaires des autres, le dialogue interne et la comparaison sociale."
     ],
     "correctAnswers": [
@@ -7158,9 +7273,9 @@
     "question": "Que comprend le plan cognitif ?",
     "options": [
       "La gestion du stress.",
-      "Lempathie et la motivation.",
-      "Les objectifs déquipe.",
-      "La flexibilité cognitive, la mémoire et la capacité danalyse."
+      "L'empathie et la motivation.",
+      "Les objectifs d'équipe.",
+      "La flexibilité cognitive, la mémoire et la capacité d'analyse."
     ],
     "correctAnswers": [
       3
@@ -7215,7 +7330,7 @@
     "options": [
       "Les assistants virtuels, les analyses de personnalité et les applications de suivi de l'humeur.",
       "Les réseaux sociaux professionnels uniquement.",
-      "Les outils de gestion déquipe.",
+      "Les outils de gestion d'équipe.",
       "Les plateformes de jeux en ligne."
     ],
     "correctAnswers": [
@@ -7243,7 +7358,7 @@
     "options": [
       "Elles définissent les objectifs des entreprises.",
       "Elles guident les décisions et l'attitude au travail.",
-      "Elles éliminent les besoins dintrospection.",
+      "Elles éliminent les besoins d'introspection.",
       "Elles servent uniquement à améliorer le CV."
     ],
     "correctAnswers": [
@@ -7257,7 +7372,7 @@
     "options": [
       "Identifier et comprendre ses émotions pour mieux les gérer.",
       "Reconnaître les émotions des autres uniquement.",
-      "Éviter les décisions influencées par lanalyse logique.",
+      "Éviter les décisions influencées par l'analyse logique.",
       "Réagir immédiatement à toutes les situations."
     ],
     "correctAnswers": [
@@ -7269,7 +7384,7 @@
     "subject": "IPE",
     "question": "Quels sont les impacts d'une perception positive de soi sur le développement professionnel ?",
     "options": [
-      "Un alignement avec les attentes de lentreprise.",
+      "Un alignement avec les attentes de l'entreprise.",
       "Une réduction du stress uniquement.",
       "Une meilleure gestion des critiques des autres.",
       "Une plus grande confiance, des relations solides et une capacité accrue à prendre des risques."
@@ -7337,10 +7452,10 @@
   },
   {
     "subject": "IPE",
-    "question": "Quels sont les risques dune mauvaise gestion de lidentité numérique ?",
+    "question": "Quels sont les risques d'une mauvaise gestion de l'identité numérique ?",
     "options": [
-      "Plus dopportunités de réseautage.",
-      "Une usurpation didentité, une atteinte à la réputation et une violation de la vie privée.",
+      "Plus d'opportunités de réseautage.",
+      "Une usurpation d'identité, une atteinte à la réputation et une violation de la vie privée.",
       "Un accès simplifié aux réseaux sociaux.",
       "Une image professionnelle plus cohérente."
     ],
@@ -7354,7 +7469,7 @@
     "question": "Qu'est-ce que l'identité numérique ?",
     "options": [
       "Un passeport virtuel pour voyager.",
-      "Une collection dinformations personnelles visibles et invisibles sur Internet.",
+      "Une collection d'informations personnelles visibles et invisibles sur Internet.",
       "Un résumé de publications universitaires.",
       "Une plateforme pour créer un CV."
     ],
@@ -7365,7 +7480,7 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel outil facilite la gestion de projets dapprentissage ?",
+    "question": "Quel outil facilite la gestion de projets d'apprentissage ?",
     "options": [
       "Quora.",
       "Trello.",
@@ -7421,9 +7536,9 @@
   },
   {
     "subject": "IPE",
-    "question": "Pourquoi est-il important dévaluer périodiquement un PDP (plan de développement personnel) ?",
+    "question": "Pourquoi est-il important d'évaluer périodiquement un PDP (plan de développement personnel) ?",
     "options": [
-      "Pour obtenir des commentaires damis.",
+      "Pour obtenir des commentaires d'amis.",
       "Pour supprimer les étapes intermédiaires.",
       "Pour réduire le temps passé sur les objectifs.",
       "Pour mesurer les progrès et ajuster les stratégies si nécessaire."
@@ -7435,12 +7550,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quels sont les éléments clés dun PLE ?",
+    "question": "Quels sont les éléments clés d'un PLE ?",
     "options": [
       "Des professeurs qualifiés et des examens obligatoires.",
       "Des livres accompagnés de cours en présentiel.",
       "Des plateformes en ligne uniquement.",
-      "Des outils numériques, des réseaux dapprentissage, des stratégies et des ressources."
+      "Des outils numériques, des réseaux d'apprentissage, des stratégies et des ressources."
     ],
     "correctAnswers": [
       3
@@ -7449,12 +7564,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Pourquoi la protection des données personnelles est-elle importante pour lemploi ?",
+    "question": "Pourquoi la protection des données personnelles est-elle importante pour l'emploi ?",
     "options": [
       "Pour assurer la conformité aux lois comme le RGPD et protéger les informations professionnelles.",
       "Pour partager des données financières avec des collègues.",
       "Pour faciliter les discussions avec les employeurs.",
-      "Pour éviter les entretiens dembauche."
+      "Pour éviter les entretiens d'embauche."
     ],
     "correctAnswers": [
       0
@@ -7477,10 +7592,10 @@
   },
   {
     "subject": "IPE",
-    "question": "Comment Slack peut-il aider dans lapprentissage ?",
+    "question": "Comment Slack peut-il aider dans l'apprentissage ?",
     "options": [
       "En diffusant des podcasts sur la santé mentale.",
-      "En générant des certificats détudes.",
+      "En générant des certificats d'études.",
       "En facilitant la communication en groupe sur des sujets spécifiques.",
       "En créant des vidéos éducatives."
     ],
@@ -7505,9 +7620,9 @@
   },
   {
     "subject": "IPE",
-    "question": "Qu'est-ce quune empreinte numérique ?",
+    "question": "Qu'est-ce qu'une empreinte numérique ?",
     "options": [
-      "Un certificat dapprentissage en ligne.",
+      "Un certificat d'apprentissage en ligne.",
       "Une méthode pour effacer tout contenu.",
       "Une nouvelle technologie de protection des données.",
       "Une série de données laissées sur Internet, souvent difficiles à supprimer complètement."
@@ -7550,7 +7665,7 @@
     "question": "Qu'est-ce qu'un PLN (Personal Learning Network) ?",
     "options": [
       "Un programme de cours universitaire.",
-      "Une méthode denseignement en classe.",
+      "Une méthode d'enseignement en classe.",
       "Un outil pour créer des graphiques.",
       "Un réseau de communication professionnel avec des experts et des ressources."
     ],
@@ -7575,12 +7690,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel est lun des principaux avantages dun environnement dapprentissage personnel (PLE) ?",
+    "question": "Quel est l'un des principaux avantages d'un environnement d'apprentissage personnel (PLE) ?",
     "options": [
       "Il ne fonctionne que pour les étudiants universitaires",
       "Il remplace totalement les formations en présentiel",
       "Il oblige les apprenants à suivre un programme fixe",
-      "Il permet de personnaliser lapprentissage en fonction des besoins et intérêts de chacun"
+      "Il permet de personnaliser l'apprentissage en fonction des besoins et intérêts de chacun"
     ],
     "correctAnswers": [
       3
@@ -7589,11 +7704,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce que lanalyse du potentiel professionnel ?",
+    "question": "Qu'est-ce que l'analyse du potentiel professionnel ?",
     "options": [
-      "Une technique utilisée seulement pour les entretiens dembauche",
-      "Un processus permettant didentifier les compétences, aptitudes et valeurs professionnelles",
-      "Une méthode pour évaluer uniquement les compétences techniques dune personne",
+      "Une technique utilisée seulement pour les entretiens d'embauche",
+      "Un processus permettant d'identifier les compétences, aptitudes et valeurs professionnelles",
+      "Une méthode pour évaluer uniquement les compétences techniques d'une personne",
       "Un test psychologique obligatoire avant de postuler à un emploi"
     ],
     "correctAnswers": [
@@ -7620,7 +7735,7 @@
     "question": "Parmi ces options, laquelle est une mesure de prévention collective en entreprise ?",
     "options": [
       "L'achat d'équipements de protection individuelle (EPI)",
-      "Lutilisation dun casque de protection",
+      "L'utilisation d'un casque de protection",
       "Le port de gants de sécurité par les travailleurs",
       "La mise en place de garde-corps et de filets de sécurité"
     ],
@@ -7631,12 +7746,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Pourquoi est-il important dévaluer périodiquement ses progrès dans un plan de développement personnel (PDP) ?",
+    "question": "Pourquoi est-il important d'évaluer périodiquement ses progrès dans un plan de développement personnel (PDP) ?",
     "options": [
       "Parce que toutes les compétences peuvent être développées en un temps limité",
-      "Parce que lauto-évaluation na pas dimpact sur lévolution professionnelle",
+      "Parce que l'auto-évaluation n'a pas d'impact sur l'évolution professionnelle",
       "Pour identifier les réussites et ajuster les objectifs en fonction des besoins",
-      "Pour éviter complètement les erreurs dans le processus dapprentissage"
+      "Pour éviter complètement les erreurs dans le processus d'apprentissage"
     ],
     "correctAnswers": [
       2
@@ -7663,8 +7778,8 @@
     "options": [
       "Partager publiquement toutes ses informations personnelles pour être transparent",
       "Publier son adresse et numéro de téléphone sur les réseaux sociaux",
-      "Utiliser des mots de passe forts et lauthentification en deux étapes",
-      "Éviter complètement lutilisation des plateformes en ligne"
+      "Utiliser des mots de passe forts et l'authentification en deux étapes",
+      "Éviter complètement l'utilisation des plateformes en ligne"
     ],
     "correctAnswers": [
       2
@@ -7675,8 +7790,8 @@
     "subject": "IPE",
     "question": "Pourquoi la formation continue est-elle essentielle pour un audioprothésiste ?",
     "options": [
-      "Pour apprendre de nouvelles techniques et sadapter aux évolutions technologiques",
-      "Pour éviter davoir à travailler en contact avec les patients",
+      "Pour apprendre de nouvelles techniques et s'adapter aux évolutions technologiques",
+      "Pour éviter d'avoir à travailler en contact avec les patients",
       "Parce que les appareils auditifs ne changent jamais et il faut répéter les mêmes connaissances",
       "Pour obtenir un meilleur salaire sans changer de poste"
     ],
@@ -7687,12 +7802,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quest-ce que lapprentissage autonome ?",
+    "question": "Qu'est-ce que l'apprentissage autonome ?",
     "options": [
-      "Une approche dapprentissage réservée uniquement aux experts",
+      "Une approche d'apprentissage réservée uniquement aux experts",
       "Un système éducatif rigide basé sur des examens fréquents",
-      "La capacité de gérer son propre processus dapprentissage de manière indépendante",
-      "Une méthode dapprentissage qui dépend entièrement des professeurs"
+      "La capacité de gérer son propre processus d'apprentissage de manière indépendante",
+      "Une méthode d'apprentissage qui dépend entièrement des professeurs"
     ],
     "correctAnswers": [
       2
@@ -7715,12 +7830,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Quel est lavantage principal dune auto-analyse SWOT pour lemploi ?",
+    "question": "Quel est l'avantage principal d'une auto-analyse SWOT pour l'emploi ?",
     "options": [
       "Elle est utilisée uniquement par les recruteurs pour évaluer un candidat",
-      "Elle permet déviter complètement les faiblesses professionnelles",
+      "Elle permet d'éviter complètement les faiblesses professionnelles",
       "Elle identifie les forces, faiblesses, menaces et opportunités pour mieux orienter sa carrière",
-      "Elle na aucun impact sur le développement de carrière"
+      "Elle n'a aucun impact sur le développement de carrière"
     ],
     "correctAnswers": [
       2
@@ -7743,12 +7858,12 @@
   },
   {
     "subject": "IPE",
-    "question": "Pourquoi ladaptabilité est-elle une compétence clé sur le marché du travail ?",
+    "question": "Pourquoi l'adaptabilité est-elle une compétence clé sur le marché du travail ?",
     "options": [
-      "Parce quelle remplace complètement les compétences techniques",
-      "Parce quelle nest utile que dans les métiers du secteur digital",
-      "Parce quelle aide à sajuster aux nouvelles technologies et aux évolutions du marché",
-      "Parce quelle permet de changer constamment demploi sans difficulté"
+      "Parce qu'elle remplace complètement les compétences techniques",
+      "Parce qu'elle n'est utile que dans les métiers du secteur digital",
+      "Parce qu'elle aide à s'ajuster aux nouvelles technologies et aux évolutions du marché",
+      "Parce qu'elle permet de changer constamment d'emploi sans difficulté"
     ],
     "correctAnswers": [
       2
@@ -7771,11 +7886,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quelle est une obligation fondamentale de lemployeur en matière de sécurité sociale ?",
+    "question": "Quelle est une obligation fondamentale de l'employeur en matière de sécurité sociale ?",
     "options": [
       "Laisser les travailleurs choisir s'ils veulent être inscrits à la sécurité sociale",
-      "Utiliser la sécurité sociale uniquement en cas daccident grave",
-      "Inscrire ses travailleurs à la sécurité sociale avant quils commencent à travailler",
+      "Utiliser la sécurité sociale uniquement en cas d'accident grave",
+      "Inscrire ses travailleurs à la sécurité sociale avant qu'ils commencent à travailler",
       "Ne pas cotiser pour ses employés"
     ],
     "correctAnswers": [
@@ -7787,7 +7902,7 @@
     "subject": "IPE",
     "question": "Quel est un des droits fondamentaux des travailleurs selon le statut des travailleurs en Espagne ?",
     "options": [
-      "Le droit de fixer son propre salaire sans accord avec lemployeur",
+      "Le droit de fixer son propre salaire sans accord avec l'employeur",
       "L'obligation d'accepter tout changement de contrat sans justification",
       "L'obligation de travailler sans repos hebdomadaire",
       "Le droit à la sécurité et à la santé au travail"
@@ -7799,11 +7914,11 @@
   },
   {
     "subject": "IPE",
-    "question": "Quelle est la principale prestation offerte par la sécurité sociale en cas dinvalidité temporaire ?",
+    "question": "Quelle est la principale prestation offerte par la sécurité sociale en cas d'invalidité temporaire ?",
     "options": [
       "Une exonération des impôts professionnels",
       "Une indemnisation basée sur un pourcentage du salaire du travailleur",
-      "Une augmentation automatique du salaire de lemployé",
+      "Une augmentation automatique du salaire de l'employé",
       "Un congé sans rémunération jusqu'à la récupération"
     ],
     "correctAnswers": [
@@ -7816,7 +7931,7 @@
     "question": "Parmi les compétences essentielles d'un technicien en audiologie prothétique, laquelle est la plus importante ?",
     "options": [
       "La capacité à vendre des prothèses auditives sans consultation",
-      "La capacité à diagnostiquer les maladies de loreille interne sans examen médical",
+      "La capacité à diagnostiquer les maladies de l'oreille interne sans examen médical",
       "L'expertise en gestion d'entreprise pour maximiser les profits",
       "La maîtrise des techniques de réglage et d'adaptation des appareils auditifs"
     ],
@@ -7841,9 +7956,9 @@
   },
   {
     "subject": "IPE",
-    "question": "Quelle est limportance de la connaissance de soi dans la croissance professionnelle ?",
+    "question": "Quelle est l'importance de la connaissance de soi dans la croissance professionnelle ?",
     "options": [
-      "Elle sert uniquement à améliorer lestime de soi sans impact sur la carrière",
+      "Elle sert uniquement à améliorer l'estime de soi sans impact sur la carrière",
       "Elle permet de mieux comprendre ses motivations et ses limites",
       "Elle ne concerne que les personnes travaillant dans le secteur de la psychologie",
       "Elle garantit automatiquement une promotion au travail"
@@ -7855,7 +7970,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Pourquoi dit-on que les phonèmes nont pas de signification propre?",
+    "question": "Pourquoi dit-on que les phonèmes n'ont pas de signification propre?",
     "options": [
       "Parce qu'ils sont utilisés seulement dans la parole et non dans l'écrit",
       "Parce qu'ils ne possèdent pas de sens en eux-mêmes mais servent à distinguer des mots",
@@ -7883,7 +7998,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Quels sont les signes dalerte indiquant un retard dans le développement du langage chez un enfant?",
+    "question": "Quels sont les signes d'alerte indiquant un retard dans le développement du langage chez un enfant?",
     "options": [
       "Production sonore limitée à 12 mois, mais capacité à former des mots simples",
       "Absence de phrases complètes à 3 ans et pas de production sonore avant 6 mois",
@@ -7897,9 +8012,9 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelle est la conséquence principale dune perte auditive prélinguale sur le développement du langage?",
+    "question": "Quelle est la conséquence principale d'une perte auditive prélinguale sur le développement du langage?",
     "options": [
-      "Un retard significatif de lacquisition du langage si elle nest pas diagnostiquée et traitée à temps",
+      "Un retard significatif de l'acquisition du langage si elle n'est pas diagnostiquée et traitée à temps",
       "Une réduction temporaire des capacités de lecture",
       "Une difficulté à utiliser des appareils auditifs efficaces",
       "Une perte de vocabulaire limitée à la communication écrite"
@@ -7967,7 +8082,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelle est la fonction principale de laire de Wernicke dans le traitement du langage?",
+    "question": "Quelle est la fonction principale de l'aire de Wernicke dans le traitement du langage?",
     "options": [
       "Planifier et organiser les gestes de la parole",
       "Contrôler l'articulation des mots et la production des sons",
@@ -7981,12 +8096,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Comment les traits distinctifs des phonèmes influencent-ils la signification dun mot?",
+    "question": "Comment les traits distinctifs des phonèmes influencent-ils la signification d'un mot?",
     "options": [
       "Ils permettent de distinguer des mots en fonction des variations dans leur structure sonore",
       "Ils aident à structurer les phrases en fonction du contexte sémantique",
       "Ils ajoutent des significations supplémentaires aux mots selon leur utilisation",
-      "Ils définissent la grammaire dune langue à travers des systèmes de règles"
+      "Ils définissent la grammaire d'une langue à travers des systèmes de règles"
     ],
     "correctAnswers": [
       2
@@ -7995,12 +8110,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Quest-ce que la redondance dans la communication linguistique, et pourquoi est-elle importante?",
+    "question": "Qu'est-ce que la redondance dans la communication linguistique, et pourquoi est-elle importante?",
     "options": [
-      "Cest lutilisation dun vocabulaire simple pour éviter toute confusion lors de la transmission",
-      "C'est la répétition intentionnelle dun message pour améliorer sa clarté en présence dinterférences",
-      "Cest laugmentation du volume sonore pour garantir que le message est bien entendu par le récepteur",
-      "Cest la réduction de la complexité des phrases afin de les rendre plus compréhensibles pour les enfants et les personnes âgées"
+      "C'est l'utilisation d'un vocabulaire simple pour éviter toute confusion lors de la transmission",
+      "C'est la répétition intentionnelle d'un message pour améliorer sa clarté en présence d'interférences",
+      "C'est l'augmentation du volume sonore pour garantir que le message est bien entendu par le récepteur",
+      "C'est la réduction de la complexité des phrases afin de les rendre plus compréhensibles pour les enfants et les personnes âgées"
     ],
     "correctAnswers": [
       1
@@ -8039,9 +8154,9 @@
     "subject": "ACV",
     "question": "Quelles sont les répercussions d'une hypoacousie non traitée de manière précoce sur le développement cognitif et social des sourds profonds prélinguistique?",
     "options": [
-      "Ils auront un déficit dinformation en raison dun code communicatif-linguistique de moindre qualité que celui du langage oral, et leur interaction sera moins efficace et précise",
+      "Ils auront un déficit d'information en raison d'un code communicatif-linguistique de moindre qualité que celui du langage oral, et leur interaction sera moins efficace et précise",
       "Ils auront un développement cognitif et social similaire aux entendants s'ils utilisent la langue des signes",
-      "Leur développement cognitif sera plus rapide grâce à lutilisation de stratégies compensatoires non verbales",
+      "Leur développement cognitif sera plus rapide grâce à l'utilisation de stratégies compensatoires non verbales",
       "Ils auront des difficultés seulement dans la compréhension de concepts abstraits, mais leur développement social restera intact"
     ],
     "correctAnswers": [
@@ -8051,7 +8166,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Quel trouble est caractérisé par une incapacité à identifier des objets par le son, malgré un organe sensoriel de louïe fonctionnant normalement?",
+    "question": "Quel trouble est caractérisé par une incapacité à identifier des objets par le son, malgré un organe sensoriel de l'ouïe fonctionnant normalement?",
     "options": [
       "La dyslalie",
       "L'agnosie",
@@ -8081,7 +8196,7 @@
     "subject": "ACV",
     "question": "Quel facteur est crucial pour minimiser les conséquences d'une perte auditive?",
     "options": [
-      "Le moment où lappareillage est réalisé",
+      "Le moment où l'appareillage est réalisé",
       "Les caractéristiques individuelles",
       "L'âge de détection de la surdité",
       "L'environnement scolaire et familial"
@@ -8097,7 +8212,7 @@
     "options": [
       "La dyslalie est causée par des malformations des organes phonatoires, tandis que la dysglossie est un trouble psychologique",
       "La dyslalie est due à des problèmes organiques, tandis que la dysglossie est causée par des erreurs de prononciation",
-      "La dyslalie est une erreur de prononciation causée par des problèmes dintériorisation des phonèmes, alors que la dysglossie est due à des malformations des organes phonatoires",
+      "La dyslalie est une erreur de prononciation causée par des problèmes d'intériorisation des phonèmes, alors que la dysglossie est due à des malformations des organes phonatoires",
       "La dyslalie est un trouble du langage lié à des lésions cérébrales, tandis que la dysglossie est causée par des problèmes de prononciation sans cause organique"
     ],
     "correctAnswers": [
@@ -8219,7 +8334,7 @@
   },
   {
     "subject": "ACV",
-    "question": "La fréquence de vibration des cordes vocales chez un homme adulte est denviron :",
+    "question": "La fréquence de vibration des cordes vocales chez un homme adulte est d'environ :",
     "options": [
       "120 Hz",
       "350 Hz",
@@ -8235,10 +8350,10 @@
     "subject": "ACV",
     "question": "Quelle est la tâche des organes phonatoires ?",
     "options": [
-      "Modifier lair pour créer des différents sons",
+      "Modifier l'air pour créer des différents sons",
       "Toutes les réponses sont correctes",
-      "Mettre lair en mouvement",
-      "Créer un courant dair"
+      "Mettre l'air en mouvement",
+      "Créer un courant d'air"
     ],
     "correctAnswers": [
       1
@@ -8249,7 +8364,7 @@
     "subject": "ACV",
     "question": "Comment se produisent les sons oraux ?",
     "options": [
-      "Ils se produisent lorsque les lèvres se ferment et lair sort par le nez",
+      "Ils se produisent lorsque les lèvres se ferment et l'air sort par le nez",
       "Ils se produisent lorsque le palais mou ferme la cavité buccale et que l'air passe par la cavité nasale",
       "Ils se produisent lorsque les cavités buccales et nasales sont ouvertes simultanément",
       "Ils se produisent lorsque le velum est attaché à la paroi du pharynx et que l'air passe à travers la cavité buccale"
@@ -8293,8 +8408,8 @@
     "options": [
       "le temps de réverbération, le niveau du signal audio et le bruit",
       "le bruit, la température de la pièce et le temps de réverbération",
-      "le temps de réverbération, le niveau du signal audio et léclairage",
-      "le niveau du signal audio, le bruit et la durée dune conversation"
+      "le temps de réverbération, le niveau du signal audio et l'éclairage",
+      "le niveau du signal audio, le bruit et la durée d'une conversation"
     ],
     "correctAnswers": [
       0
@@ -8308,7 +8423,7 @@
       "lorsqu'elle est produite entre les fréquences de 20 à 100 Hz",
       "lorsqu'elle est inférieure à 500 Hz",
       "lorsqu'elle est en dessous du seuil d'inconfort",
-      "lorsqu'elle est au-dessus de lUCL"
+      "lorsqu'elle est au-dessus de l'UCL"
     ],
     "correctAnswers": [
       3
@@ -8345,7 +8460,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Larchiphonème /B/ est le résultat de la neutralisation des phonèmes :",
+    "question": "L'archiphonème /B/ est le résultat de la neutralisation des phonèmes :",
     "options": [
       "/m/ et /n/",
       "/t/ et /d/",
@@ -8392,7 +8507,7 @@
       "lorsqu'un locuteur utilise un ton très élevé",
       "lorsqu'un son est plus fort que le bruit ambiant et que les voyelles sont inintelligibles",
       "lorsqu'un son fort masque entièrement un autre son",
-      "lorsqu'un son faible est masqué et les sons qui véhiculent le plus dinformations sont perdus"
+      "lorsqu'un son faible est masqué et les sons qui véhiculent le plus d'informations sont perdus"
     ],
     "correctAnswers": [
       3
@@ -8473,9 +8588,9 @@
     "subject": "ACV",
     "question": "Lorsqu'on parle de la neutralisation des phonèmes selon la position dans la chaîne parlée, on fait référence à :",
     "options": [
-      "larchiphonème",
+      "l'archiphonème",
       "le son",
-      "lallophone",
+      "l'allophone",
       "le graphème"
     ],
     "correctAnswers": [
@@ -8485,7 +8600,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Quel est le point darticulation de la consonne [k] ?",
+    "question": "Quel est le point d'articulation de la consonne [k] ?",
     "options": [
       "Vélaire",
       "Alvéolaire",
@@ -8502,7 +8617,7 @@
     "question": "Que représente le triangle acoustique des voyelles ?",
     "options": [
       "Un modèle de production articulatoire",
-      "Une mesure de lintensité vocale",
+      "Une mesure de l'intensité vocale",
       "Une classification des consonnes",
       "Une représentation graphique des fréquences des formants"
     ],
@@ -8513,9 +8628,9 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelle relation existe-t-il entre louverture de la cavité buccale et le premier formant (F1)?",
+    "question": "Quelle relation existe-t-il entre l'ouverture de la cavité buccale et le premier formant (F1)?",
     "options": [
-      "Il ny a aucune relation",
+      "Il n'y a aucune relation",
       "Plus la cavité est fermée, plus F1 est haut",
       "Plus la cavité est ouverte, plus F1 est haut",
       "Plus la cavité est ouverte, plus F1 est bas"
@@ -8527,7 +8642,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Une consonne _______ est produite lorsque lair passe entre les dents et la lèvre inférieure, comme le son [f].",
+    "question": "Une consonne _______ est produite lorsque l'air passe entre les dents et la lèvre inférieure, comme le son [f].",
     "options": [
       "Occlusive",
       "Labiodentale",
@@ -8543,10 +8658,10 @@
     "subject": "ACV",
     "question": "La classification articulatoire des consonnes se base sur :",
     "options": [
-      "Le mode et le lieu darticulation.",
-      "La fréquence et lintensité.",
+      "Le mode et le lieu d'articulation.",
+      "La fréquence et l'intensité.",
       "La longueur et la nasalité.",
-      "Lintonation et le volume sonore."
+      "L'intonation et le volume sonore."
     ],
     "correctAnswers": [
       0
@@ -8555,11 +8670,11 @@
   },
   {
     "subject": "ACV",
-    "question": "Quest-ce que le ton fondamental ?",
+    "question": "Qu'est-ce que le ton fondamental ?",
     "options": [
-      "Lénergie du son",
+      "L'énergie du son",
       "La fréquence la plus basse perçue dans un son",
-      "La fréquence la plus haute dun son",
+      "La fréquence la plus haute d'un son",
       "La durée du son"
     ],
     "correctAnswers": [
@@ -8569,7 +8684,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles",
+    "question": "Dans les voyelles...",
     "options": [
       "intervient pour leur production le palais avec la langue.",
       "nous pouvons les classifier selon leur mode d'occlusion en hautes, moyennes ou bases.",
@@ -8586,9 +8701,9 @@
     "question": "Quelle est la principale caractéristique d'une consonne occlusive ?",
     "options": [
       "Une fermeture complète des organes articulatoires.",
-      "Un blocage de lair dans la cavité nasale.",
+      "Un blocage de l'air dans la cavité nasale.",
       "Une vibration constante des cordes vocales.",
-      "Un passage libre de lair."
+      "Un passage libre de l'air."
     ],
     "correctAnswers": [
       0
@@ -8597,12 +8712,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Quel paramètre acoustique est principalement influencé par larrondissement des lèvres ?",
+    "question": "Quel paramètre acoustique est principalement influencé par l'arrondissement des lèvres ?",
     "options": [
       "F3",
       "F1",
       "F2",
-      "Lintensité"
+      "L'intensité"
     ],
     "correctAnswers": [
       2
@@ -8613,10 +8728,10 @@
     "subject": "ACV",
     "question": "Pourquoi la lecture labio-faciale est-elle essentielle pour les malentendants ?",
     "options": [
-      "Parce quelle améliore larticulation",
-      "Parce quelle permet dentendre les basses fréquences",
-      "Parce quelle remplace totalement laudition",
-      "Parce quelle aide à comprendre la parole en labsence daudition"
+      "Parce qu'elle améliore l'articulation",
+      "Parce qu'elle permet d'entendre les basses fréquences",
+      "Parce qu'elle remplace totalement l'audition",
+      "Parce qu'elle aide à comprendre la parole en l'absence d'audition"
     ],
     "correctAnswers": [
       3
@@ -8627,7 +8742,7 @@
     "subject": "ACV",
     "question": "Quelle est la relation entre F1 et la hauteur de la langue ?",
     "options": [
-      "Il ny a pas de relation",
+      "Il n'y a pas de relation",
       "Plus la langue est haute, plus F1 est élevé",
       "Plus la langue est haute, plus F1 est bas",
       "Plus la langue est en avant, plus F1 est haut"
@@ -8656,8 +8771,8 @@
     "question": "Quel instrument permet de visualiser les variations d'amplitude de la parole dans le temps ?",
     "options": [
       "Le sonogramme",
-      "Loscillogramme",
-      "Laudiogramme",
+      "L'oscillogramme",
+      "L'audiogramme",
       "Le spectrogramme"
     ],
     "correctAnswers": [
@@ -8667,7 +8782,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles rétroflexes",
+    "question": "Dans les voyelles rétroflexes...",
     "options": [
       "Dans les voyelles rétroflexes, la pointe de la langue est courbée vers l'intérieur.",
       "la bas de la langue est courbée vers l'intérieur.",
@@ -8695,7 +8810,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles nasales",
+    "question": "Dans les voyelles nasales...",
     "options": [
       "le voile du palais est séparé de la paroi pharyngée postérieure, de sorte que le passage nasal est ouvert et que l'air rentre par le nez et la bouche.",
       "le voile du palais est séparé de la paroi pharyngée postérieure, de sorte que le passage nasal est ouvert et que l'air sort par le nez et la bouche.",
@@ -8709,9 +8824,9 @@
   },
   {
     "subject": "ACV",
-    "question": "Comment différencie-t-on une consonne dune voyelle ?",
+    "question": "Comment différencie-t-on une consonne d'une voyelle ?",
     "options": [
-      "Les consonnes nont pas de vibration des cordes vocales.",
+      "Les consonnes n'ont pas de vibration des cordes vocales.",
       "Les consonnes impliquent un obstacle articulatoire.",
       "Les voyelles sont toujours nasales.",
       "Les voyelles ne nécessitent pas de souffle."
@@ -8726,9 +8841,9 @@
     "question": "Quel est le rôle principal des formants dans la parole ?",
     "options": [
       "Différencier les voyelles",
-      "Déterminer la durée dun son",
+      "Déterminer la durée d'un son",
       "Identifier la fréquence fondamentale",
-      "Réguler lintensité"
+      "Réguler l'intensité"
     ],
     "correctAnswers": [
       0
@@ -8737,12 +8852,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Quel paramètre acoustique est lié à la nasalité dun son ?",
+    "question": "Quel paramètre acoustique est lié à la nasalité d'un son ?",
     "options": [
       "La modification de F3",
       "La réduction de F2",
       "La variation de la durée",
-      "Laugmentation de F1"
+      "L'augmentation de F1"
     ],
     "correctAnswers": [
       0
@@ -8767,7 +8882,7 @@
     "subject": "ACV",
     "question": "Comment se produisent les sons oronasaux ?",
     "options": [
-      "Ils se produisent lorsque les lèvres se ferment et lair sort par le nez",
+      "Ils se produisent lorsque les lèvres se ferment et l'air sort par le nez",
       "Ils se produisent lorsque le velum est attaché à la paroi du pharynx et que l'air passe à travers la cavité buccale",
       "Ils se produisent lorsque le palais mou ferme la cavité buccale et que l'air passe par la cavité nasale",
       "Ils se produisent lorsque les cavités buccales et nasales sont ouvertes simultanément"
@@ -8779,7 +8894,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les aires cérébrales, laire de Broca est :",
+    "question": "Dans les aires cérébrales, l'aire de Broca est :",
     "options": [
       "Localisé dans le lobe frontal gauche, elle transforme les pensées en mots",
       "Localisé dans le lobe frontal gauche, elle transforme les mots en pensées",
@@ -8796,9 +8911,9 @@
     "question": "Dans quelle situation le masquage partiel est-il fréquent ?",
     "options": [
       "En écoutant la radio à faible volume seul.",
-      "Lors dune réunion de famille avec bruit ambiant.",
-      "Lors dun concert symphonique.",
-      "Lors dun examen auditif dans une cabine insonorisée."
+      "Lors d'une réunion de famille avec bruit ambiant.",
+      "Lors d'un concert symphonique.",
+      "Lors d'un examen auditif dans une cabine insonorisée."
     ],
     "correctAnswers": [
       1
@@ -8809,10 +8924,10 @@
     "subject": "ACV",
     "question": "En ce qui concerne les éléments structurels de la langue liés aux patients malentendants, sélectionnez les affirmations correctes :",
     "options": [
-      "Les conséquences dun trouble auditif chez lenfant comporte un impact sur le développement cognitif, affectif et social",
-      "Les systèmes de communication améliorées ne présentent pas dintérêt chez les patients malentendants",
-      "Le dépistage et lintervention précoces améliorent les perspectives de communication et de développement linguistique",
-      "Les conséquences dun trouble auditif chez lenfant comporte une meilleure intégration et développement cognitif, affectif et social"
+      "Les conséquences d'un trouble auditif chez l'enfant comporte un impact sur le développement cognitif, affectif et social",
+      "Les systèmes de communication améliorées ne présentent pas d'intérêt chez les patients malentendants",
+      "Le dépistage et l'intervention précoces améliorent les perspectives de communication et de développement linguistique",
+      "Les conséquences d'un trouble auditif chez l'enfant comporte une meilleure intégration et développement cognitif, affectif et social"
     ],
     "correctAnswers": [
       0,
@@ -8822,7 +8937,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Larchiphonème /D/ est le résultat de la neutralisation des phonèmes :",
+    "question": "L'archiphonème /D/ est le résultat de la neutralisation des phonèmes :",
     "options": [
       "/m/ et /n/",
       "/t/ et /d/",
@@ -8836,12 +8951,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Lequel des éléments suivants constitue un signe dalerte du développement du langage chez un enfant, selon les repères développementaux ?",
+    "question": "Lequel des éléments suivants constitue un signe d'alerte du développement du langage chez un enfant, selon les repères développementaux ?",
     "options": [
-      "Lenfant nutilise pas de phrase simples à 12 mois",
+      "L'enfant n'utilise pas de phrase simples à 12 mois",
       "Un vocabulaire écrit encore limité à 15 mois",
-      "Lenfant német aucun mot simple à 15 mois",
-      "Lenfant ne comprend pas les consignes complexes à 18 mois"
+      "L'enfant n'émet aucun mot simple à 15 mois",
+      "L'enfant ne comprend pas les consignes complexes à 18 mois"
     ],
     "correctAnswers": [
       2
@@ -8852,9 +8967,9 @@
     "subject": "ACV",
     "question": "Les sons doux et de moyenne intensité deviennent inaudibles en cas :",
     "options": [
-      "dhypoacousie profonde",
-      "dhypoacousie légère",
-      "dhypoacousie sévère",
+      "d'hypoacousie profonde",
+      "d'hypoacousie légère",
+      "d'hypoacousie sévère",
       "d'hypoacousie modérée"
     ],
     "correctAnswers": [
@@ -8866,9 +8981,9 @@
     "subject": "ACV",
     "question": "Les traits distinctifs acoustiques prosodiques font référence à :",
     "options": [
-      "Le son et la dépense dair",
+      "Le son et la dépense d'air",
       "Les traits de sonorité et les traits de tonalité",
-      "La dépense dair et les traits de tonalité",
+      "La dépense d'air et les traits de tonalité",
       "Le ton, la force et la quantité"
     ],
     "correctAnswers": [
@@ -8880,10 +8995,10 @@
     "subject": "ACV",
     "question": "Les troubles du langage causés uniquement par une altération de la production sont :",
     "options": [
-      "Le bégaiement, lagnosie, laphasie et la dyphonie",
-      "Le bégaiement, lagnosie, laphasie et la dysglossie",
+      "Le bégaiement, l'agnosie, l'aphasie et la dyphonie",
+      "Le bégaiement, l'agnosie, l'aphasie et la dysglossie",
       "Le bégaiement, la dysphonie, la dyslalie et la dysglossie",
-      "Le bégaiement, lagnosie, la dyslalie et la dysglossie"
+      "Le bégaiement, l'agnosie, la dyslalie et la dysglossie"
     ],
     "correctAnswers": [
       2
@@ -8907,12 +9022,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Lorsquon mesure le UCL en audiométrie tonale liminaire, à quel seuil du champ auditif humain correspond-il ?",
+    "question": "Lorsqu'on mesure le UCL en audiométrie tonale liminaire, à quel seuil du champ auditif humain correspond-il ?",
     "options": [
       "Le seuil d'inconfort",
-      "Le seuil daudition",
+      "Le seuil d'audition",
       "Le seuil des ultrasons",
-      "Le seuil découte tonale"
+      "Le seuil d'écoute tonale"
     ],
     "correctAnswers": [
       0
@@ -8937,10 +9052,10 @@
     "subject": "ACV",
     "question": "Quel facteur influence principalement la hauteur (tonalité) du son produit lors de la phonation ?",
     "options": [
-      "Lactivité des cordes vocales pendant leur vibration",
-      "Lintensité de la résonance nasale",
-      "La position du diaphragme lors de lexpiration",
-      "Louverture complet des cordes vocales"
+      "L'activité des cordes vocales pendant leur vibration",
+      "L'intensité de la résonance nasale",
+      "La position du diaphragme lors de l'expiration",
+      "L'ouverture complet des cordes vocales"
     ],
     "correctAnswers": [
       0
@@ -8952,7 +9067,7 @@
     "question": "Quel phénomène rend la distinction entre des sons comme «?c?» et «?t?» plus difficile ?",
     "options": [
       "Le masquage total",
-      "Laltération du spectre.",
+      "L'altération du spectre.",
       "La confusion des patrons temporels.",
       "La perte des hautes fréquences."
     ],
@@ -8963,11 +9078,11 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelle affirmation décrit correctement laction des muscles intercostaux internes ?",
+    "question": "Quelle affirmation décrit correctement l'action des muscles intercostaux internes ?",
     "options": [
-      "Ils sactivent principalement pendant linspiration profonde",
-      "Ils rapprochent les côtes pendant lexpiration en réduisant le volume thoracique",
-      "Ils élargissent la cage thoracique en soulevant les côtes vers lextérieur",
+      "Ils s'activent principalement pendant l'inspiration profonde",
+      "Ils rapprochent les côtes pendant l'expiration en réduisant le volume thoracique",
+      "Ils élargissent la cage thoracique en soulevant les côtes vers l'extérieur",
       "Ils partent du bord inférieur de la côte supérieure vers la côte inférieure"
     ],
     "correctAnswers": [
@@ -8977,9 +9092,9 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelle affirmation est correcte concernant limportance des formants dans la perception des voyelles ?",
+    "question": "Quelle affirmation est correcte concernant l'importance des formants dans la perception des voyelles ?",
     "options": [
-      "Aucun formant nest impliqué dans la perception des voyelles, seul le contexte phonétique est pertinent",
+      "Aucun formant n'est impliqué dans la perception des voyelles, seul le contexte phonétique est pertinent",
       "Les deux premiers formants sont essentiels à la perception et à la différenciation des voyelles, tandis que le troisième joue un rôle secondaire",
       "Tous les formants jouent un rôle équivalent dans la perception et à la différenciation des voyelles",
       "Le troisième formant est le seul essentiel à la perception et à la différenciation des voyelles"
@@ -9007,7 +9122,7 @@
     "subject": "ACV",
     "question": "Quelle est la partie du larynx la plus étroite située entre les cordes vocales ?",
     "options": [
-      "Lépiglotte",
+      "L'épiglotte",
       "La thyroïde",
       "La glotte",
       "Le cricoïde"
@@ -9021,8 +9136,8 @@
     "subject": "ACV",
     "question": "Quelle est la relation entre le signifiant et le signifié dans le cadre du signe linguistique?",
     "options": [
-      "Le signifié correspond au ton émotionnel du discours, tandis que le signifiant est lenchaînement des mots dans une phrase.",
-      "Le signifiant est une interprétation personnelle, tandis que le signifié correspond à lorthographe exacte du mot.",
+      "Le signifié correspond au ton émotionnel du discours, tandis que le signifiant est l'enchaînement des mots dans une phrase.",
+      "Le signifiant est une interprétation personnelle, tandis que le signifié correspond à l'orthographe exacte du mot.",
       "Le signifié est un ensemble de règles syntaxiques, tandis que le signifiant désigne les gestes ou expressions culturelles qui accompagnent la parole",
       "Le signifiant est la forme sonore d'un mot, tandis que le signifié est le notion ou l'idée qu'il représente"
     ],
@@ -9033,12 +9148,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Quelles sont les étapes de lacquisition du langage ?",
+    "question": "Quelles sont les étapes de l'acquisition du langage ?",
     "options": [
-      "Létape ou période verbale qui se compose de la deuxième étape et de la troisième étape linguistique",
-      "Létape prélinguistique qui se compose du stade prélocutif, postlocutif e locutif",
-      "Létape ou période verbale qui se compose de la première étape et de la deuxième étape linguistique",
-      "Létape prélinguistique qui se compose des stades prélocutif, illocutif e locutif"
+      "L'étape ou période verbale qui se compose de la deuxième étape et de la troisième étape linguistique",
+      "L'étape prélinguistique qui se compose du stade prélocutif, postlocutif e locutif",
+      "L'étape ou période verbale qui se compose de la première étape et de la deuxième étape linguistique",
+      "L'étape prélinguistique qui se compose des stades prélocutif, illocutif e locutif"
     ],
     "correctAnswers": [
       2,
@@ -9050,10 +9165,10 @@
     "subject": "ACV",
     "question": "Quelles sont les tâches des organes phonatoires dans la production de la voix humaine?",
     "options": [
-      "Produire des vibrations musculaires indépendantes de lair expiré",
+      "Produire des vibrations musculaires indépendantes de l'air expiré",
       "Générer des sons directement dans les cavités nasales",
       "Créer un courant d'air et le mettre en mouvement",
-      "Modifier lair pour créer des différents sons"
+      "Modifier l'air pour créer des différents sons"
     ],
     "correctAnswers": [
       2,
@@ -9063,12 +9178,12 @@
   },
   {
     "subject": "ACV",
-    "question": "Quels sont les facteurs qui déterminent les conséquences et limpact dune perte auditive ou dune hypoacousie ?",
+    "question": "Quels sont les facteurs qui déterminent les conséquences et l'impact d'une perte auditive ou d'une hypoacousie ?",
     "options": [
-      "Le niveau détudes des parents et les caractéristiques individuelles du sujet",
-      "Lâge dapparition de la surdité et le moment de lappareillage",
-      "Létat des structures neurosensorielles auditives et lenvironnement familial",
-      "Le moment auquel lenfant commence à utiliser des écouteurs"
+      "Le niveau d'études des parents et les caractéristiques individuelles du sujet",
+      "L'âge d'apparition de la surdité et le moment de l'appareillage",
+      "L'état des structures neurosensorielles auditives et l'environnement familial",
+      "Le moment auquel l'enfant commence à utiliser des écouteurs"
     ],
     "correctAnswers": [
       1,
@@ -9080,10 +9195,10 @@
     "subject": "ACV",
     "question": "Quels sont les phénomènes phonétiques qui génère des changements dus à la vitesse de la parole ou à la diction ?",
     "options": [
-      "Lassimilation, la différenciation, la dissimilation et linversion",
+      "L'assimilation, la différenciation, la dissimilation et l'inversion",
       "La hauteur, le timbre, le bruit et la métathèse",
       "La hauteur, le timbre, la différenciation et la dissimilation",
-      "Lassimilation, la différenciation, le timbre et le bruit"
+      "L'assimilation, la différenciation, le timbre et le bruit"
     ],
     "correctAnswers": [
       0
@@ -9151,7 +9266,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Selon le mode darticulation, les voyelles sont classées en :",
+    "question": "Selon le mode d'articulation, les voyelles sont classées en :",
     "options": [
       "Voyelles antérieurs, voyelles centrales, voyelles postérieures",
       "Voyelles sonores, voyelles orales et voyelles nasales",
