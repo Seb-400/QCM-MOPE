@@ -11,11 +11,14 @@
     <h1>Quiz à Choix Multiples</h1>
 
     <!-- Bloc choix matière -->
-    <div id="subject-selection">
-      <h2>Choisissez une matière :</h2>
-      <select id="subject-select"></select>
-      <button id="start-btn">Commencer</button>
-    </div>
+  <div id="subject-selection" class="selection-block">
+    <h2>Bienvenue sur le QCM</h2>
+    <p class="instruction">Veuillez choisir une matière pour démarrer :</p>
+    <select id="subject-select">
+      <option value="">-- Choisissez une matière --</option>
+    </select>
+    <button id="start-btn">Commencer le quiz</button>
+  </div>
 
     <!-- Bloc quiz -->
     <div id="quiz-container" class="hidden">
