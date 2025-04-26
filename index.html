@@ -3,27 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <base href="./">
-  <title>QCM - Entraînement</title>
+  <title>QUIZ - Les stars de MOPE</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Quiz à Choix Multiples</h1>
+    <h1>QUIZ - Les stars de MOPE</h1>
 
-<div id="subject-selection" class="selection-block">
-  <h2>Bienvenue sur le QCM</h2>
-  <p class="instruction">Veuillez choisir une matière pour démarrer :</p>
-  <div class="selection-form">
-    <select id="subject-select">
-      <option value="">-- Choisissez une matière --</option>
-    </select>
-  </div>
-  <div class="selection-form">
-    <button id="start-btn">Commencer le quiz</button>
-  </div>
-</div>
+    <!-- Sélection de matière -->
+    <div id="subject-selection" class="selection-block">
+      <h2>Bienvenue sur le QCM</h2>
+      <p class="instruction">Veuillez choisir une matière pour démarrer :</p>
+      <div class="selection-form">
+        <select id="subject-select">
+          <option value="">-- Choisissez une matière --</option>
+        </select>
+      </div>
+      <div class="selection-form">
+        <button id="start-btn">Commencer le quiz</button>
+      </div>
+    </div>
 
-    <!-- Bloc quiz -->
+    <!-- Quiz principal -->
     <div id="quiz-container" class="hidden">
       <div id="question"></div>
       <img id="question-image" src="" alt="" class="hidden" style="max-width:100%; margin:10px 0;">
@@ -32,10 +33,12 @@
       <div id="feedback"></div>
     </div>
 
-    <!-- Bloc résultats -->
+    <!-- Résultat -->
     <div id="result" class="hidden">
       <h2>Résultat</h2>
       <p id="score"></p>
+      <div id="recap"></div>
+      <p id="time"></p>
       <button id="restart-btn">Recommencer</button>
     </div>
 
