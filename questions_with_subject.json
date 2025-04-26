@@ -1,5 +1,6 @@
 [
   {
+    "subject": "CASA",
     "question": "Où se situent les cellules ciliées internes ?",
     "options": [
       "Canal cochléaire",
@@ -13,6 +14,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel est le rôle de la cochlée ?",
     "options": [
       "Équilibrer la pression",
@@ -26,6 +28,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Qu'est-ce qu'un audiogramme ?",
     "options": [
       "Une mesure de la parole",
@@ -39,6 +42,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel type de surdité est causé par un problème au niveau de la cochlée ?",
     "options": [
       "Surdité de transmission",
@@ -52,6 +56,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel test utilise des sons envoyés dans un casque ?",
     "options": [
       "Tympanométrie",
@@ -65,6 +70,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle structure transmet les sons de l'oreille moyenne à l'oreille interne ?",
     "options": [
       "Marteau",
@@ -78,6 +84,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle est la plage dynamique normale de loreille humaine ?",
     "options": [
       "10-40 dB",
@@ -91,6 +98,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quest-ce que la presbyacousie ?",
     "options": [
       "Une surdité héréditaire",
@@ -104,6 +112,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel est le rôle de la trompe dEustache ?",
     "options": [
       "Amplifier le son",
@@ -117,6 +126,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel test explore les réflexes stapédiens ?",
     "options": [
       "Audiométrie vocale",
@@ -130,6 +140,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les OEA (otoémissions acoustiques) sont utilisées pour :",
     "options": [
       "Tester léquilibre",
@@ -143,6 +154,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Un tympanogramme de type B indique :",
     "options": [
       "Tympan normal",
@@ -156,6 +168,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La perte auditive brusque est :",
     "options": [
       "Progressive",
@@ -169,6 +182,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quel organe est responsable de léquilibre ?",
     "options": [
       "Cochlée",
@@ -182,6 +196,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le mésoderme est une couche intermédiaire qui constitue",
     "options": [
       "Tissus conjonctifs et épithéliaux externe, cartilage os et muscles",
@@ -195,6 +210,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
     "options": [
       "VRAI",
@@ -208,6 +224,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
@@ -221,6 +238,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
@@ -234,6 +252,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La cavité tympanique se situe dans",
     "options": [
       "Le CAE",
@@ -247,6 +266,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La cavité tympanique se situe dans",
     "options": [
       "Le CAE",
@@ -260,6 +280,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le mésoderme est une couche intermédiaire qui constitue",
     "options": [
       "Tissus conjonctifs et épithéliaux externe, cartilage os et muscles",
@@ -273,6 +294,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
     "options": [
       "VRAI",
@@ -286,6 +308,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
@@ -299,6 +322,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
@@ -312,6 +336,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le labyrinthe antérieur fait parti de",
     "options": [
       "Oreille moyenne",
@@ -325,6 +350,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La formation de la trompe dEustache situe dans",
     "options": [
       "La première poche pharyngée",
@@ -338,6 +364,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le labyrinthe postérieur comprend",
     "options": [
       "Saccule, utricule et canaux semi circulaires",
@@ -351,6 +378,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Entendre est un processus volontaire qui implique dautres processus cognitifs?",
     "options": [
       "VRAI",
@@ -364,6 +392,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le conduit auditif externe se développe à partir",
     "options": [
       "Du 1er jour de gestation",
@@ -377,6 +406,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Létrier est attaché à la fenêtre ovale par le ligament annulaire.",
     "options": [
       "VRAI",
@@ -390,6 +420,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La trompe dEustache chez un enfant est plus longue et plus étroite que chez un adulte. Cest pourquoi on retrouve plus souvent des pathologies de loreille moyenne comme des otites récurrentes chez les enfants.",
     "options": [
       "VRAI",
@@ -403,6 +434,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La vascularisation de la cavité tympanique et de la mastoïde est faite par :",
     "options": [
       "Les branches des Artères carotides externe et de lArtère vertébrale",
@@ -416,6 +448,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle partie de loreille nest pas constituée de cartilage :",
     "options": [
       "Lhélix",
@@ -429,6 +462,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La trompe dEustache s' ouvre lors du bâillement ou de la déglutition, en raison de la contraction musculaire.",
     "options": [
       "VRAI",
@@ -442,6 +476,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La vascularisation et linnervation du pavillon auditif est fait par :",
     "options": [
       "Aorte interne, Nerf crânien V, Nerf auriculaire du plexus brachial",
@@ -455,6 +490,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La trompe deustache possède 2 portions :",
     "options": [
       "1/3 portion fibro cartilagineuse et 2/3 portion osseuse",
@@ -468,6 +504,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille externe transmet londe du son à loreille interne, transformant londe sonore en onde mécanique.",
     "options": [
       "FAUX ",
@@ -481,6 +518,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Il existe le muscle du marteau et le muscle de lenclume. ",
     "options": [
       "VRAI",
@@ -494,6 +532,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les plans nous aident à localiser les différentes structures du corps humain. Lequel distingue la gauche de la droite ?",
     "options": [
       "Le plan transversal",
@@ -507,6 +546,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Concernant les ligaments internes et externes",
     "options": [
       "Les ligaments externes permettent de fixer loreille à los pariétal et les structures voisines et les ligaments internes relient les différentes structures entre elles et lui donne sa forme",
@@ -520,6 +560,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le tympan est ancré à los tympanique par le ligament annulaire qui le fixe à los temporal.",
     "options": [
       "FAUX",
@@ -533,6 +574,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La membrane tympanique possède 3 couches :",
     "options": [
       "Externe inférieur et moyenne",
@@ -546,6 +588,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou lon trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de lépithélium contre lentrée de particules étrangères de poussières, insectes",
     "options": [
       "VRAI",
@@ -559,6 +602,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le conduit auditif externe peut avoir une longueur entre :",
     "options": [
       "10 à 15 mm de long",
@@ -572,6 +616,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans le labyrinthe antérieur de loreille interne nous retrouvons :",
     "options": [
       "Le vestibule",
@@ -585,6 +630,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans une coupe transversale de la cochlée, on peut délimiter 3 espaces :",
     "options": [
       "Aucune réponse nest juste",
@@ -598,6 +644,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur la paroi externe du vestibule, se trouve la fenêtre ovale et la fenêtre ronde de la caisse du tympan de loreille moyenne.",
     "options": [
       "VRAI",
@@ -611,6 +658,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les CCI sont de forme ovale avec la partie supérieure plus étroite. Elles sont situées près de laxe de lescargot. Les CCI sont moins nombreuses que les CCE et forment une seule rangée.",
     "options": [
       "VRAI",
@@ -624,6 +672,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La vascularisation et linnervation de loreille interne est permise par :",
     "options": [
       "Le tronc cérébral et les deux artères carotides externe et artères vertébrales",
@@ -637,6 +686,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lorgane de Corti se trouve sur :",
     "options": [
       "La membrane cochléaire",
@@ -650,6 +700,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La transduction sonore se fait dans le labyrinthe postérieur grâce aux cellules de lorgane de Corti.",
     "options": [
       "VRAI",
@@ -663,6 +714,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "L'aqueduc cochléaire est un conduit osseux qui sétend de la rampe tympanique, près de la fenêtre ronde, jusquà la partie postérieure du rocher de los temporal, sous le CAI.",
     "options": [
       "VRAI",
@@ -676,6 +728,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les hautes fréquences sont perçues :",
     "options": [
       "À lapex de la membrane basilaire",
@@ -689,6 +742,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les CCI sont responsables de :",
     "options": [
       "La conversion de l'énergie mécanique en énergie électrique permettant ainsi la transduction de linformation au cortex auditif cérébral à travers la voie auditive",
@@ -702,6 +756,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les canaux semi circulaires sont :",
     "options": [
       "Supérieur, antérieur et postérieur",
@@ -715,6 +770,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les cellules neurosensorielles qui se trouve des deux côtés du tunnel de Corti :",
     "options": [
       "La membrane tectoriale",
@@ -728,6 +784,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le ganglion spiral de Corti se trouve dans :",
     "options": [
       "Aucune réponse nest juste",
@@ -741,6 +798,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lorgane de Corti se situe dans le canal cochléaire :",
     "options": [
       "FAUX",
@@ -754,6 +812,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle phrase est correcte ?",
     "options": [
       "La rampe vestibulaire contient de la périlymphe et communique avec la cavité tympanique par la fenêtre ronde",
@@ -767,6 +826,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans le labyrinthe membraneux antérieur, nous trouvons le canal cochléaire où nous allons distinguer différentes parties :",
     "options": [
       "Membrane de Reissner et membrane basilaire",
@@ -780,6 +840,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La cochlée communique avec loreille moyenne par :",
     "options": [
       "La fenêtre ronde et la fenêtre ovale",
@@ -793,6 +854,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lappareil vestibulaire est formé par :",
     "options": [
       "Le saccule et lutricule",
@@ -806,6 +868,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les différentes parties de la cochlée sont :",
     "options": [
       "l'aqueduc de la cochlée et CAI",
@@ -819,6 +882,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les crêtes ampullaires des canaux semi circulaires sont responsables :",
     "options": [
       "Du mouvement de rotation",
@@ -832,6 +896,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Il existe 2 voies auditives :",
     "options": [
       "Une voie afférente par laquelle linformation est transmise des noyaux nerveux centraux vers la périphérie et une voie efférente qui transporte linformation de la périphérie vers les organes centraux.",
@@ -845,6 +910,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les noyaux cochléaires sont divisés en :",
     "options": [
       "Noyaux cochléaires dorsal et ventral.",
@@ -858,6 +924,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une lésion dans les aires de Brodmann et de Wernicke peut entraîner :",
     "options": [
       "La personne peut entendre parfaitement les mots et de les comprendre",
@@ -871,6 +938,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le corps géniculé médial :",
     "options": [
       "Ses fibres atteignent le thalamus.",
@@ -884,6 +952,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les stations neurales de la voie vestibulaire sont :",
     "options": [
       "Ganglion de corti, noyaux vestibulaires, cortex et moelle épinière.",
@@ -897,6 +966,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les stations neuronales de la voie afférente sont :",
     "options": [
       "Ganglion spiral de Corti, SNC, colliculus supérieur, corps géniculé médial, lemnisque latéral, noyaux cochléaire.",
@@ -910,6 +980,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les PEATC (le test des potentiels évoqués auditifs du tronc cérébral sont au nombre de 5 dondes)",
     "options": [
       "VRAI",
@@ -923,6 +994,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Laudition binaurale désigne la capacité de percevoir simultanément des sons par les deux oreilles. Elle est essentielle pour la perception et la localisation des sources sonores dans lespace. Cette détection de la direction doù provient le son est possible grâce à :",
     "options": [
       "La somme de temps darrivée et la différence dintensité sonore.",
@@ -936,6 +1008,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le masquage auditif fait référence à linhibition quun son produit sur la perception dautres sons :",
     "options": [
       "Un son puissant va masquer un son plus faible.",
@@ -949,6 +1022,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le colliculus inférieur reçoit des informations :",
     "options": [
       "Ipsilatérales et homolatérales.",
@@ -962,6 +1036,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le cortex auditif possède :",
     "options": [
       "Les aires 41,42 et 22 de Brodman",
@@ -975,6 +1050,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La transduction auditive seffectue dans loreille interne :",
     "options": [
       "Cest la conversion dune onde mécanique en une impulsion électrique. Ce signal électrique est transmis par le Nerf Cochléaire aux noyaux du SNC et au cortex cérébral, ou linformation sonore est traitée.",
@@ -988,6 +1064,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans le ganglion de Corti il existe :",
     "options": [
       "Des neurones afférents de type I qui sont minoritaires et qui établissent des synapses avec les CCE et des neurones efférents de type II qui sont les plus courants qui établissent des synapses avec les CCI.",
@@ -1001,6 +1078,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La voie afférente auditive possède :",
     "options": [
       "Toutes les réponses sont justes.",
@@ -1014,6 +1092,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les mouvements de la tête sont détectés par les récepteurs vestibulaires et envoyé sous forme dimpulsion par :",
     "options": [
       "Le nerf cochléaire au SNC",
@@ -1027,6 +1106,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans la voie efférente interviennent les structures suivantes :",
     "options": [
       "Cortex auditif, corps géniculé médial, colliculus inférieur, complexe olivaire supérieur, faisceau olivo cochléaire et organe de corti.",
@@ -1040,6 +1120,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les informations binaurales des noyaux cochléaires permettent de déterminer :",
     "options": [
       "Si un son est plus fort dans une oreille que dans lautre.",
@@ -1053,6 +1134,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Fonction de la voie efférente :",
     "options": [
       "Moduler la perception auditive, protection contre les sons de hautes intensités.",
@@ -1066,6 +1148,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Ladaptation auditive est :",
     "options": [
       "Une réponse réflexe et volontaire avec un effet protecteur.",
@@ -1079,6 +1162,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le lemnisque latéral est la voie par laquelle les axones des stations bulbaires bilatérales se rendent au colliculus inférieur situé dans le mésencéphale. Il est formé par des fibres provenant :",
     "options": [
       "Noyau cochléaire dorsal et noyau cochléaire ventral.",
@@ -1092,6 +1176,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Pour le calcul de pourcentage de perte binaurale la formule = (% valeur meilleure oreille x7) + (% valeur mauvaise oreille x1) / 8",
     "options": [
       "VRAI",
@@ -1105,6 +1190,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur un audiogramme le symbole  ]  représente :",
     "options": [
       "La VO de OG avec masquage",
@@ -1118,6 +1204,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une hypoacousie mixte signifie que cest une perte qui peut toucher les hommes et les femmes ?",
     "options": [
       "FAUX",
@@ -1131,6 +1218,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Si votre patient contracte la maladie de Ménière il aura une perte plus importante dans les fréquences graves ?",
     "options": [
       "VRAI",
@@ -1144,6 +1232,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle affirmation ne fait pas partie de la classification de la perte ?",
     "options": [
       "Selon la partie endommagée",
@@ -1157,6 +1246,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le seuil dinconfort est mesuré sur les fréquences :",
     "options": [
       "1000Hz, 2000 Hz,3000 Hz et4000Hz",
@@ -1170,6 +1260,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur un audiogramme, les fréquences comprises entre 125 Hz et 500 Hz sont :",
     "options": [
       "Les fréquences médiums",
@@ -1183,6 +1274,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "LE PTA (Power Tone Average) ou moyenne des sons purs, se calcule selon la formule suivante : PTA = (VA 500 Hz + VA 1000Hz+VA 2000HZ) /4",
     "options": [
       "VRAI",
@@ -1196,6 +1288,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La réserve cochléaire se calcule selon quelle formule ?",
     "options": [
       "RC = (VO 500Hz +VO 1000Hz + VO 2000 Hz)/3",
@@ -1209,6 +1302,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Laudiométrie conventionnelle mesure les fréquences entre 125 Hz et 6000 Hz ?",
     "options": [
       "FAUX ",
@@ -1222,6 +1316,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La perte neurosensorielle cochléaire et la perte neurosensorielle rétro cochléaire concernent :",
     "options": [
       "Loreille moyenne",
@@ -1235,6 +1330,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur un audiogramme le triangle rouge ? représente :",
     "options": [
       "La VA de OD avec masquage",
@@ -1248,6 +1344,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "L'onde sonore possède trois qualités fondamentales, lesquelles ?",
     "options": [
       "L'intensité, la hauteur et la couleur.",
@@ -1261,6 +1358,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "A partir de quel seuil considérons-nous quil y ait une perte auditive ?",
     "options": [
       "40 dB HL",
@@ -1274,6 +1372,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur un audiogramme tonal, laxe vertical représente les intensités et laxe horizontal représente les fréquences ?",
     "options": [
       "VRAI",
@@ -1287,6 +1386,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une otospongiose provoque :",
     "options": [
       "Une HT",
@@ -1300,6 +1400,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Selon BIAP une perte sévère est comprise entre :",
     "options": [
       "21 dB et 40 dB",
@@ -1313,6 +1414,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Sur un audiogramme, une croix noire  X  représente :",
     "options": [
       "La VA de OG avec masquage",
@@ -1326,6 +1428,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La plage dynamique = UCL  VA ?",
     "options": [
       "VRAI",
@@ -1339,6 +1442,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le GAP est la différence entre :",
     "options": [
       "LA VO de OG et OD",
@@ -1352,6 +1456,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Il existe plusieurs tailles de spéculums pour lotoscopie ?",
     "options": [
       "FAUX",
@@ -1365,6 +1470,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle manuvre consiste à insuffler de l'air à l'aide d'une poire dans une des narines tout en maintenant l'autre bouchée avec un doigt ?",
     "options": [
       "Manoeuvre de Politzer",
@@ -1378,6 +1484,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Il est conseillé de tenir lotoscope dans la même main que loreille examinée (main droite/oreille droite-main gauche/oreille gauche)",
     "options": [
       "FAUX",
@@ -1391,6 +1498,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lanamnèse est un questionnaire qui recueille des données auprès du patient :",
     "options": [
       "Objectives",
@@ -1404,6 +1512,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Pour faire vibrer le diapason il faut le tenir par les branches et frapper le manche ?",
     "options": [
       "Uniquement le 256 hz",
@@ -1417,6 +1526,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors de la manipulation de l'otoscope en faisant une otoscopie, que veut-on dire par \"position de sécurité\" ?",
     "options": [
       "Maintenir le dos de la main en contact permanent avec le visage du patient",
@@ -1430,6 +1540,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La manoeuvre de Toynbee crée une pression négative dans la cavité tympanique",
     "options": [
       "FAUX",
@@ -1443,6 +1554,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors du test de Weber, nous devons placer le diapason sur la mastoïde et devant le CAE",
     "options": [
       "VRAI",
@@ -1456,6 +1568,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le test de Rinne compare la VA et la VO de la même oreille",
     "options": [
       "VRAI",
@@ -1469,6 +1582,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors de la mise en place de lotoscope dans loreille du patient il faut y aller vite et sèchement afin de prendre le patient par surprise ?",
     "options": [
       "FAUX ",
@@ -1482,6 +1596,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le triangle lumineux se produit en éclairant le tympan avec une lumière artificielle. Il sagit dun reflet produit sur la membrane tympanique par la lumière et est toujours situé dans le quadrant antéroinférieur de la membrane.",
     "options": [
       "VRAI",
@@ -1495,6 +1610,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les questions que nous posons ont aussi pour objectif de déterminer la capacité économique du patient à acheter des aides auditives",
     "options": [
       "VRAI",
@@ -1508,6 +1624,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle manuvre peut être observée avec un otoscope ?",
     "options": [
       "Manoeuvre de Valsalva",
@@ -1521,6 +1638,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le triangle lumineux se situe dans le quadrant :",
     "options": [
       "Postéro inférieur",
@@ -1534,6 +1652,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors du test de Rinne, le patient entend mieux en voie aérienne quen voie osseuse ; nous pouvons en déduire :",
     "options": [
       "Audition normal ou HNS",
@@ -1547,6 +1666,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Si le manche du marteau est incliné vers la droite, cest loreille droite",
     "options": [
       "VRAI ",
@@ -1560,6 +1680,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lanamnèse est un questionnaire réalisé :",
     "options": [
       "Uniquement auprès du patient",
@@ -1573,6 +1694,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lotoscopie est une technique de base pour lexamen de :",
     "options": [
       "CAE",
@@ -1586,6 +1708,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors de la manuvre de Valsalva, on force la fermeture de la trompe dEustache à partir du pharynx, lair entre dans les oreilles moyennes avec une pression positive et pousse la membrane vers l'extérieur, en direction du CAE (membrane tympanique bombée).",
     "options": [
       "VRAI ",
@@ -1599,6 +1722,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Avant de la prise d'empreinte, doit-on effectuer une otoscopie ?",
     "options": [
       "Non, ce n'est pas nécessaire",
@@ -1612,6 +1736,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors du test de lUCL, le seuil d'inconfort, le test consiste à pincer le patient pendant l'audiométrie ?",
     "options": [
       "FAUX ",
@@ -1625,6 +1750,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le symbole de la VA (OD) en audiométrie tonale est identique au symbole de l'audiométrie verbale ?",
     "options": [
       "FAUX",
@@ -1638,6 +1764,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Laudiométrie se compose :",
     "options": [
       "ATL et UCL",
@@ -1651,6 +1778,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "ATL, Audiométrie vocale et UCL",
     "options": [
       "20 dB HL",
@@ -1664,6 +1792,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La VO est représentée par un triangle",
     "options": [
       "VRAI ",
@@ -1677,6 +1806,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors dune audiométrie tonale avec masquage en VA, le calcul de lintensité du bruit de masquage est :",
     "options": [
       "NBN Onte = VA Ote + 10dB",
@@ -1690,6 +1820,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le masquage est un processus permettant dobtenir le seuil auditif réel lorsque les deux oreilles présentent une différence daudition significative. Lobjectif du masquage est déviter la latéralisation du son et déviter les courbes fantômes. Pour masquer, nous utilisons un bruit de masquage qui annule laudition de loreille NTE afin dobtenir la valeur réelle de l'audition de loreille TE.",
     "options": [
       "VRAI ",
@@ -1703,6 +1834,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "O NTE Signifie :",
     "options": [
       "Oreille non testée",
@@ -1716,6 +1848,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "LATL nous permet de déterminer les seuils auditifs avec un stimulus tonal à différentes intensités (dBHL) à la fois par voie aérienne et par voie osseuse; à différentes fréquences entre 125 et 8000 Hz en général.",
     "options": [
       "FAUX ",
@@ -1729,6 +1862,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Laudiométrie est le principal test audiologique qui permet de connaître le niveau daudition de nos patients de manière objective :",
     "options": [
       "FAUX ",
@@ -1742,6 +1876,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "LURV, le seuil de réception verbale correspond à:",
     "options": [
       "40% de discrimination des mots",
@@ -1755,6 +1890,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle type de perte pouvons-nous constater sur cette courbe de discrimination ?",
     "options": [
       "HNS AVEC RECRUTEMENT",
@@ -1768,6 +1904,7 @@
     "image": "https://i.postimg.cc/zvsXg2Mv/Image-HNS.jpg"
   },
   {
+    "subject": "CASA",
     "question": "Le pourcentage de discrimination maximal sobtient un fois lURV trouvée en :",
     "options": [
       "Augmentant lintensité de 35 dB HL puis faire passer la liste complète de mots, en notant les erreurs et les réussites",
@@ -1781,6 +1918,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle type de perte pouvons-nous constater sur cette courbe de discrimination?",
     "options": [
       "HNS AVEC RECRUTEMENT",
@@ -1794,6 +1932,7 @@
     "image": "https://i.postimg.cc/Nj7fK4xG/Image-Pas-de-Perte.jpg"
   },
   {
+    "subject": "CASA",
     "question": "Le crosshearing est :",
     "options": [
       "La diminution du son",
@@ -1807,6 +1946,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La voie osseuse doit être masqué lorsque :",
     "options": [
       "Le GAP TE est supérieur à 10 dB HL et VA TE - VO TE est inférieur à 10 dB HL",
@@ -1820,6 +1960,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le crossover est la quantité de son qui traverse le crâne de loreille TE à loreille NTE.",
     "options": [
       "VRAI ",
@@ -1833,6 +1974,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Leffet docclusion se produit :",
     "options": [
       "Les seuils de voie osseuse ne sont jamais modifiés.",
@@ -1846,6 +1988,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "L'atténuation intéraurale ou interauriculaire, correspond à l'isolation de la cabine insonorisée ?",
     "options": [
       "VRAI ",
@@ -1859,6 +2002,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Laudiométrie vocale évalue à différentes intensités :",
     "options": [
       "La discrimination",
@@ -1872,6 +2016,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "TDT indique une HNS rétro cochléaire lorsque on a :",
     "options": [
       "Variation du son entre O et 5 dBSL/min",
@@ -1885,6 +2030,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Tests permettant de confirmer la présence ou labsence dun recrutement :",
     "options": [
       "Test de Metz",
@@ -1898,6 +2044,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "HNS rétrochochléaire sans recrutement indique une lésion au niveau :",
     "options": [
       "CCE ET CCI",
@@ -1911,6 +2058,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Test de SISI indique un recrutement lorsque :",
     "options": [
       "Lorsque la détection des augmentations de 1 Db ou moins",
@@ -1924,6 +2072,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le test de limpédance permet de :",
     "options": [
       "Connaître létat de loreille interne uniquement",
@@ -1937,6 +2086,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quels tests pouvons-nous effectuer avec limpédancemètre :",
     "options": [
       "Tympanométrie",
@@ -1950,6 +2100,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une tympanométrie avec une courbe de type A peut-être :",
     "options": [
       "Avec une forme de pic étroit",
@@ -1963,6 +2114,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Courbe tympanométrique de type As :",
     "options": [
       "Compliance réduite inférieur à 0,3ml chez les adultes, peut être du à une otosclérose ou une membrane tympanique rigide",
@@ -1976,6 +2128,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Limpédance est :",
     "options": [
       "La résistance que lappareil de transmission oppose au passage de londe sonore",
@@ -1989,6 +2142,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Etude de la fatigue auditive avec les tests de :",
     "options": [
       "METZ",
@@ -2002,6 +2156,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La tympanométrie est un test :",
     "options": [
       "Subjectif",
@@ -2015,6 +2170,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Courbe tymanométrique de type B présente :",
     "options": [
       "Volume du canal est inférieur à 2ml",
@@ -2028,6 +2184,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "HNS avec recrutement :",
     "options": [
       "Lésions au niveau des CCE",
@@ -2041,6 +2198,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Courbe tympanométrique de type C :",
     "options": [
       "Hypermobilité de la membrane tympanique",
@@ -2054,6 +2212,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La compliance est :",
     "options": [
       "La capacité dabsorption de londe sonore",
@@ -2067,6 +2226,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une hypoacousie de transmission supérieur à 30 Db :",
     "options": [
       "Ne présente pas de réflexe stapédien",
@@ -2080,6 +2240,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "TDT est un test réalisé par :",
     "options": [
       "Audiogramme",
@@ -2093,6 +2254,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le test de Metz est le résultat de :",
     "options": [
       "La somme entre VA et VO à chaque fréquence exprimée en dBHL",
@@ -2106,6 +2268,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La pression de loreille moyenne est la pression à laquelle se trouve la valeur maximale de distension du système, elle est généralement à :",
     "options": [
       "20 daPa",
@@ -2119,6 +2282,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "HNS cochléaire sans recrutement indique une lésion au niveau :",
     "options": [
       "CCI",
@@ -2132,6 +2296,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les PEA les plus utiles sont :",
     "options": [
       "Les PEA de latence moyenne",
@@ -2145,6 +2310,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les PEATC sont composées dondes qui sont nommées par des chiffres romains de :",
     "options": [
       "I à IV",
@@ -2158,6 +2324,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le diagnostic tardif de lhypoacousie infantile permet un pronostic meilleur :",
     "options": [
       "VRAI ",
@@ -2171,6 +2338,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "En général il est essentiel de réaliser lors dune perte daudition chez lenfant :",
     "options": [
       "Test de Metz et FLOWER de façon systématique",
@@ -2184,6 +2352,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les OEA sont des sons générés à lintérieur de la cochlée normale de manière spontanée ou en réponse à une stimulation acoustique, dans ce cas elles sont appelées évoquées .",
     "options": [
       "FAUX",
@@ -2197,6 +2366,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le potentiel évoqué auditifs PEA permet :",
     "options": [
       "Toutes les propositions sont justes",
@@ -2210,6 +2380,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les OEA les plus utilisés sont :",
     "options": [
       "Les émissions oto acoustiques transitoires EOAT et les émissions oto acoustiques à fréquence soutenue EOAFS",
@@ -2223,6 +2394,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Une hypoacousie centrale se manifeste par :",
     "options": [
       "Toutes les propositions sont justes",
@@ -2236,6 +2408,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Lors dune neuropathie auditive :",
     "options": [
       "Les OEA sont positives et les potentiels sont détectés ou sont organisés",
@@ -2249,6 +2422,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "PEATC dans une HNS cochléaire",
     "options": [
       "Seuil V normale à des intensités moyennes",
@@ -2262,6 +2436,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "PEATC dans une HNS rétro cochléaire",
     "options": [
       "Augmente lintervalle I-V",
@@ -2275,6 +2450,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La perte daudition chez lenfant entraîne :",
     "options": [
       "Toutes les propositions sont justes",
@@ -2288,6 +2464,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "PEATC dans une hypoacousie de transmission",
     "options": [
       "Augmente le seuil de londe V et augmente la latence de toutes les ondes",
@@ -2301,6 +2478,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Limportance des PEATC est dans le fait quils :",
     "options": [
       "Offrent la possibilité dexplorer la voie auditive à différents niveaux et permettent destimer de manière subjective le seuil auditif dans lapex de la cochlée.",
@@ -2314,6 +2492,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Le ASSR a comme limite :",
     "options": [
       "Une durée plus courte que les PEATC",
@@ -2327,6 +2506,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les potentiels évoqués auditifs du tronc cérébral PEATC sont :",
     "options": [
       "Des potentiels de latence longue",
@@ -2340,6 +2520,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Si les émissions otoacoustiques ne sont pas enregistrées, il faut exclure les problèmes doreille moyenne avant de considérer la possibilité dune lésion cochléaire",
     "options": [
       "VRAI ",
@@ -2353,6 +2534,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les Otoémissions acoustiques OEA est un test :",
     "options": [
       "Non invasif, objectif et indolore",
@@ -2366,6 +2548,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Létude de laudition chez les enfants comprend :",
     "options": [
       "OEA ET PEA",
@@ -2379,6 +2562,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Test découte dichotique de chiffres EDC",
     "options": [
       "Évalue lintégration et la dissociation binaurale",
@@ -2392,6 +2576,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "---------------------------------------, est responsable de la formation des tissus conjonctifs, cartilagineux, osseux et musculaires. De cette couche dépendent plusieurs structures de l'oreille, tant de l'externe, de la moyenne comme de l'interne.",
     "options": [
       "La couche la plus superficielle, l'ectoderme",
@@ -2405,6 +2590,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans l'oreille interne, à quelle fenêtre est fixé l'étrier ?",
     "options": [
       "Fenêtre ovale",
@@ -2418,6 +2604,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans l'oreille interne, avec quelle rampe la fenêtre ronde est-elle connectée ?",
     "options": [
       "Rampe médiane",
@@ -2431,6 +2618,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans l'oreille interne, on distingue deux zones : le labyrinthe antérieur et le labyrinthe postérieur. Dans quelle zone se trouve la cochlée ?",
     "options": [
       "Dans le labyrinthe postérieur",
@@ -2444,6 +2632,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans l'organe de Corti, nous pouvons situer les cellules ciliées, quelles sont les cellules qui sont activées par le mouvement de la membrane basilaire et qui fonctionnent comme récepteurs sensoriels impliqués dans la transduction du son ?",
     "options": [
       "Les cellules ciliées externes",
@@ -2457,6 +2646,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans les phases du développement embryonnaire, l'ovule est fécondé par le spermatozoïde, formant le ------------------------ ou l'embryon unicellulaire, composé de 23 chromosomes.",
     "options": [
       "L'embryoblaste",
@@ -2470,6 +2660,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Dans quel espace se trouve lendolymphe ?",
     "options": [
       "Dans l'espace qui se trouve à l'intérieur du labyrinthe osseux",
@@ -2483,6 +2674,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "En ce qui concerne l'innervation du pavillon de l'oreille, nous pouvons distinguer trois zones : la conque, la zone supérieure et la zone postéro-inférieure. Quel nerf crânien est responsable de l'innervation de la conque ?",
     "options": [
       "Le nerf facial",
@@ -2496,6 +2688,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "En ce qui concerne la région céphalique qui formera la tête, pour continuer à comprendre le développement de l'audition, nous allons distinguer ----------------------------------------------- C'est à partir de ces zones que se développeront les différentes structures du système auditif.",
     "options": [
       "Deux arcs pharyngiens",
@@ -2510,6 +2703,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Etude de la fatigue auditive avec les tests de :",
     "options": [
       "METZ",
@@ -2523,6 +2717,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "HNS avec recrutement :",
     "options": [
       "Toutes les propositions sont justes",
@@ -2536,6 +2731,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Loreille est un organe pair et symétrique, située de chaque coté du crâne, dans los temporal :",
     "options": [
       "FAUX",
@@ -2549,6 +2745,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "LURV théorique est le PTA ± ¿ ?:",
     "options": [
       "20 dB HL",
@@ -2562,6 +2759,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "La caisse du tympan est formée de six parois, pourriez-vous me dire sur quelle paroi se trouve le promontoire ?",
     "options": [
       "Paroi supérieure, crânienne ou tegmentaire",
@@ -2575,6 +2773,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Où se trouve l'organe sensoriel de l'audition (l'organe de Corti) ?",
     "options": [
       "Sur la membrane de Reissner",
@@ -2588,6 +2787,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Parmi les fonctions de l'oreille interne, il y a l'audition et l'équilibre. Pourriez-vous me dire quelles parties sont impliquées dans l'équilibre ?",
     "options": [
       "Les canaux semi-circulaires",
@@ -2604,6 +2804,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelle est la cinquième station de la voie afférente ?",
     "options": [
       "Nerf auditif.",
@@ -2617,6 +2818,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Quelles structures pouvons-nous trouver dans l'oreille interne ?",
     "options": [
       "La pars flaccida",
@@ -2631,6 +2833,7 @@
     "image": ""
   },
   {
+    "subject": "CASA",
     "question": "Les émissions otoacoustiques sont des sons de faible intensité produits par une activité normale de la cochlée qui peuvent être mesurés à l'aide d'un microphone placé dans une sonde insérée dans le conduit auditif externe",
     "options": [
       "VRAI ",
@@ -2644,6 +2847,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Cette qualité identifie l'instrument qui produit le son.",
     "options": [
       "Timbre",
@@ -2657,6 +2861,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Nous distinguons les sons en fonction de leur hauteur.",
     "options": [
       "Fort et faible",
@@ -2670,6 +2875,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Sa valeur est une intensité de 10-16 W/cm2, et une fréquence de 1 000 Hz.",
     "options": [
       "Ondas ultrasónicas",
@@ -2683,6 +2889,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "La gamme des niveaux d'intensité perçus par l'oreille humaine est la suivante.",
     "options": [
       "0 dB - 100 dB",
@@ -2696,6 +2903,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Représente le zéro standard de l'intensité du son :",
     "options": [
       "Timbre",
@@ -2709,6 +2917,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Cette qualité identifie l'instrument qui produit le son.",
     "options": [
       "Timbre",
@@ -2722,6 +2931,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Nous distinguons les sons en fonction de leur hauteur.",
     "options": [
       "Aigus et graves",
@@ -2735,6 +2945,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Qualité du son qui dépend de la fréquence du mouvement vibratoire de l'instrument qui le produit.",
     "options": [
       "Tonalité",
@@ -2748,6 +2959,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "options": [
       "Le son ne se propage que dans le vide",
@@ -2761,6 +2973,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Ondes sonores comprises entre 20 et 20 000 Hz.",
     "options": [
       "Ondes ultrasons",
@@ -2774,6 +2987,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Ondes dont les fréquences sont inférieures à la gamme audible :",
     "options": [
       "Ondes infrasons",
@@ -2787,6 +3001,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "La puissance transférée par une onde sonore à travers une unité de surface normale à la direction de propagation.",
     "options": [
       "Seuil d'audition",
@@ -2800,6 +3015,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces sonomètres est le plus précis ?",
     "options": [
       "Sonomètre de classe 0",
@@ -2813,6 +3029,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Parmi les caractéristiques suivantes, lesquelles sont importantes pour un haut-parleur ?",
     "options": [
       "Directionnalité et distorsion",
@@ -2826,6 +3043,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lesquels de ces paramètres sont utilisés dans les microphones ?",
     "options": [
       "Directionnalité et la distorsion",
@@ -2839,6 +3057,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Si un haut-parleur a un rendement de 10 % et que l'amplificateur a une puissance de 40 W, quelle sera sa puissance sonore ?",
     "options": [
       "2 W",
@@ -2852,6 +3071,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "À quoi sert un sonomètre ?",
     "options": [
       "A transformer l'énergie électrique en énergie sonore",
@@ -2865,6 +3085,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel réseau de pondération fréquentielle doit-on utiliser si l'on veut mesurer des sons de faible intensité ?",
     "options": [
       "dBD",
@@ -2878,6 +3099,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel réseau de pondération fréquentielle doit-on utiliser si l'on veut mesurer des sons de forte intensité ?",
     "options": [
       "dBC",
@@ -2891,6 +3113,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces microphones a la meilleure sensibilité ?",
     "options": [
       "Microphones cardioïdes",
@@ -2904,6 +3127,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quels sont les dispositifs utilisés dans les tests audiologiques pour évaluer la perte auditive ?",
     "options": [
       "Sonomètres",
@@ -2917,6 +3141,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "De quel type de microphones parle-t-on lorsqu'on évoque les microphones spécialement conçus pour mieux répondre aux sons provenant de l'avant, tout en ayant tendance à rejeter les sons provenant d'autres directions ?",
     "options": [
       "Microphone omnidirectionnel",
@@ -2930,6 +3155,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Comment les effets atmosphériques affectent-ils la propagation du bruit ?",
     "options": [
       "Lorsque le vent souffle dans la même direction que la propagation du bruit, les rayons sonores sont courbés vers le haut.",
@@ -2943,6 +3169,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle de ces affirmations est correcte ?",
     "options": [
       "Le bruit produit par le passage d'un véhicule est un bruit continu",
@@ -2956,6 +3183,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle de ces définitions du bruit n'est pas correcte ?",
     "options": [
       "Un son externe indésirable ou nuisible généré par les activités humaines",
@@ -2969,6 +3197,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "options": [
       "Pour bien comprendre une conversation, il faut un niveau sonore supérieur de 5 dB(A) au niveau de bruit ambiant.",
@@ -2982,6 +3211,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces effets physiologiques n'est pas causé par le bruit ?",
     "options": [
       "Modification du rythme cardiaque",
@@ -2995,6 +3225,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces facteurs n'a pas d'incidence sur le niveau de stress provoqué par le bruit ?",
     "options": [
       "La profession du travailleur",
@@ -3008,6 +3239,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Pour quels niveaux de bruit le port d'un équipement de protection est-il obligatoire ?",
     "options": [
       "En cas de dépassement de 85 dB(A) ou de 85 dB(A) ou de 135 dB(C) du niveau de crête",
@@ -3021,6 +3253,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Qu'est-ce qu'une perte auditive ?",
     "options": [
       "Sensation de tintement, de bourdonnement ou de claquement dans les oreilles",
@@ -3034,6 +3267,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le niveau d'exposition au bruit qui ne doit pas être dépassé au cours d'une journée de travail ?",
     "options": [
       "85 dB(A)",
@@ -3047,6 +3281,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quelle est la différence entre les acouphènes et l'hypersensibilité ?",
     "options": [
       "L'acouphène est la sensation que les bruits semblent plus forts et déformés, tandis que l'hypersensibilité est la sensation d'entendre un son sans qu'une source externe ne le produise.",
@@ -3060,6 +3295,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Comment la loi sur le bruit définit-elle la pollution sonore ?",
     "options": [
       "Émissions sonores spécifiques",
@@ -3073,6 +3309,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Qu'est-ce qu'une zone sonore ?",
     "options": [
       "Zones territoriales ayant des objectifs de qualité sonore différents et qui ne sont pas réglementées par l'administration.",
@@ -3086,6 +3323,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Comment définit-on la qualité acoustique ?",
     "options": [
       "C'est le degré d'adéquation des caractéristiques sonores d'un espace aux activités qui s'y déroulent.",
@@ -3099,6 +3337,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Qu'est-ce qu'une carte de bruit ?",
     "options": [
       "Il s'agit d'une carte montrant les zones où les niveaux de bruit sont très élevés.",
@@ -3112,6 +3351,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces objectifs n'est pas celui d'une carte sonore ?",
     "options": [
       "Faire des prévisions globales",
@@ -3125,6 +3365,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel type de cartes utiliser pour évaluer l'exposition globale au bruit dans une zone donnée ?",
     "options": [
       "Carte des niveaux de bruit.",
@@ -3138,6 +3379,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "De combien de façons une carte de bruit peut-elle être produite ?",
     "options": [
       "Par des techniques de simulation qui prennent du temps et sont coûteuses.",
@@ -3151,6 +3393,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quels sont les indicateurs de bruit reflétés dans les zones sonores bâties ?",
     "options": [
       "Ld, Le y Ln",
@@ -3164,6 +3407,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lesquelles de ces données supplémentaires ne sont pas nécessaires à l'établissement d'une carte sonore ?",
     "options": [
       "La densité de population",
@@ -3177,6 +3421,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quelles sont les principales sources de pollution sonore ?",
     "options": [
       "Services de nettoyage et de ramassage des ordures",
@@ -3190,6 +3435,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, il existe une relation constante entre l'accélération et ?",
     "options": [
       "La fréquence.",
@@ -3203,6 +3449,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, lorsque le déplacement est égal à 0",
     "options": [
       "La vitesse est maximale et l'accélération est de 0.",
@@ -3216,6 +3463,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un système masse-ressort, si l'on étire le ressort",
     "options": [
       "Le déplacement de l'objet va vers la gauche et la force de rappel va vers la droite.",
@@ -3229,6 +3477,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "En acoustique, il y a résonance :",
     "options": [
       "Lorsque le système est soumis à des oscillations de fréquences différentes",
@@ -3242,6 +3491,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, le déplacement maximal par rapport à la position d'équilibre est",
     "options": [
       "la période.",
@@ -3255,6 +3505,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Une masse de 10 kg oscille avec une amplitude de 20 cm, attachée à un ressort dont la constante élastique est de 100 N/m. L'énergie cinétique lors du passage par la position d'équilibre est de",
     "options": [
       "2 J.",
@@ -3268,6 +3519,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, lorsque l'amplitude maximale est atteinte",
     "options": [
       "La vitesse est égale à 0 et l'accélération est égale à 0.",
@@ -3281,6 +3533,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, la vitesse est maximale lorsque",
     "options": [
       "Laccélération est zéro.",
@@ -3294,6 +3547,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, le temps nécessaire à un objet pour se déplacer de la position initiale jusqu'à ce qu'il revienne à la position d'équilibre est?",
     "options": [
       "la période.",
@@ -3307,6 +3561,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un mouvement périodique simple, lorsque l'élongation par rapport au point d'équilibre est maximale",
     "options": [
       "l'énergie potentielle est le quart de l'énergie cinétique",
@@ -3320,6 +3575,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "L'énergie d'un oscillateur periodique simple:",
     "options": [
       "Est une constante du mouvement et elle est proportionnelle au carré de l'amplitude.",
@@ -3333,6 +3589,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un système masse-ressort, la relation entre l'accélération et le déplacement de la masse est:",
     "options": [
       "L'accélération est inversement proportionnelle au déplacement de la masse.",
@@ -3346,6 +3603,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "L'énergie transportée par les ondes :",
     "options": [
       "Elle diminue progressivement avec l'amplitude",
@@ -3359,6 +3617,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Pour que le son se propage, les conditions suivantes doivent être remplies :",
     "options": [
       "Le son se propage à la même vitesse dans tous les milieux.",
@@ -3372,6 +3631,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lequel de ces facteurs influence la vitesse des ondes sonores dans un gaz ?",
     "options": [
       "Le module volumétrique ou module de compressibilité et la densité du milieu",
@@ -3385,6 +3645,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Selon la direction de vibration des ondes, celles-ci peuvent être classées comme suit :",
     "options": [
       "Ondes mécaniques et électromagnétiques",
@@ -3398,6 +3659,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Indiquez laquelle des affirmations suivantes est correcte :",
     "options": [
       "Les ondes sphériques peuvent être considérées comme des ondes planes lorsqu'elles sont éloignées de la source",
@@ -3411,6 +3673,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle de ces affirmations concernant les ondes périodiques est correcte:",
     "options": [
       "Les mouvements d'ondes ne peuvent pas être décrits comme une superposition d'ondes périodiques.",
@@ -3424,6 +3687,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quelle est la relation entre la longueur d'onde, le nombre d'ondes et la vitesse de phase ?",
     "options": [
       "La vitesse de phase diminue avec la longueur d'onde",
@@ -3437,6 +3701,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "La différence entre une impulsion et un train d'ondes est",
     "options": [
       "Dans une impulsion, les ondes se propagent dans toutes les directions, alors que dans un train d'ondes, elles se propagent dans une seule direction.",
@@ -3450,6 +3715,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "L'intensité d'une onde sonore sphérique :",
     "options": [
       "Ne dépend pas du point considéré",
@@ -3463,6 +3729,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Qu'est-ce que l'impédance ?",
     "options": [
       "C'est la distance entre deux points consécutifs.",
@@ -3476,6 +3743,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le phénomène par lequel une onde rebondit en changeant de direction lorsqu'elle frappe une surface de manière oblique?",
     "options": [
       "Réfraction",
@@ -3489,6 +3757,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un tube sonore fermé, il y a :",
     "options": [
       "Un ventre à l'extrémité ouverte et un ventre à l'extrémité fermée.",
@@ -3502,6 +3771,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Si deux ondes périodiques sont en phase ou diffèrent en phase d'un multiple entier de 2 ?, l'interférence est... :",
     "options": [
       "Minimale",
@@ -3515,6 +3785,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans le cas d'une corde fixée aux deux extrémités, la condition d'onde stationnaire stipule que la longueur de la corde est. :",
     "options": [
       "Un nombre entier impair de quarts de longueur d'onde",
@@ -3528,6 +3799,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Selon le théorème de Fourier, toute onde périodique :",
     "options": [
       "Ne permet pas de distinguer les sons harmoniques qui composent le timbre.",
@@ -3541,6 +3813,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Le principe de Huygens stipule que chaque point d'un front d'onde arrivant sur une fente devient une source d'ondes secondaires. Le principe de Huygens s'applique réellement:",
     "options": [
       "Uniquement aux points d'un front d'onde lorsqu'il atteint la surface de séparation de deux milieux",
@@ -3554,6 +3827,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le phénomène par lequel une onde change de direction en raison d'un changement de milieu de propagation ?",
     "options": [
       "Interférence",
@@ -3567,6 +3841,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le nom donné au changement de direction d'une onde lorsqu'elle touche le bord d'un objet, selon le principe de Huygens?:",
     "options": [
       "Réflexion",
@@ -3580,6 +3855,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Lorsqu'un battement se produit, la fréquence du battement est égale à:",
     "options": [
       "La différence de fréquence des ondes qui interfèrent.",
@@ -3593,6 +3869,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "L'interférence de deux ondes périodiques de même amplitude, de même fréquence et de même nombre d'ondes dépend de :",
     "options": [
       "La longueur d'onde",
@@ -3606,6 +3883,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le phénomène par lequel une partie de l'énergie transmise par l'onde sonore est absorbée par le mur ?",
     "options": [
       "Diffraction",
@@ -3619,6 +3897,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "En quoi consiste le phénomène de réverbération ?",
     "options": [
       "Une seule réflexion qui arrive au récepteur après 100 ms d'émission sonore.",
@@ -3632,6 +3911,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "options": [
       "Le coefficient d'absorption d'une surface non réfléchissante est de 0.",
@@ -3645,6 +3925,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "options": [
       "Le temps de réverbération sur les surfaces dont les murs sont très absorbants est très important.",
@@ -3658,6 +3939,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le comportement de la pression sonore dans une pièce?",
     "options": [
       "Elle diminue à mesure que l'on se rapproche de la source, jusqu'à une distance critique à partir de laquelle elle reste constante.",
@@ -3671,6 +3953,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel type de pièce permet de minimiser les réflexions sonores à l'intérieur?",
     "options": [
       "Salles d'absorption du son",
@@ -3684,6 +3967,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel est le nom donné au champ sonore qui inclut les sons provenant de différentes réflexions ?",
     "options": [
       "Champ direct",
@@ -3697,6 +3981,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Dans un champ libre, le niveau de pression sonore à 2 m est de 78 dB, quel sera le niveau de pression sonore à 8 m?",
     "options": [
       "70 dB",
@@ -3710,6 +3995,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des théories suivantes explique le comportement du son sur de grandes surfaces réfléchissantes ?",
     "options": [
       "Théorie psychoacoustique",
@@ -3723,6 +4009,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel doit être le niveau de bruit à l'intérieur des cabines audiométriques?",
     "options": [
       "Moins de 60 dB",
@@ -3736,6 +4023,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "A quelles fréquences l'appareil auditif est-il le plus sensible ?",
     "options": [
       "2000 Hz",
@@ -3749,6 +4037,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "De quels paramètres dépend le coefficient d'absorption d'un matériau ?",
     "options": [
       "Tous ces paramètres",
@@ -3762,6 +4051,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quels types de matériaux utiliser pour réduire le temps de réverbération d'une pièce ?",
     "options": [
       "Absorbants anéchoïques",
@@ -3775,6 +4065,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Comment améliorer l'isolation acoustique d'un mur double ?",
     "options": [
       "En séparant les deux murs par une chambre à air",
@@ -3788,6 +4079,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Parmi les matériaux suivants, lequel a le coefficient d'absorption le plus élevé ?",
     "options": [
       "Matériaux poreux",
@@ -3801,6 +4093,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Si les niveaux de pression sonore incidents et transmis sont respectivement Lpi = 90 dB et Lpt = 45 dB, l'isolation acoustique brute est la suivante",
     "options": [
       "95 dB",
@@ -3814,6 +4107,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Laquelle des affirmations suivantes est correcte ?",
     "options": [
       "Plus la densité de surface de la cloison est faible et plus la fréquence sonore est élevée, plus l'isolation acoustique est importante.",
@@ -3827,6 +4121,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "L'isolation acoustique d'une pièce signifie",
     "options": [
       "Réduire le bruit produit dans la pièce par les réflexions sur les murs",
@@ -3840,6 +4135,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Quel type de verre permet d'améliorer l'isolation des fenêtres ?",
     "options": [
       "Verre renforcé",
@@ -3853,6 +4149,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Sur quoi se fonde la méthode de Kundt ?",
     "options": [
       "Sur l'effet des ondes sonores provenant de différentes directions",
@@ -3866,6 +4163,7 @@
     "image": ""
   },
   {
+    "subject": "AEPS",
     "question": "Sur quoi repose la méthode de la chambre réverbérante ?",
     "options": [
       "Sur les sons purs qui sont réfléchis lorsqu'ils atteignent le matériau",
@@ -3879,6 +4177,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les ondes sonores :",
     "options": [
       "Elles possèdent une période, une fréquence et une longueur d'onde",
@@ -3892,6 +4191,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La puissance dissipée par une résistance est :",
     "options": [
       "V / I",
@@ -3905,6 +4205,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est l'unité de mesure du courant ?",
     "options": [
       "Le volt",
@@ -3918,6 +4219,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel signal aurait une fréquence plus élevée, celui dans lequel 3 cycles sont introduits en une seconde ou celui dans lequel 5 cycles sont introduits ?",
     "options": [
       "Celui dans lequel 3 cycles entrent",
@@ -3931,6 +4233,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce que la résistance électrique ?",
     "options": [
       "C'est le passage du courant électrique",
@@ -3944,6 +4247,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est l'unité de mesure de la résistance électrique ?",
     "options": [
       "Le volt",
@@ -3957,6 +4261,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Comment s'appelle le temps qu'il faut à une onde alternative pour effectuer un cycle ?",
     "options": [
       "Toutes les réponses sont correctes.",
@@ -3970,6 +4275,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de millivolts représentent 0,65 V",
     "options": [
       "Aucune des réponses ci-dessus n'est correcte",
@@ -3983,6 +4289,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce qu'une période ?",
     "options": [
       "Le nombre de cycles qui se produisent en une seconde",
@@ -3996,6 +4303,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de mesures un multimètre peut-il effectuer ?",
     "options": [
       "Il ne mesure que des ampères",
@@ -4009,6 +4317,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce qu'une tension ?",
     "options": [
       "C'est le passage d'un courant électrique",
@@ -4022,6 +4331,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Lorsque le courant circule dans le même sens et que sa valeur est constante, on parle de :",
     "options": [
       "Courant de rampe",
@@ -4035,6 +4345,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle serait la période d'une onde dont la fréquence est de 50 Hz ?",
     "options": [
       "20 ms",
@@ -4048,6 +4359,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est l'unité de mesure de la puissance",
     "options": [
       "Le watt",
@@ -4061,6 +4373,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel instrument mesure l'intensité du courant continu ?",
     "options": [
       "L'ohmmètre",
@@ -4074,6 +4387,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si une tension varie dans le temps, on dit qu'il s'agit d'une tension",
     "options": [
       "Invariable",
@@ -4087,6 +4401,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle grandeur physique peut être mesurée à l'aide d'un voltmètre ?",
     "options": [
       "La résistance",
@@ -4100,6 +4415,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Comment appelle-t-on la tension variable dans le temps ?",
     "options": [
       "Courant alternatif",
@@ -4113,6 +4429,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La direction du flux d'électrons est :",
     "options": [
       "La direction conventionnelle",
@@ -4126,6 +4443,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de kilo ohms représentent 140 000 Ohms?",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4139,6 +4457,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit de résistances en parallèle, la résistance totale est",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -4152,6 +4471,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "En théorie, quelle est la résistance d'un condensateur connecté à une source de courant continu ?",
     "options": [
       "Résistance infinie",
@@ -4165,6 +4485,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la tension de l'émetteur de base à saturation",
     "options": [
       "0,7v",
@@ -4178,6 +4499,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la valeur d'une résistance dont le code couleur est rouge-vert-marron-argent",
     "options": [
       "2500 ohms ±10%",
@@ -4191,6 +4513,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Théoriquement, un condensateur connecté à une source de courant alternatif se comporte comme ?",
     "options": [
       "Un circuit ouvert",
@@ -4204,6 +4527,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le transistor représenté sur la figure est un transistor du type C  B > E",
     "options": [
       "Toutes les réponses sont correctes",
@@ -4217,6 +4541,7 @@
     "image": "https://i.postimg.cc/LXyJnT2g/NPN.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la valeur d'une résistance dont le code couleur est jaune-violet-noir-bleu-marron",
     "options": [
       "470 Mohm ±1%",
@@ -4230,6 +4555,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quels sont les types de résistances",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4243,6 +4569,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Une résistance SMD dont le corps est marqué du chiffre 122 a une valeur de",
     "options": [
       "1,2 ohms",
@@ -4256,6 +4583,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La loi d'Ohm est",
     "options": [
       "Un rapport de lois",
@@ -4269,6 +4597,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le symbole de la figure représente",
     "options": [
       "Condensateur non polarisé",
@@ -4282,6 +4611,7 @@
     "image": "https://i.postimg.cc/hj80wN8W/Image-4.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Combien de nF représente 1mF ?",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4295,6 +4625,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Une résistance SMD dont le corps porte le numéro R22 a une valeur de R22",
     "options": [
       "220 ohms",
@@ -4308,6 +4639,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le symbole de la figure représente (condensateur barré d'une flèche)",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4321,6 +4653,7 @@
     "image": "https://i.postimg.cc/xCZZfwJk/Image-2.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Comment s'appellent les broches d'un transistor",
     "options": [
       "Base, collecteur et récepteur",
@@ -4334,6 +4667,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce que Tau ?",
     "options": [
       "Le temps nécessaire pour que le condensateur se charge en courant alternatif",
@@ -4347,6 +4681,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans lequel des circuits suivants le condensateur mettra-t-il le plus de temps à se charger ?",
     "options": [
       "Circuit C",
@@ -4360,6 +4695,7 @@
     "image": "https://i.postimg.cc/85c3Vp5Q/circuit.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Comment s'appellent les broches d'un transistor ?",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4373,6 +4709,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si l'on veut mesurer la tension aux bornes d'une résistance, comment connecter le voltmètre à la résistance ?",
     "options": [
       "En parallèle",
@@ -4386,6 +4723,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les condensateurs qui ont une polarité sont",
     "options": [
       "Les condensateurs en céramique",
@@ -4399,6 +4737,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Selon la loi d'Ohm",
     "options": [
       "Le courant circulant dans un circuit est directement proportionnel à la tension appliquée et inversement proportionnel à la résistance totale du circuit",
@@ -4412,6 +4751,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans une diode de redressement, la broche négative",
     "options": [
       "Elle est marquée d'une bande grise",
@@ -4425,6 +4765,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la valeur d'une résistance dont le code couleur est bleu-gris-rouge-or ?",
     "options": [
       "6800 kOhm ±5%",
@@ -4438,6 +4779,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit parallèle de résistances, il est vrai que",
     "options": [
       "La tension est égale aux bornes de toutes les résistances",
@@ -4451,6 +4793,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "En termes de caractéristiques, quels sont les meilleurs composants conventionnels ou SMD",
     "options": [
       "Toutes les réponses sont correctes",
@@ -4464,6 +4807,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Laquelle des affirmations suivantes est correcte",
     "options": [
       "Le temps de charge/décharge est d'autant plus long que la résistance et la capacité sont élevées",
@@ -4477,6 +4821,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Laquelle des affirmations suivantes est valable pour un circuit de résistance en série",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4490,6 +4835,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit en série, la tension appliquée est répartie",
     "options": [
       "Le circuit par le conducteur de protection",
@@ -4503,6 +4849,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit de résistances en série, la résistance totale est",
     "options": [
       "R1 x R2 x R3",
@@ -4516,6 +4863,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la valeur d'une résistance dont le code couleur est vert-bleu-orange-argent",
     "options": [
       "56 K ±5 %",
@@ -4529,6 +4877,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le symbole de la figure représente",
     "options": [
       "Condensateur normal",
@@ -4542,6 +4891,7 @@
     "image": "https://i.postimg.cc/x1dFmjvk/Condo.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Si nous voyons que la valeur d'une résistance est de 2K7, cela signifie que sa valeur est de",
     "options": [
       "27000",
@@ -4555,6 +4905,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le transistor de la figure représente un transistor de type",
     "options": [
       "PNP",
@@ -4568,6 +4919,7 @@
     "image": "https://i.postimg.cc/t40YZ7Qk/PNP.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Le symbole de la figure est un:",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4581,6 +4933,7 @@
     "image": "https://i.postimg.cc/WpWZ321Y/Diode.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le nom de l'appareil électronique de la figure",
     "options": [
       "Condensateur variable",
@@ -4594,6 +4947,7 @@
     "image": "https://i.postimg.cc/R04hd80n/ResVar.jpg"
   },
   {
+    "subject": "TEPA",
     "question": "Avec quelle unité mesure-t-on la capacité d'un condensateur ?",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4607,6 +4961,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de nF correspondent à 1mF ?",
     "options": [
       "0,001 mF",
@@ -4620,6 +4975,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si l'on veut mesurer le courant dans une résistance, comment connecter l'ampèremètre à la résistance",
     "options": [
       "Peu importe, du moment que l'on mesure le passage des électrons",
@@ -4633,6 +4989,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de µF représentent 100 pF ?",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4646,6 +5003,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si l'on voit que la valeur d'une résistance est de 5K2, cela signifie que sa valeur est de",
     "options": [
       "5200",
@@ -4659,6 +5017,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la tension sur le collecteur de l'émetteur lorsque le transistor est en coupure",
     "options": [
       "0V",
@@ -4672,6 +5031,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quels sont les trois types de condensateurs ?",
     "options": [
       "Céramique, redresseur et plastique",
@@ -4685,6 +5045,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit parallèle de résistances, la réponse suivante est vraie",
     "options": [
       "Aucune des réponses n'est correcte",
@@ -4698,6 +5059,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de nF correspondent à 10 µF",
     "options": [
       "100 nF",
@@ -4711,6 +5073,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Une résistance SMD dont le corps est marqué du chiffre 2R2 a une valeur de",
     "options": [
       "200 ohms",
@@ -4724,6 +5087,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si l'on met en parallèle une résistance de 1 Mohm et une résistance de 1 ohm, la résistance équivalente sera",
     "options": [
       "10,001 ohm",
@@ -4737,6 +5101,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La transmission du son par câble s'effectue au moyen de:",
     "options": [
       "Subwoofer/Caisson de basse.",
@@ -4750,6 +5115,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Lignes/cables symétriques...:",
     "options": [
       "Elles améliorent le rapport signal/bruit.",
@@ -4763,6 +5129,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le bruit utilisé pour analyser le comportement des haut-parleurs et des équipements de sonorisation est",
     "options": [
       "Un bruit rose.",
@@ -4776,6 +5143,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Basses/graves fréquences.",
     "options": [
       "Ce sont les seules fréquences qui peuvent être perçues par l'homme.",
@@ -4789,6 +5157,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un microphone est:",
     "options": [
       "Toutes les réponses sont correctes.",
@@ -4802,6 +5171,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Entre quelles valeurs de fréquence la bande passante est-elle audible pour l'homme ?",
     "options": [
       "Au-dessus de 20 dB.",
@@ -4815,6 +5185,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qui a pour fonction de transformer les signaux sonores physiques en signaux sonores mécaniques ?",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -4828,6 +5199,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Types de microphones unidirectionnels en fonction de leur diagramme polaire ?",
     "options": [
       "Les microphones unidirectionnels n'ont qu'un seul diagramme polaire.",
@@ -4841,6 +5213,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les Microphones",
     "options": [
       "Ils sont utilisés pour mesurer l'intensité sonore d'une onde.",
@@ -4854,6 +5227,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le seuil du son est:",
     "options": [
       "20.10^(-6) N/m^2.",
@@ -4867,6 +5241,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "À quoi sert un sonomètre ?",
     "options": [
       "À mesurer la quantité de signal sonore. Elle est exprimée en décibels (dB).",
@@ -4880,6 +5255,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le nom du haut-parleur à l'endroit où se trouverait la partie de la parole ?",
     "options": [
       "Woofer.",
@@ -4893,6 +5269,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans quel bruit toutes les fréquences ont la même puissance",
     "options": [
       "Un bruit bleu.",
@@ -4906,6 +5283,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Une ligne/ un cable symétrique :",
     "options": [
       "Transmet en stéréo.",
@@ -4919,6 +5297,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Comment s'appelle le haut-parleur qui reproduit les fréquences moyennes ?",
     "options": [
       "Subwoofer.",
@@ -4932,6 +5311,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les lignes asymétriques....",
     "options": [
       "Elles utilisent un conducteur et une maille.",
@@ -4945,6 +5325,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelles sont les parties de l'oreille ?",
     "options": [
       "Deux parties : l'oreille externe et l'oreille moyenne.",
@@ -4958,6 +5339,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de diodes un transistor contient-il ?",
     "options": [
       "Un transistor n'est pas constitué de diodes.",
@@ -4971,6 +5353,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de millivolts représentent 0,65 V",
     "options": [
       "65 mV",
@@ -4984,6 +5367,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un circuit parallèle de résistances, il est vrai que",
     "options": [
       "La tension est égale aux bornes de toutes les résistances",
@@ -4997,6 +5381,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un égaliseur graphique, sur quel type d'appareil auditif se monte-t-il?",
     "options": [
       "Sur les deux types.",
@@ -5010,6 +5395,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "L'étain utilisé pour la soudure est-il pur?",
     "options": [
       "Non, il s'agit de 60% d'étain, 30% de plomb et 10% de résine.",
@@ -5023,6 +5409,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le bruit utilisé pour analyser le comportement des haut-parleurs et des équipements de sonorisation est",
     "options": [
       "Les deux bruits.",
@@ -5036,6 +5423,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les principales caractéristiques d'un filtre passe-bande sont les suivantes:",
     "options": [
       "Toutes les réponses sont correctes.",
@@ -5049,6 +5437,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel nombre viendrait après l'hexadécimal 3FE ?",
     "options": [
       "3FE.",
@@ -5062,6 +5451,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel signal aurait une fréquence plus élevée, celui dans lequel 3 cycles sont introduits en une seconde ou celui dans lequel 5 cycles sont introduits ?",
     "options": [
       "Aucune des réponses n'est correcte, car ce sont les demi-cycles qu'il faut prendre en compte, et non les cycles",
@@ -5075,6 +5465,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un signal d'une fréquence de 1 KHz a une période :",
     "options": [
       "1 microseconde",
@@ -5088,6 +5479,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si je veux assembler un circuit suiveur de tension:",
     "options": [
       "Je l'assemble avec des transistors à symétrie complémentaire",
@@ -5101,6 +5493,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un amplificateur à symétrie complémentaire Comment sort-il le signal de sortie par rapport à l'entrée",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -5114,6 +5507,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Citez les différentes façons de connecter le transistor bipolaire",
     "options": [
       "Base commune, émetteur commun et collecteur commun.",
@@ -5127,6 +5521,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de diodes un transistor contient-il ?",
     "options": [
       "Deux diodes.",
@@ -5140,6 +5535,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans quelle phase un amplificateur opérationnel inverseur émet-il le signal de sortie par rapport à l'entrée ?",
     "options": [
       "Aucune des réponses ci-dessus n'est correcte.",
@@ -5153,6 +5549,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Est-il possible de supprimer la distorsion de croisement dans un amplificateur?",
     "options": [
       "Oui, en réglant Vcc/2 sur un point médian à l'aide d'un potentiomètre.",
@@ -5166,6 +5563,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "L'offset null dans un amplificateur opérationnel est",
     "options": [
       "La vitesse de charge des condensateurs qu'il contient.",
@@ -5179,6 +5577,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Le transistor fonctionnant en classe A",
     "options": [
       "Il amplifie dans le demi-cycle négatif plus que dans le demi-cycle positif.",
@@ -5192,6 +5591,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Pour calculer le gain en tension d'un amplificateur :",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -5205,6 +5605,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce que l'amplification de classe AB ?",
     "options": [
       "Amplification en coupure.",
@@ -5218,6 +5619,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le gain d'un suiveur de tension ?",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -5231,6 +5633,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la tension collecteur émetteur à saturation ?",
     "options": [
       "0,2 volts.",
@@ -5244,6 +5647,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle est la tension du collecteur émetteur en actif ?",
     "options": [
       "Vcc/2.",
@@ -5257,6 +5661,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Si un client a besoin d'une amplification de sortie de faible puissance, quel amplificateur son appareil auditif doit-il utiliser ?",
     "options": [
       "Un amplicateur symétrique complémentaire.",
@@ -5270,6 +5675,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un amplificateur opérationnel non inverseur émet le signal de sortie dans quelle phase par rapport à l'entrée ?",
     "options": [
       "Aucune des réponses ci-dessus n'est correcte.",
@@ -5283,6 +5689,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un amplificateur...",
     "options": [
       "Il augmente le signal d'entrée un certain nombre de fois.",
@@ -5296,6 +5703,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un appareil auditif puissant. Pourquoi n'est-il pas polarisé en actif?",
     "options": [
       "Il n'est pas polarisée en actif car il consommerait en l'absence de signal.",
@@ -5309,6 +5717,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un circuit de transistor avec une configuration d'émetteur commun signifie",
     "options": [
       "Que l'émetteur est commun uniquement à l'entrée.",
@@ -5322,6 +5731,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Une amplification symétrique complémentaire?",
     "options": [
       "Excite le signal d'entrée de l'étape finale.",
@@ -5335,6 +5745,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un filtre passif, si l'on augmente la fréquence dans son condensateur:",
     "options": [
       "Son impédance réactive augmente.",
@@ -5348,6 +5759,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de fréquences un filtre passe-bande a-t-il?",
     "options": [
       "Trois fréquences : la fréquence de coupure inférieure, la fréquence de coupure supérieure et la fréquence de résonance.",
@@ -5361,6 +5773,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quels sont les types de filtres qui existent en fonction de leurs composants?",
     "options": [
       "Aucune des réponses n'est correcte.",
@@ -5374,6 +5787,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quels sont les types de filtres selon leur configuration?",
     "options": [
       "Filtre passe-bas, filtre passe-haut, filtre passe-bande et filtre coupe-bande.",
@@ -5387,6 +5801,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un filtre coupe-bande laisse passer quelles fréquences?",
     "options": [
       "Toutes",
@@ -5400,6 +5815,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un égaliseur sera meilleur:",
     "options": [
       "Plus la bande passante de ses bandes est petite et plus il y a de bandes.",
@@ -5413,6 +5829,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quels sont les types d'égaliseurs?",
     "options": [
       "Les égaliseurs passifs et actifs.",
@@ -5426,6 +5843,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La fréquence de coupure est:",
     "options": [
       "Celle à laquelle le gain a chuté de 3dB par rapport au gain maximum.",
@@ -5439,6 +5857,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les principales caractéristiques d'un filtre passe-bande sont les suivantes:",
     "options": [
       "Facteur de qualité.",
@@ -5452,6 +5871,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "A quoi servent les potentiomètres dans un égaliseur?",
     "options": [
       "A éliminer ou à laisser passer les différentes fréquences d'entrée.",
@@ -5465,6 +5885,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un filtre passe-bas a-t-il une fréquence centrale?",
     "options": [
       "Oui, mais elle est supprimée par le potentiomètre d'entrée..",
@@ -5478,6 +5899,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Un égaliseur paramétrique se monte sur:",
     "options": [
       "Sur les deux.",
@@ -5491,6 +5913,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le composant principal d'un filtre actif?",
     "options": [
       "Avec une résistance",
@@ -5504,6 +5927,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "La fréquence de coupure est:",
     "options": [
       "Celle à laquelle le gain a chuté de 3dB par rapport au gain maximum.",
@@ -5517,6 +5941,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "À quoi sert un filtre?",
     "options": [
       "A distinguer certaines fréquences.",
@@ -5530,6 +5955,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les filtres actifs ...",
     "options": [
       "Ils peuvent facilement être plus sélectifs.",
@@ -5543,6 +5969,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans un égaliseur graphique, sur quel type d'appareil auditif se monte-t-il?",
     "options": [
       "Sur les deux types.",
@@ -5556,6 +5983,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les filtres de troisième ordre sont ceux qui ont une atténuation de:",
     "options": [
       "6 db",
@@ -5569,6 +5997,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Les filtres de second ordre sont ceux qui ont une atténuation de:",
     "options": [
       "6 db",
@@ -5582,6 +6011,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Dans une porte NOT:",
     "options": [
       "Toutes les réponses sont correctes",
@@ -5595,6 +6025,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien de volts équivalent à 1 dans la technologie TTL ?",
     "options": [
       "3,5v.",
@@ -5608,6 +6039,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce qu'une table de vérité ?",
     "options": [
       "Elle nous indique comment réduire une fonction.",
@@ -5621,6 +6053,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Combien d'états peut avoir l'électronique numérique ?",
     "options": [
       "Un état.",
@@ -5634,6 +6067,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le nombre décimal est 10101101?",
     "options": [
       "183.",
@@ -5647,6 +6081,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "À quoi correspond 1010 en hexadécimal ?",
     "options": [
       "Aucune des réponses nest correcte.",
@@ -5660,6 +6095,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel nombre en décimal est 011101?",
     "options": [
       "33.",
@@ -5673,6 +6109,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quelle serait la somme de 1000 + 0011 ?",
     "options": [
       "1010.",
@@ -5686,6 +6123,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel est le nombre décimal de 1101 ?",
     "options": [
       "13.",
@@ -5699,6 +6137,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel numéro irait après 5FF ?",
     "options": [
       "3FA.",
@@ -5712,6 +6151,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel nombre viendrait après l'hexadécimal 3FE ?",
     "options": [
       "3FD.",
@@ -5725,6 +6165,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel nombre décimal correspond à 1010 ?",
     "options": [
       "Aucune des réponses nest correcte",
@@ -5738,6 +6179,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "À quoi correspond 01101011 en hexadécimal ?",
     "options": [
       "Aucune des réponses nest correcte",
@@ -5751,6 +6193,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Comment fonctionne une porte XOR ?",
     "options": [
       "Lorsque les entrées sont égales, la sortie est égale à 1 et lorsque les entrées sont différentes, la sortie est égale à 0.",
@@ -5764,6 +6207,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "À quoi correspond 1110 en décimal ?",
     "options": [
       "13",
@@ -5777,6 +6221,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Quel numéro irait après le décimal 5FE?",
     "options": [
       "5FF",
@@ -5790,6 +6235,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "En binaire, quel est le nombre B8 ?",
     "options": [
       "Aucune des réponses nest correcte",
@@ -5803,6 +6249,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "En termes canoniques :",
     "options": [
       "Toutes les variables doivent apparaître",
@@ -5816,6 +6263,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "Qu'est-ce que cela signifie qu'il est activé à un faible niveau ?",
     "options": [
       "Qu'il est activé avec un faible niveau de bruit.",
@@ -5829,6 +6277,7 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
     "question": "En quoi le système binaire diffère-t-il du système hexadécimal ?",
     "options": [
       "Le système binaire est en base 2 et le système décimal est en base 8.",
@@ -5842,6 +6291,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel équipement est utilisé pour protéger la tête de possibles impacts dans l'environnement de travail ? :",
     "options": [
       "Un masque",
@@ -5855,6 +6305,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans un plan d'autoprotection, quelle mesure serait la plus efficace pour prévenir un désastre en cas de déversement de substances chimiques dangereuses ? :",
     "options": [
       "Stocker les substances chimiques dans des endroits ouverts et bien ventilés",
@@ -5868,6 +6319,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi ces propositions laquelle est une mesure spécifique pour protéger les femmes enceintes au travail ? :",
     "options": [
       "Réduire les heures de travail sans autres mesures",
@@ -5881,6 +6333,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la principale différence entre un risque ergonomique et un risque psychosocial dans l'environnement de travail ? :",
     "options": [
       "Les deux risques sont exclusivement gérés par des changements dans la conception du poste de travail.",
@@ -5894,6 +6347,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel type de dommage peut être causé par une exposition prolongée au bruit dans l'environnement de travail ? :",
     "options": [
       "Des troubles musculo-squelettiques",
@@ -5907,6 +6361,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel risque de sécurité est associé à la mauvaise manipulation de machines lourdes ? :",
     "options": [
       "Le stress",
@@ -5920,6 +6375,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel droit ont les travailleurs en ce qui concerne leur santé au travail ? :",
     "options": [
       "Se protéger uniquement dans des situations extrêmes",
@@ -5933,6 +6389,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans les propositions suivantes, quel risque est un risque environnemental ? :",
     "options": [
       "Une chute de hauteur",
@@ -5946,6 +6403,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel organisme public supervise la conformité à la législation sur la prévention des risques professionnels en Espagne ? :",
     "options": [
       "INSST",
@@ -5959,6 +6417,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est lobligation des travailleurs par rapport aux normes de prévention des risques professionnels ? :",
     "options": [
       "Décider s'ils veulent suivre les mesures de prévention",
@@ -5972,6 +6431,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels facteurs de risques incluent l'exposition au bruit, à un éclairage inadéquat et aux vibrations ? :",
     "options": [
       "Les facteurs ergonomiques",
@@ -5985,6 +6445,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Laquelle de ces propositions est un exemple daccident du travail ? :",
     "options": [
       "Linsomnie",
@@ -5998,6 +6459,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel type de facteurs de risques se réfère à l'organisation du travail et aux relations interpersonnelles ? :",
     "options": [
       "Les facteurs chimiques",
@@ -6011,6 +6473,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la première étape dans le protocole d'intervention en cas de situation d'urgence ? :",
     "options": [
       "Porter secours : Appliquer les premiers secours",
@@ -6024,6 +6487,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels risques sont principalement associés aux expositions, aux virus et aux bactéries dans l'environnement de travail ? :",
     "options": [
       "Les risques ergonomiques",
@@ -6037,6 +6501,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel impact peut avoir une condition de travail qui engendre du stress sur le travailleur ? :",
     "options": [
       "Un impact sur la santé physique uniquement",
@@ -6050,6 +6515,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la fonction principale des équipements de protection individuelle (EPI) ? :",
     "options": [
       "Améliorer l'esthétique sur le lieu de travail",
@@ -6063,6 +6529,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle mesure préventive se concentre sur l'élimination des contaminants de l'air sur le lieu de travail ? :",
     "options": [
       "Lutilisation de gants",
@@ -6076,6 +6543,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle condition ergonomique défectueuse peut causer un mal de dos et des lésions articulaires ? :",
     "options": [
       "Lutilisation de produits chimiques",
@@ -6089,6 +6557,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans l'évaluation des risques professionnels, quel critère est utilisé pour déterminer la priorité dans la mise en uvre des mesures préventives ? :",
     "options": [
       "La préférence du travailleur concerné",
@@ -6102,6 +6571,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans quel cas le travailleur a-t-il le droit de résilier le contrat de travail en ayant droit à une indemnité de 20 jours de salaire par année travaillée, avec un maximum de 9 mois ?",
     "options": [
       "en cas de licenciement disciplinaire abusif",
@@ -6115,6 +6585,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la durée maximale de la période d'essai pour les techniciens qualifiés, à moins que la convention collective n'en dispose autrement ?",
     "options": [
       "4 mois",
@@ -6128,6 +6599,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi les éléments suivants quel est celui qui doit être inclus dans le reçu de salaire ?",
     "options": [
       "la situation matrimoniale du travailleur",
@@ -6141,6 +6613,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans le cadre d'une invalidité temporaire quel pourcentage du salaire reçoit le salarié, à partir du 21ème jour de la suspension temporaire du contrat de travail ?",
     "options": [
       "0,8",
@@ -6154,6 +6627,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la procédure judiciaire du travail qui commence par une conciliation préalable devant le SMAC ?",
     "options": [
       "le licenciement collectif",
@@ -6167,6 +6641,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Le service de médiation, d'arbitrage et de conciliation (SMAC) a pour fonction principale de :",
     "options": [
       "réviser les contrats de travail",
@@ -6180,6 +6655,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel élément constitue un droit des employeurs ?",
     "options": [
       "le droit t à la formation continue",
@@ -6193,6 +6669,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Le droit du travailleur à la formation professionnelle continue est :",
     "options": [
       "un devoir",
@@ -6206,6 +6683,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Le statut des travailleurs réglemente les aspects suivants, à l'exception :",
     "options": [
       "des droits et devoirs constitutionnels",
@@ -6219,6 +6697,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "La suspension du contrat de travail implique:",
     "options": [
       "l'interruption définitive des principales obligations du contrat (travail et rémunération), et en mettant fin à la relation de travail",
@@ -6232,6 +6711,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est le délai général pour qu'un travailleur intente une action en justice suite à un licenciement ?",
     "options": [
       "15 jours ouvrables",
@@ -6245,6 +6725,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Le congé de maternité est de :",
     "options": [
       "6 semaines",
@@ -6258,6 +6739,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Un travailleur qui a épuisé les allocations de chômage contributives peut avoir droit à :",
     "options": [
       "une prestation d'invalidité temporaire",
@@ -6271,6 +6753,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi les motifs suivants, quel est celui qui constitue une suspension du contrat de travail ?",
     "options": [
       "un abandon du travail",
@@ -6284,6 +6767,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Une des causes d'extinction du contrat de travail comme décision du travailleur est:",
     "options": [
       "la démission",
@@ -6297,6 +6781,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la principale norme qui régit les droits et les obligations du travail en Espagne ?",
     "options": [
       "le statut des travailleurs",
@@ -6310,6 +6795,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "La convention collective peut comprendre des clauses de compléments de salaire fondées sur :",
     "options": [
       "l'ancienneté du travailleur",
@@ -6323,6 +6809,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les éléments obligatoires à inclure dans une convention collective, selon la législation espagnole ?",
     "options": [
       "le salaire de base, les compléments de salaire, les primes extraordinaires, la révision des salaires et les frais personnels",
@@ -6336,6 +6823,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel article de la constitution espagnole réglemente la négociation collective ?",
     "options": [
       "larticle 35",
@@ -6349,6 +6837,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "La procédure qui permet à un travailleur d'interrompre temporairement son activité professionnelle pour des raisons personnelles, tout en préservant son droit de réintégrer l'entreprise, s'appelle :",
     "options": [
       "le télétravail",
@@ -6362,6 +6851,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce que la téléaudiologie ?",
     "options": [
       "La mise en uvre de thérapies psychoacoustiques basées sur la reprogrammation cérébrale pour traiter la perte auditive",
@@ -6375,6 +6865,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel aspect de lutilisation de lintelligence artificielle (IA) révolutionne le diagnostic audiologique ?",
     "options": [
       "Lanalyse de grandes quantités de données auditives pour une évaluation plus précise",
@@ -6388,6 +6879,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle compétence interpersonnelle est la plus pertinente pour un audioprothésiste face à des patients frustrés par leur perte auditive ?",
     "options": [
       "Lempathie et capacité d'écoute active pour comprendre et accompagner les patients dans leur processus d'adaptation",
@@ -6401,6 +6893,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la compétence la plus pertinente pour un audioprothésiste ?",
     "options": [
       "La capacité à construire et concevoir des environnements acoustiques",
@@ -6414,6 +6907,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels types de tests effectuent généralement les audioprothésistes ?",
     "options": [
       "Les tests de réponse musculaire liés à la perception sonore",
@@ -6427,6 +6921,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce qui a récemment transformé le secteur de laudiologie prothétique ?",
     "options": [
       "Le remplacement des appareils auditifs par des traitements pharmacologiques pour la perte auditive",
@@ -6440,6 +6935,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce qui représente un défi pour le secteur de laudiologie prothétique ?",
     "options": [
       "Les difficultés d'intégration des nouveaux développements technologiques en raison des restrictions réglementaires",
@@ -6453,6 +6949,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est lenjeu majeur du secteur de laudiologie prothétique ?",
     "options": [
       "La diminution de la demande de services auditifs",
@@ -6466,6 +6963,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle compétence est essentielle pour un audioprothésiste lors du réglage des appareils auditifs ?",
     "options": [
       "La maîtrise des techniques audiométriques et des logiciels de programmation d'appareils auditifs",
@@ -6479,6 +6977,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel rôle peut jouer un consultant en audiologie ?",
     "options": [
       "Conseiller les cliniques d'audition sur la sélection et l'adaptation des appareils auditifs",
@@ -6492,6 +6991,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle compétence est essentielle pour un responsable de centre auditif ?",
     "options": [
       "Des connaissances en biologie marine avec spécialisation en écoacoustique",
@@ -6505,6 +7005,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel facteur a accru la demande de services auditifs parmi les populations plus jeunes ?",
     "options": [
       "Une plus grande sensibilisation à la relation entre l'alimentation et la santé auditive",
@@ -6518,6 +7019,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "La prise de conscience de limportance de la santé auditive",
     "options": [
       "Le conseil en matière de réglementation des dispositifs médicaux dans le secteur fiscal",
@@ -6531,6 +7033,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce qui a motivé ladoption de technologies pour les soins à distance en audiologie ?",
     "options": [
       "Le manque de professionnels dans le secteur",
@@ -6544,6 +7047,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi les propositions suivantes, quelle est celle qui décrit correctement lobjectif principal du secteur de laudiologie prothétique ?",
     "options": [
       "Étudier de nouvelles techniques pour améliorer la vision",
@@ -6557,6 +7061,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est le facteur clé qui a contribué à la croissance de la demande de services daudiologie prothétique ?",
     "options": [
       "La baisse de l'utilisation des appareils électroniques chez les jeunes",
@@ -6570,6 +7075,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la tendance sur le marché du travail en audiologie prothétique ?",
     "options": [
       "La diminution de l'employabilité",
@@ -6583,6 +7089,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels types dentreprises sont majoritaires dans le secteur de laudiologie prothétique ?",
     "options": [
       "Les petites et moyennes entreprises (PME)",
@@ -6596,6 +7103,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est le rôle dun représentant commercial dappareils auditifs ?",
     "options": [
       "Développer des techniques avancées pour intégrer les prothèses dentaires aux appareils auditifs",
@@ -6609,6 +7117,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Dans quel environnement de travail un audioprothésiste a-t-il le moins de possibilités de travailler (bien que ce ne soit pas impossible) ?",
     "options": [
       "Dans les cliniques spécialisées",
@@ -6622,6 +7131,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les éléments de l'analyse du potentiel professionnel ?",
     "options": [
       "La mémoire, la résilience et l'éthique.",
@@ -6635,6 +7145,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi est-il important de réfléchir sur nos compétences personnelles ?",
     "options": [
       "Pour limiter son champ d'action professionnel.",
@@ -6648,6 +7159,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce que l'acceptation de soi implique ?",
     "options": [
       "Identifier ses forces et faiblesses sans autocritique excessive.",
@@ -6661,6 +7173,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce que la flexibilité cognitive ?",
     "options": [
       "La capacité de travailler en équipe.",
@@ -6674,6 +7187,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la définition de l'estime de soi ?",
     "options": [
       "La capacité de critiquer nos propres compétences.",
@@ -6687,6 +7201,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les avantages des programmes européens comme Erasmus+ ?",
     "options": [
       "Offrir des opportunités de stages et de mobilité internationale.",
@@ -6700,6 +7215,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les éléments essentiels d'un CV ?",
     "options": [
       "Un résumé général sans détails spécifiques.",
@@ -6713,6 +7229,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les bénéfices d'une mentalité de croissance ?",
     "options": [
       "Se concentrer sur des compétences fixes.",
@@ -6726,6 +7243,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels facteurs influencent la perception de soi ?",
     "options": [
       "Les compétences cognitives, la mémoire et la flexibilité.",
@@ -6739,6 +7257,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est le rôle de la connaissance de soi dans la croissance professionnelle ?",
     "options": [
       "Développer uniquement des compétences techniques.",
@@ -6752,6 +7271,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Que comprend le plan cognitif ?",
     "options": [
       "La gestion du stress.",
@@ -6765,6 +7285,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi l'empathie est-elle essentielle dans le milieu professionnel ?",
     "options": [
       "Pour influencer les décisions des collègues.",
@@ -6778,6 +7299,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce qu'une auto-analyse SWOT ?",
     "options": [
       "Une méthode pour identifier les forces, faiblesses, menaces et opportunités personnelles.",
@@ -6791,6 +7313,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les aspects de la connaissance de soi ?",
     "options": [
       "Les pensées des autres, les émotions et les compétences.",
@@ -6804,6 +7327,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels outils d'intelligence artificielle favorisent la connaissance de soi ?",
     "options": [
       "Les assistants virtuels, les analyses de personnalité et les applications de suivi de l'humeur.",
@@ -6817,6 +7341,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce que l'analyse du potentiel professionnel ?",
     "options": [
       "Une évaluation des compétences, aptitudes et valeurs personnelles.",
@@ -6830,6 +7355,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi les valeurs personnelles et professionnelles sont-elles importantes ?",
     "options": [
       "Elles définissent les objectifs des entreprises.",
@@ -6843,6 +7369,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Que permet la conscience émotionnelle de soi ?",
     "options": [
       "Identifier et comprendre ses émotions pour mieux les gérer.",
@@ -6856,6 +7383,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les impacts d'une perception positive de soi sur le développement professionnel ?",
     "options": [
       "Un alignement avec les attentes de lentreprise.",
@@ -6869,6 +7397,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Que signifie \"adaptabilité\" dans un contexte professionnel ?",
     "options": [
       "S'adapter aux changements et aux défis avec flexibilité.",
@@ -6882,6 +7411,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce qu'un PLE (Personal Learning Environment) ?",
     "options": [
       "Un site web pour suivre des cours uniquement en ligne.",
@@ -6895,6 +7425,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel réseau professionnel est particulièrement utile pour les connexions et opportunités ?",
     "options": [
       "Facebook.",
@@ -6908,6 +7439,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "À quoi sert Prezi ?",
     "options": [
       "Gérer des projets collaboratifs.",
@@ -6921,6 +7453,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les risques dune mauvaise gestion de lidentité numérique ?",
     "options": [
       "Plus dopportunités de réseautage.",
@@ -6934,6 +7467,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce que l'identité numérique ?",
     "options": [
       "Un passeport virtuel pour voyager.",
@@ -6947,6 +7481,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel outil facilite la gestion de projets dapprentissage ?",
     "options": [
       "Quora.",
@@ -6960,6 +7495,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelles sont les bonnes pratiques pour sécuriser ses données personnelles ?",
     "options": [
       "Configurer la confidentialité, utiliser des mots de passe forts et surveiller les informations accessibles.",
@@ -6973,6 +7509,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelles plateformes proposent des cours en ligne reconnus ?",
     "options": [
       "Instagram et Pinterest.",
@@ -6986,6 +7523,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce que l'apprentissage autonome ?",
     "options": [
       "Une technique pour apprendre uniquement avec des professeurs.",
@@ -6999,6 +7537,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi est-il important dévaluer périodiquement un PDP (plan de développement personnel) ?",
     "options": [
       "Pour obtenir des commentaires damis.",
@@ -7012,6 +7551,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les éléments clés dun PLE ?",
     "options": [
       "Des professeurs qualifiés et des examens obligatoires.",
@@ -7025,6 +7565,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi la protection des données personnelles est-elle importante pour lemploi ?",
     "options": [
       "Pour assurer la conformité aux lois comme le RGPD et protéger les informations professionnelles.",
@@ -7038,6 +7579,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel outil est utile pour prendre des notes et les organiser ?",
     "options": [
       "Trello.",
@@ -7051,6 +7593,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Comment Slack peut-il aider dans lapprentissage ?",
     "options": [
       "En diffusant des podcasts sur la santé mentale.",
@@ -7064,6 +7607,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Comment identifier ses besoins d'apprentissage ?",
     "options": [
       "En étudiant tout ce qui est populaire en ligne.",
@@ -7077,6 +7621,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce quune empreinte numérique ?",
     "options": [
       "Un certificat dapprentissage en ligne.",
@@ -7090,6 +7635,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels éléments composent un plan de développement personnel (PDP) ?",
     "options": [
       "Uniquement des certificats et des compétences numériques.",
@@ -7103,6 +7649,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Que peut-on faire pour gérer correctement son identité numérique ?",
     "options": [
       "Publier toutes les informations en ligne pour être transparent.",
@@ -7116,6 +7663,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Qu'est-ce qu'un PLN (Personal Learning Network) ?",
     "options": [
       "Un programme de cours universitaire.",
@@ -7129,6 +7677,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quels sont les avantages de l'apprentissage autonome ?",
     "options": [
       "Une réduction des interactions sociales.",
@@ -7142,6 +7691,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est lun des principaux avantages dun environnement dapprentissage personnel (PLE) ?",
     "options": [
       "Il ne fonctionne que pour les étudiants universitaires",
@@ -7155,6 +7705,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce que lanalyse du potentiel professionnel ?",
     "options": [
       "Une technique utilisée seulement pour les entretiens dembauche",
@@ -7168,6 +7719,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est l'objectif principal de la prévention des risques professionnels ?",
     "options": [
       "Éviter toute formation en sécurité pour les employés",
@@ -7181,6 +7733,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi ces options, laquelle est une mesure de prévention collective en entreprise ?",
     "options": [
       "L'achat d'équipements de protection individuelle (EPI)",
@@ -7194,6 +7747,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi est-il important dévaluer périodiquement ses progrès dans un plan de développement personnel (PDP) ?",
     "options": [
       "Parce que toutes les compétences peuvent être développées en un temps limité",
@@ -7207,6 +7761,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est l'objectif principal du droit du travail ?",
     "options": [
       "Réglementer les relations entre employeurs et travailleurs et protéger les droits des salariés",
@@ -7220,6 +7775,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est une bonne pratique pour protéger son identité numérique ?",
     "options": [
       "Partager publiquement toutes ses informations personnelles pour être transparent",
@@ -7233,6 +7789,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi la formation continue est-elle essentielle pour un audioprothésiste ?",
     "options": [
       "Pour apprendre de nouvelles techniques et sadapter aux évolutions technologiques",
@@ -7246,6 +7803,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quest-ce que lapprentissage autonome ?",
     "options": [
       "Une approche dapprentissage réservée uniquement aux experts",
@@ -7259,6 +7817,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel type d'entreprise est majoritaire dans le secteur de l'audiologie prothétique ?",
     "options": [
       "Les start-ups spécialisées en intelligence artificielle",
@@ -7272,6 +7831,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est lavantage principal dune auto-analyse SWOT pour lemploi ?",
     "options": [
       "Elle est utilisée uniquement par les recruteurs pour évaluer un candidat",
@@ -7285,6 +7845,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est l'objectif principal du secteur de l'audiologie prothétique ?",
     "options": [
       "Vendre le plus grand nombre possible d'appareils auditifs",
@@ -7298,6 +7859,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Pourquoi ladaptabilité est-elle une compétence clé sur le marché du travail ?",
     "options": [
       "Parce quelle remplace complètement les compétences techniques",
@@ -7311,6 +7873,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel type de risque est lié au stress, au harcèlement et à la surcharge de travail ?",
     "options": [
       "Les risques psychosociaux",
@@ -7324,6 +7887,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est une obligation fondamentale de lemployeur en matière de sécurité sociale ?",
     "options": [
       "Laisser les travailleurs choisir s'ils veulent être inscrits à la sécurité sociale",
@@ -7337,6 +7901,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quel est un des droits fondamentaux des travailleurs selon le statut des travailleurs en Espagne ?",
     "options": [
       "Le droit de fixer son propre salaire sans accord avec lemployeur",
@@ -7350,6 +7915,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est la principale prestation offerte par la sécurité sociale en cas dinvalidité temporaire ?",
     "options": [
       "Une exonération des impôts professionnels",
@@ -7363,6 +7929,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Parmi les compétences essentielles d'un technicien en audiologie prothétique, laquelle est la plus importante ?",
     "options": [
       "La capacité à vendre des prothèses auditives sans consultation",
@@ -7376,6 +7943,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Que doit contenir une trousse de premiers secours en entreprise ?",
     "options": [
       "Des pansements, des produits antiseptiques, des gants jetables et du matériel d'immobilisation",
@@ -7389,6 +7957,7 @@
     "image": ""
   },
   {
+    "subject": "IPE",
     "question": "Quelle est limportance de la connaissance de soi dans la croissance professionnelle ?",
     "options": [
       "Elle sert uniquement à améliorer lestime de soi sans impact sur la carrière",
@@ -7402,6 +7971,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Pourquoi dit-on que les phonèmes nont pas de signification propre?",
     "options": [
       "Parce qu'ils sont utilisés seulement dans la parole et non dans l'écrit",
@@ -7415,6 +7985,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Si on parle du stade illocutif, nous faisons référence à une période durant laquelle:",
     "options": [
       "Le bébé commence à utiliser des mots pour communiquer avec son entourage",
@@ -7428,6 +7999,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les signes dalerte indiquant un retard dans le développement du langage chez un enfant?",
     "options": [
       "Production sonore limitée à 12 mois, mais capacité à former des mots simples",
@@ -7441,6 +8013,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la conséquence principale dune perte auditive prélinguale sur le développement du langage?",
     "options": [
       "Un retard significatif de lacquisition du langage si elle nest pas diagnostiquée et traitée à temps",
@@ -7454,6 +8027,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel terme décrit la capacité minimale significative du langage?",
     "options": [
       "Syllabe",
@@ -7467,6 +8041,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Pourquoi les sourds profonds prélinguistiques ont-ils plus de difficultés à lire que les enfants entendants?",
     "options": [
       "Parce qu'ils ont un vocabulaire oral plus large et des compétences en lecture plus élevées, mais peinent à comprendre les nuances de la langue écrite",
@@ -7480,6 +8055,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la relation entre le signifiant et le signifié dans le cadre du signe linguistique?",
     "options": [
       "Le signifié est la phrase complète, tandis que le signifiant est l'intonation des mots",
@@ -7493,6 +8069,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les éléments nécessaires au processus de communication pour qu'il soit réussi?",
     "options": [
       "Message, décodage, structure phonétique, rétroaction, canaux auditifs",
@@ -7506,6 +8083,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la fonction principale de laire de Wernicke dans le traitement du langage?",
     "options": [
       "Planifier et organiser les gestes de la parole",
@@ -7519,6 +8097,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Comment les traits distinctifs des phonèmes influencent-ils la signification dun mot?",
     "options": [
       "Ils permettent de distinguer des mots en fonction des variations dans leur structure sonore",
@@ -7532,6 +8111,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quest-ce que la redondance dans la communication linguistique, et pourquoi est-elle importante?",
     "options": [
       "Cest lutilisation dun vocabulaire simple pour éviter toute confusion lors de la transmission",
@@ -7545,6 +8125,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "À partir de quel degré de perte auditive recommande-t-on souvent un implant cochléaire?",
     "options": [
       "À partir des pertes auditives légères à modérées (21-40 dB)",
@@ -7558,6 +8139,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la fonction principale de l'aire de Broca?",
     "options": [
       "La perception des couleurs",
@@ -7571,6 +8153,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelles sont les répercussions d'une hypoacousie non traitée de manière précoce sur le développement cognitif et social des sourds profonds prélinguistique?",
     "options": [
       "Ils auront un déficit dinformation en raison dun code communicatif-linguistique de moindre qualité que celui du langage oral, et leur interaction sera moins efficace et précise",
@@ -7584,6 +8167,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel trouble est caractérisé par une incapacité à identifier des objets par le son, malgré un organe sensoriel de louïe fonctionnant normalement?",
     "options": [
       "La dyslalie",
@@ -7597,6 +8181,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la principale caractéristique qui différencie la communication humaine de la communication animale?",
     "options": [
       "La communication humaine repose sur la répétition de comportements innés et stéréotypés pour transmettre un message",
@@ -7610,6 +8195,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel facteur est crucial pour minimiser les conséquences d'une perte auditive?",
     "options": [
       "Le moment où lappareillage est réalisé",
@@ -7623,6 +8209,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la différence principale entre la dyslalie et la dysglossie?",
     "options": [
       "La dyslalie est causée par des malformations des organes phonatoires, tandis que la dysglossie est un trouble psychologique",
@@ -7636,6 +8223,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la différence entre une hypoacousie congénitale et une hypoacousie acquise selon la classification étiologique?",
     "options": [
       "L'hypoacousie congénitale est causée par des facteurs héréditaires, tandis que l'hypoacousie acquise est toujours due à des facteurs environnementaux.",
@@ -7649,6 +8237,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Qu'est-ce que le feedback dans la communication?",
     "options": [
       "Le bruit",
@@ -7662,6 +8251,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "L'effet Bernoulli est essentiel à la phonation car il :",
     "options": [
       "Provoque la fermeture des plis vocaux",
@@ -7675,6 +8265,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les cartilages appariés du larynx ?",
     "options": [
       "Thyroïde, épiglotte, corniculés",
@@ -7688,6 +8279,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Selon la théorie myoélastique primitive, la vibration des cordes vocales est provoquée par :",
     "options": [
       "Le passage de l'air à travers la fente glottique",
@@ -7701,6 +8293,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelles sont les caractéristiques de l'inspiration (inhalation) dans le processus de respiration, et comment se modifie-t-elle en cas de respiration fatiguée ?",
     "options": [
       "L'inspiration est un processus passif, où les muscles intercostaux internes se contractent. En cas de respiration fatiguée, l'expiration devient forcée pour permettre une meilleure entrée d'air",
@@ -7714,6 +8307,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels organes font partie de la cavité infraglottique ?",
     "options": [
       "Le Larynx, les bronches, les poumons, le diaphragme et la langue",
@@ -7727,6 +8321,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelles sont les fonctions principales des structures internes de la cavité nasale ?",
     "options": [
       "Réchauffer et humidifier l'air inspiré, produire des stimuli olfactifs, et modifier les fréquences des cordes vocales pour produire des sons",
@@ -7740,6 +8335,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "La fréquence de vibration des cordes vocales chez un homme adulte est denviron :",
     "options": [
       "120 Hz",
@@ -7753,6 +8349,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la tâche des organes phonatoires ?",
     "options": [
       "Modifier lair pour créer des différents sons",
@@ -7766,6 +8363,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Comment se produisent les sons oraux ?",
     "options": [
       "Ils se produisent lorsque les lèvres se ferment et lair sort par le nez",
@@ -7779,6 +8377,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Pourquoi la cavité glottique est-elle considérée comme l'élément le plus important de l'appareil phonatoire, et quel est son rôle dans la production de la voix ?",
     "options": [
       "La cavité glottique est le principal élément de l'appareil phonatoire car elle abrite les cordes vocales. Lorsque ces dernières se rapprochent, le flux d'air provenant des poumons les met en vibration, produisant ainsi la phonation. Cette vibration génère une onde sonore, transformée en énergie acoustique audible",
@@ -7792,6 +8391,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "L'oreille humaine peut percevoir des signaux de fréquences comprises entre :",
     "options": [
       "20 Hz et 18000-20000 Hz",
@@ -7805,6 +8405,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les principaux facteurs qui influencent l'intelligibilité de la parole ?",
     "options": [
       "le temps de réverbération, le niveau du signal audio et le bruit",
@@ -7818,6 +8419,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "À quel moment une intensité sonore n'est-elle plus perçue comme un son mais plutôt comme une douleur ou une gêne ?",
     "options": [
       "lorsqu'elle est produite entre les fréquences de 20 à 100 Hz",
@@ -7831,6 +8433,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans quel domaine la phonétique est-elle utilisée pour analyser les voix de suspects dans des affaires criminelles ?",
     "options": [
       "Le domaine de la médecine",
@@ -7844,6 +8447,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Qu'est-ce que la phonétique ?",
     "options": [
       "la science qui étudie la syntaxe et les structures grammaticales",
@@ -7857,6 +8461,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Larchiphonème /B/ est le résultat de la neutralisation des phonèmes :",
     "options": [
       "/m/ et /n/",
@@ -7870,6 +8475,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "La lettre h",
     "options": [
       "son phonème est /j/",
@@ -7883,6 +8489,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "La phonétique acoustique",
     "options": [
       "étudie l'état de la langue à un moment donné",
@@ -7896,6 +8503,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans quel cas le masquage partiel affecte-t-il particulièrement l'intelligibilité de la parole ?",
     "options": [
       "lorsqu'un locuteur utilise un ton très élevé",
@@ -7909,6 +8517,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Que représente un allophone ?",
     "options": [
       "un phonème abstrait qui n'a pas de prononciation réelle",
@@ -7922,6 +8531,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Pourquoi la \"banane vocale\" est-elle importante pour comprendre les effets de la perte auditive sur l'intelligibilité de la parole ?",
     "options": [
       "parce qu'elle représente seulement les sons aigus qui sont généralement perçus, même en cas de perte auditive sévère",
@@ -7935,6 +8545,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Si je trouve un symbole entre < > :",
     "options": [
       "cela indique qu'il s'agit d'un graphème",
@@ -7948,6 +8559,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "En parlant du phonème, choisissez la réponse incorrecte :",
     "options": [
       "un phonème peut distinguer des mots et leur sens",
@@ -7961,6 +8573,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel phénomène se produit lorsqu'un son est accompagné d'un autre son ayant une intensité nettement supérieure, rendant le premier son imperceptible ?",
     "options": [
       "la réverbération",
@@ -7974,6 +8587,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Lorsqu'on parle de la neutralisation des phonèmes selon la position dans la chaîne parlée, on fait référence à :",
     "options": [
       "larchiphonème",
@@ -7987,6 +8601,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel est le point darticulation de la consonne [k] ?",
     "options": [
       "Vélaire",
@@ -8000,6 +8615,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Que représente le triangle acoustique des voyelles ?",
     "options": [
       "Un modèle de production articulatoire",
@@ -8013,6 +8629,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle relation existe-t-il entre louverture de la cavité buccale et le premier formant (F1)?",
     "options": [
       "Il ny a aucune relation",
@@ -8026,6 +8643,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Une consonne _______ est produite lorsque lair passe entre les dents et la lèvre inférieure, comme le son [f].",
     "options": [
       "Occlusive",
@@ -8039,6 +8657,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "La classification articulatoire des consonnes se base sur :",
     "options": [
       "Le mode et le lieu darticulation.",
@@ -8052,6 +8671,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quest-ce que le ton fondamental ?",
     "options": [
       "Lénergie du son",
@@ -8065,6 +8685,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans les voyelles",
     "options": [
       "intervient pour leur production le palais avec la langue.",
@@ -8078,6 +8699,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la principale caractéristique d'une consonne occlusive ?",
     "options": [
       "Une fermeture complète des organes articulatoires.",
@@ -8091,6 +8713,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel paramètre acoustique est principalement influencé par larrondissement des lèvres ?",
     "options": [
       "F3",
@@ -8104,6 +8727,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Pourquoi la lecture labio-faciale est-elle essentielle pour les malentendants ?",
     "options": [
       "Parce quelle améliore larticulation",
@@ -8117,6 +8741,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la relation entre F1 et la hauteur de la langue ?",
     "options": [
       "Il ny a pas de relation",
@@ -8130,6 +8755,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel type de son a une structure formantique bien définie ?",
     "options": [
       "Les affriquées",
@@ -8143,6 +8769,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel instrument permet de visualiser les variations d'amplitude de la parole dans le temps ?",
     "options": [
       "Le sonogramme",
@@ -8156,6 +8783,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans les voyelles rétroflexes",
     "options": [
       "Dans les voyelles rétroflexes, la pointe de la langue est courbée vers l'intérieur.",
@@ -8169,6 +8797,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Parmis ces consonnes, laquelle est une consonne nasale?",
     "options": [
       "[m]",
@@ -8182,6 +8811,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans les voyelles nasales",
     "options": [
       "le voile du palais est séparé de la paroi pharyngée postérieure, de sorte que le passage nasal est ouvert et que l'air rentre par le nez et la bouche.",
@@ -8195,6 +8825,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Comment différencie-t-on une consonne dune voyelle ?",
     "options": [
       "Les consonnes nont pas de vibration des cordes vocales.",
@@ -8208,6 +8839,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel est le rôle principal des formants dans la parole ?",
     "options": [
       "Différencier les voyelles",
@@ -8221,6 +8853,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel paramètre acoustique est lié à la nasalité dun son ?",
     "options": [
       "La modification de F3",
@@ -8234,6 +8867,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Parmis ces consonnes, laquelle est une occlusive sonore ?",
     "options": [
       "[f]",
@@ -8247,6 +8881,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Comment se produisent les sons oronasaux ?",
     "options": [
       "Ils se produisent lorsque les lèvres se ferment et lair sort par le nez",
@@ -8260,6 +8895,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans les aires cérébrales, laire de Broca est :",
     "options": [
       "Localisé dans le lobe frontal gauche, elle transforme les pensées en mots",
@@ -8273,6 +8909,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Dans quelle situation le masquage partiel est-il fréquent ?",
     "options": [
       "En écoutant la radio à faible volume seul.",
@@ -8286,6 +8923,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "En ce qui concerne les éléments structurels de la langue liés aux patients malentendants, sélectionnez les affirmations correctes :",
     "options": [
       "Les conséquences dun trouble auditif chez lenfant comporte un impact sur le développement cognitif, affectif et social",
@@ -8300,6 +8938,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Larchiphonème /D/ est le résultat de la neutralisation des phonèmes :",
     "options": [
       "/m/ et /n/",
@@ -8313,6 +8952,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Lequel des éléments suivants constitue un signe dalerte du développement du langage chez un enfant, selon les repères développementaux ?",
     "options": [
       "Lenfant nutilise pas de phrase simples à 12 mois",
@@ -8326,6 +8966,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Les sons doux et de moyenne intensité deviennent inaudibles en cas :",
     "options": [
       "dhypoacousie profonde",
@@ -8339,6 +8980,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Les traits distinctifs acoustiques prosodiques font référence à :",
     "options": [
       "Le son et la dépense dair",
@@ -8352,6 +8994,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Les troubles du langage causés uniquement par une altération de la production sont :",
     "options": [
       "Le bégaiement, lagnosie, laphasie et la dyphonie",
@@ -8365,6 +9008,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Parmi les traits distinctifs suivants, sélectionnez ceux qui correspondent aux traits acoustiques",
     "options": [
       "Liquide",
@@ -8379,6 +9023,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Lorsquon mesure le UCL en audiométrie tonale liminaire, à quel seuil du champ auditif humain correspond-il ?",
     "options": [
       "Le seuil d'inconfort",
@@ -8392,6 +9037,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Que représente un allophone ?",
     "options": [
       "Une neutralisation des traits distinctifs entre deux phonèmes",
@@ -8405,6 +9051,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel facteur influence principalement la hauteur (tonalité) du son produit lors de la phonation ?",
     "options": [
       "Lactivité des cordes vocales pendant leur vibration",
@@ -8418,6 +9065,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quel phénomène rend la distinction entre des sons comme «?c?» et «?t?» plus difficile ?",
     "options": [
       "Le masquage total",
@@ -8431,6 +9079,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle affirmation décrit correctement laction des muscles intercostaux internes ?",
     "options": [
       "Ils sactivent principalement pendant linspiration profonde",
@@ -8444,6 +9093,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle affirmation est correcte concernant limportance des formants dans la perception des voyelles ?",
     "options": [
       "Aucun formant nest impliqué dans la perception des voyelles, seul le contexte phonétique est pertinent",
@@ -8457,6 +9107,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle approche phonétique étudie les organes impliqués dans la production des sons ?",
     "options": [
       "La phonétique acoustique.",
@@ -8470,6 +9121,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la partie du larynx la plus étroite située entre les cordes vocales ?",
     "options": [
       "Lépiglotte",
@@ -8483,6 +9135,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelle est la relation entre le signifiant et le signifié dans le cadre du signe linguistique?",
     "options": [
       "Le signifié correspond au ton émotionnel du discours, tandis que le signifiant est lenchaînement des mots dans une phrase.",
@@ -8496,6 +9149,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelles sont les étapes de lacquisition du langage ?",
     "options": [
       "Létape ou période verbale qui se compose de la deuxième étape et de la troisième étape linguistique",
@@ -8510,6 +9164,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quelles sont les tâches des organes phonatoires dans la production de la voix humaine?",
     "options": [
       "Produire des vibrations musculaires indépendantes de lair expiré",
@@ -8524,6 +9179,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les facteurs qui déterminent les conséquences et limpact dune perte auditive ou dune hypoacousie ?",
     "options": [
       "Le niveau détudes des parents et les caractéristiques individuelles du sujet",
@@ -8538,6 +9194,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels sont les phénomènes phonétiques qui génère des changements dus à la vitesse de la parole ou à la diction ?",
     "options": [
       "Lassimilation, la différenciation, la dissimilation et linversion",
@@ -8551,6 +9208,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Quels traits articulatoires le /p/ et le /b/ ont-ils en commun ?",
     "options": [
       "Fricative et sonore",
@@ -8564,6 +9222,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Sélectionnez les approches qui correspondent à la phonétique :",
     "options": [
       "La phonétique perceptive",
@@ -8578,6 +9237,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Sélectionnez les cartilages appariés du larynx:",
     "options": [
       "Thyroïde, corniculés",
@@ -8592,6 +9252,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Sélectionnez les traits articulatoires de la voyelle /o/:",
     "options": [
       "Voisée et nasale",
@@ -8606,6 +9267,7 @@
     "image": ""
   },
   {
+    "subject": "ACV",
     "question": "Selon le mode darticulation, les voyelles sont classées en :",
     "options": [
       "Voyelles antérieurs, voyelles centrales, voyelles postérieures",
