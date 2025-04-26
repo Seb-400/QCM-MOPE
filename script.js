@@ -4,12 +4,12 @@ let currentQuestionIndex = 0;
 let score = 0;
 let mistakes = [];
 let startTime = null;
+let currentShuffledOptions = [];
 
 fetch('questions_with_subject.json')
   .then(response => response.json())
   .then(data => {
     allQuestions = data.map(q => {
-      // 🔥 Correction ici pour ENLEVER les "Nan" dans les données
       q.options = q.options.filter(opt => opt && opt.toLowerCase() !== "nan");
       return q;
     });
@@ -75,20 +75,16 @@ function loadQuestion() {
     questionImage.classList.add("hidden");
   }
 
-  const shuffledOptions = shuffleArray(currentQuestion.options);
+  currentShuffledOptions = currentQuestion.options.map((opt, idx) => ({opt, idx}));
+  shuffleArray(currentShuffledOptions);
 
-  shuffledOptions.forEach((opt, idx) => {
+  currentShuffledOptions.forEach(({opt}, displayIdx) => {
     const label = document.createElement("label");
-    label.style.display = "block"; // ✅ Forcer chaque réponse sur une nouvelle ligne
-    label.style.padding = "8px";
-    label.style.marginBottom = "8px";
-    label.style.backgroundColor = "#f9f9f9";
-    label.style.border = "1px solid #ddd";
-    label.style.borderRadius = "6px";
+    label.style.display = "block";
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
     checkbox.name = "answer";
-    checkbox.value = idx;
+    checkbox.value = displayIdx;
     label.appendChild(checkbox);
     label.appendChild(document.createTextNode(opt));
     answersForm.appendChild(label);
@@ -102,12 +98,13 @@ submitBtn.addEventListener("click", () => {
     document.querySelectorAll('input[name="answer"]:checked')
   ).map((checkbox) => parseInt(checkbox.value));
 
+  const selectedRealIndexes = selectedOptions.map(val => currentShuffledOptions[val].idx);
   const currentQuestion = questions[currentQuestionIndex];
   const correctAnswers = currentQuestion.correctAnswers;
 
   const isCorrect =
-    selectedOptions.length === correctAnswers.length &&
-    selectedOptions.every((val) => correctAnswers.includes(val));
+    selectedRealIndexes.length === correctAnswers.length &&
+    selectedRealIndexes.every((val) => correctAnswers.includes(val));
 
   if (isCorrect) {
     score++;
@@ -116,7 +113,7 @@ submitBtn.addEventListener("click", () => {
   } else {
     mistakes.push({
       question: currentQuestion.question,
-      selected: selectedOptions.map(i => currentQuestion.options[i] || "").join(", "),
+      selected: selectedRealIndexes.map(i => currentQuestion.options[i] || "").join(", "),
       correct: correctAnswers.map(i => currentQuestion.options[i] || "").join(", ")
     });
     feedbackEl.textContent = "Mauvaise réponse.";
