@@ -79,15 +79,18 @@ function loadQuestion() {
   shuffleArray(currentShuffledOptions);
 
   currentShuffledOptions.forEach(({ opt }, displayIdx) => {
-    const label = document.createElement("label");
-    label.style.display = "block";
-    const checkbox = document.createElement("input");
-    checkbox.type = "checkbox";
-    checkbox.name = "answer";
-    checkbox.value = displayIdx;
-    label.appendChild(checkbox);
-    label.appendChild(document.createTextNode(opt));
-    answersForm.appendChild(label);
+    if (opt && opt.trim() !== "") {  // ✅ Ignore les options vides
+      const label = document.createElement("label");
+      label.style.display = "block";
+      label.style.margin = "8px 0";
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.name = "answer";
+      checkbox.value = displayIdx;
+      label.appendChild(checkbox);
+      label.appendChild(document.createTextNode(opt));
+      answersForm.appendChild(label);
+    }
   });
 
   feedbackEl.textContent = "";
