@@ -1,14 +1,20 @@
+let allQuestions = [];
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 
-fetch('questions.json')
+fetch('questions_with_subject.json')
   .then(response => response.json())
   .then(data => {
-    questions = data;
-    loadQuestion();
+    allQuestions = data;
+    populateSubjects();
   });
 
+const subjectSelection = document.getElementById("subject-selection");
+const subjectSelect = document.getElementById("subject-select");
+const startBtn = document.getElementById("start-btn");
+
+const quizContainer = document.getElementById("quiz-container");
 const questionEl = document.getElementById("question");
 const answersForm = document.getElementById("answers-form");
 const submitBtn = document.getElementById("submit-btn");
@@ -17,6 +23,27 @@ const resultEl = document.getElementById("result");
 const scoreEl = document.getElementById("score");
 const restartBtn = document.getElementById("restart-btn");
 const questionImage = document.getElementById("question-image");
+
+function populateSubjects() {
+  const subjects = [...new Set(allQuestions.map(q => q.subject))];
+  subjectSelect.innerHTML = "";
+  subjects.forEach(subject => {
+    const option = document.createElement("option");
+    option.value = subject;
+    option.textContent = subject;
+    subjectSelect.appendChild(option);
+  });
+}
+
+startBtn.addEventListener("click", () => {
+  const selectedSubject = subjectSelect.value;
+  questions = allQuestions.filter(q => q.subject === selectedSubject);
+  currentQuestionIndex = 0;
+  score = 0;
+  subjectSelection.classList.add("hidden");
+  quizContainer.classList.remove("hidden");
+  loadQuestion();
+});
 
 function loadQuestion() {
   const currentQuestion = questions[currentQuestionIndex];
@@ -77,15 +104,13 @@ submitBtn.addEventListener("click", () => {
 });
 
 restartBtn.addEventListener("click", () => {
-  currentQuestionIndex = 0;
-  score = 0;
+  subjectSelection.classList.remove("hidden");
+  quizContainer.classList.add("hidden");
   resultEl.classList.add("hidden");
-  document.getElementById("quiz-container").classList.remove("hidden");
-  loadQuestion();
 });
 
 function showResult() {
-  document.getElementById("quiz-container").classList.add("hidden");
+  quizContainer.classList.add("hidden");
   resultEl.classList.remove("hidden");
   scoreEl.textContent = "Vous avez obtenu " + score + " sur " + questions.length + " bonnes réponses.";
 }
