@@ -27,7 +27,7 @@ const questionImage = document.getElementById("question-image");
 
 function populateSubjects() {
   const subjects = [...new Set(allQuestions.map(q => q.subject))];
-  console.log("Matières détectées :", subjects); // 👈 Ajoute ce log aussi
+  console.log("Matières détectées :", subjects); // 👈 tu dois voir ici toutes les matières
   subjectSelect.innerHTML = "";
   subjects.forEach(subject => {
     const option = document.createElement("option");
