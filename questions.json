@@ -1,18 +1,5 @@
 [
   {
-    "question": "Quelle est la fréquence moyenne de la parole humaine ?",
-    "options": [
-      "125-250 Hz",
-      "500-2000 Hz",
-      "3000-6000 Hz",
-      "8000-12000 Hz"
-    ],
-    "correctAnswers": [
-      1,
-      0
-    ]
-  },
-  {
     "question": "Où se situent les cellules ciliées internes ?",
     "options": [
       "Canal cochléaire",
@@ -22,7 +9,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le rôle de la cochlée ?",
@@ -34,7 +22,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'un audiogramme ?",
@@ -46,7 +35,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de surdité est causé par un problème au niveau de la cochlée ?",
@@ -58,7 +48,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel test utilise des sons envoyés dans un casque ?",
@@ -70,7 +61,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle structure transmet les sons de l'oreille moyenne à l'oreille interne ?",
@@ -82,7 +74,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la plage dynamique normale de loreille humaine ?",
@@ -94,7 +87,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que la presbyacousie ?",
@@ -106,7 +100,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le rôle de la trompe dEustache ?",
@@ -118,7 +113,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel test explore les réflexes stapédiens ?",
@@ -130,7 +126,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les OEA (otoémissions acoustiques) sont utilisées pour :",
@@ -142,7 +139,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un tympanogramme de type B indique :",
@@ -154,7 +152,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La perte auditive brusque est :",
@@ -166,7 +165,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel organe est responsable de léquilibre ?",
@@ -178,7 +178,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le mésoderme est une couche intermédiaire qui constitue",
@@ -190,7 +191,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
@@ -202,7 +204,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
@@ -214,7 +217,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
@@ -226,7 +230,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La cavité tympanique se situe dans",
@@ -238,7 +243,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La cavité tympanique se situe dans",
@@ -250,7 +256,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le mésoderme est une couche intermédiaire qui constitue",
@@ -262,7 +269,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
@@ -274,7 +282,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
@@ -286,7 +295,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
@@ -298,7 +308,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le labyrinthe antérieur fait parti de",
@@ -310,7 +321,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La formation de la trompe dEustache situe dans",
@@ -322,7 +334,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le labyrinthe postérieur comprend",
@@ -334,7 +347,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Entendre est un processus volontaire qui implique dautres processus cognitifs?",
@@ -346,7 +360,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le conduit auditif externe se développe à partir",
@@ -358,7 +373,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Létrier est attaché à la fenêtre ovale par le ligament annulaire.",
@@ -370,7 +386,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La trompe dEustache chez un enfant est plus longue et plus étroite que chez un adulte. Cest pourquoi on retrouve plus souvent des pathologies de loreille moyenne comme des otites récurrentes chez les enfants.",
@@ -382,7 +399,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La vascularisation de la cavité tympanique et de la mastoïde est faite par :",
@@ -394,7 +412,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle partie de loreille nest pas constituée de cartilage :",
@@ -406,7 +425,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La trompe dEustache s' ouvre lors du bâillement ou de la déglutition, en raison de la contraction musculaire.",
@@ -418,7 +438,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La vascularisation et linnervation du pavillon auditif est fait par :",
@@ -430,7 +451,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La trompe deustache possède 2 portions :",
@@ -442,7 +464,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille externe transmet londe du son à loreille interne, transformant londe sonore en onde mécanique.",
@@ -454,7 +477,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Il existe le muscle du marteau et le muscle de lenclume. ",
@@ -466,7 +490,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les plans nous aident à localiser les différentes structures du corps humain. Lequel distingue la gauche de la droite ?",
@@ -478,7 +503,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Concernant les ligaments internes et externes",
@@ -490,7 +516,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le tympan est ancré à los tympanique par le ligament annulaire qui le fixe à los temporal.",
@@ -502,7 +529,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La membrane tympanique possède 3 couches :",
@@ -514,7 +542,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou lon trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de lépithélium contre lentrée de particules étrangères de poussières, insectes",
@@ -526,7 +555,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le conduit auditif externe peut avoir une longueur entre :",
@@ -538,7 +568,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans le labyrinthe antérieur de loreille interne nous retrouvons :",
@@ -550,7 +581,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans une coupe transversale de la cochlée, on peut délimiter 3 espaces :",
@@ -562,7 +594,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur la paroi externe du vestibule, se trouve la fenêtre ovale et la fenêtre ronde de la caisse du tympan de loreille moyenne.",
@@ -574,7 +607,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les CCI sont de forme ovale avec la partie supérieure plus étroite. Elles sont situées près de laxe de lescargot. Les CCI sont moins nombreuses que les CCE et forment une seule rangée.",
@@ -586,7 +620,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La vascularisation et linnervation de loreille interne est permise par :",
@@ -598,7 +633,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorgane de Corti se trouve sur :",
@@ -610,7 +646,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La transduction sonore se fait dans le labyrinthe postérieur grâce aux cellules de lorgane de Corti.",
@@ -622,7 +659,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'aqueduc cochléaire est un conduit osseux qui sétend de la rampe tympanique, près de la fenêtre ronde, jusquà la partie postérieure du rocher de los temporal, sous le CAI.",
@@ -634,7 +672,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les hautes fréquences sont perçues :",
@@ -646,7 +685,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les CCI sont responsables de :",
@@ -658,7 +698,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les canaux semi circulaires sont :",
@@ -670,7 +711,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les cellules neurosensorielles qui se trouve des deux côtés du tunnel de Corti :",
@@ -682,7 +724,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le ganglion spiral de Corti se trouve dans :",
@@ -694,7 +737,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorgane de Corti se situe dans le canal cochléaire :",
@@ -706,7 +750,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle phrase est correcte ?",
@@ -718,7 +763,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans le labyrinthe membraneux antérieur, nous trouvons le canal cochléaire où nous allons distinguer différentes parties :",
@@ -730,7 +776,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La cochlée communique avec loreille moyenne par :",
@@ -742,7 +789,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lappareil vestibulaire est formé par :",
@@ -754,7 +802,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les différentes parties de la cochlée sont :",
@@ -766,7 +815,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les crêtes ampullaires des canaux semi circulaires sont responsables :",
@@ -778,7 +828,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Il existe 2 voies auditives :",
@@ -790,7 +841,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les noyaux cochléaires sont divisés en :",
@@ -802,7 +854,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une lésion dans les aires de Brodmann et de Wernicke peut entraîner :",
@@ -814,7 +867,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le corps géniculé médial :",
@@ -826,7 +880,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les stations neurales de la voie vestibulaire sont :",
@@ -838,7 +893,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les stations neuronales de la voie afférente sont :",
@@ -850,7 +906,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les PEATC (le test des potentiels évoqués auditifs du tronc cérébral sont au nombre de 5 dondes)",
@@ -862,7 +919,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laudition binaurale désigne la capacité de percevoir simultanément des sons par les deux oreilles. Elle est essentielle pour la perception et la localisation des sources sonores dans lespace. Cette détection de la direction doù provient le son est possible grâce à :",
@@ -874,7 +932,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le masquage auditif fait référence à linhibition quun son produit sur la perception dautres sons :",
@@ -886,7 +945,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le colliculus inférieur reçoit des informations :",
@@ -898,7 +958,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le cortex auditif possède :",
@@ -910,7 +971,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La transduction auditive seffectue dans loreille interne :",
@@ -922,7 +984,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans le ganglion de Corti il existe :",
@@ -934,7 +997,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La voie afférente auditive possède :",
@@ -946,7 +1010,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les mouvements de la tête sont détectés par les récepteurs vestibulaires et envoyé sous forme dimpulsion par :",
@@ -958,7 +1023,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans la voie efférente interviennent les structures suivantes :",
@@ -970,7 +1036,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les informations binaurales des noyaux cochléaires permettent de déterminer :",
@@ -982,7 +1049,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Fonction de la voie efférente :",
@@ -994,7 +1062,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Ladaptation auditive est :",
@@ -1006,7 +1075,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le lemnisque latéral est la voie par laquelle les axones des stations bulbaires bilatérales se rendent au colliculus inférieur situé dans le mésencéphale. Il est formé par des fibres provenant :",
@@ -1018,7 +1088,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pour le calcul de pourcentage de perte binaurale la formule = (% valeur meilleure oreille x7) + (% valeur mauvaise oreille x1) / 8",
@@ -1030,7 +1101,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur un audiogramme le symbole  ]  représente :",
@@ -1042,7 +1114,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une hypoacousie mixte signifie que cest une perte qui peut toucher les hommes et les femmes ?",
@@ -1054,7 +1127,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si votre patient contracte la maladie de Ménière il aura une perte plus importante dans les fréquences graves ?",
@@ -1066,7 +1140,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle affirmation ne fait pas partie de la classification de la perte ?",
@@ -1078,7 +1153,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le seuil dinconfort est mesuré sur les fréquences :",
@@ -1090,7 +1166,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur un audiogramme, les fréquences comprises entre 125 Hz et 500 Hz sont :",
@@ -1102,7 +1179,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "LE PTA (Power Tone Average) ou moyenne des sons purs, se calcule selon la formule suivante : PTA = (VA 500 Hz + VA 1000Hz+VA 2000HZ) /4",
@@ -1114,7 +1192,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La réserve cochléaire se calcule selon quelle formule ?",
@@ -1126,7 +1205,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laudiométrie conventionnelle mesure les fréquences entre 125 Hz et 6000 Hz ?",
@@ -1138,7 +1218,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La perte neurosensorielle cochléaire et la perte neurosensorielle rétro cochléaire concernent :",
@@ -1150,7 +1231,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur un audiogramme le triangle rouge ? représente :",
@@ -1162,7 +1244,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'onde sonore possède trois qualités fondamentales, lesquelles ?",
@@ -1174,7 +1257,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "A partir de quel seuil considérons-nous quil y ait une perte auditive ?",
@@ -1186,7 +1270,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur un audiogramme tonal, laxe vertical représente les intensités et laxe horizontal représente les fréquences ?",
@@ -1198,7 +1283,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une otospongiose provoque :",
@@ -1210,7 +1296,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon BIAP une perte sévère est comprise entre :",
@@ -1222,7 +1309,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur un audiogramme, une croix noire  X  représente :",
@@ -1234,7 +1322,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La plage dynamique = UCL  VA ?",
@@ -1246,7 +1335,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le GAP est la différence entre :",
@@ -1258,7 +1348,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Il existe plusieurs tailles de spéculums pour lotoscopie ?",
@@ -1270,7 +1361,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle manuvre consiste à insuffler de l'air à l'aide d'une poire dans une des narines tout en maintenant l'autre bouchée avec un doigt ?",
@@ -1282,7 +1374,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Il est conseillé de tenir lotoscope dans la même main que loreille examinée (main droite/oreille droite-main gauche/oreille gauche)",
@@ -1294,7 +1387,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lanamnèse est un questionnaire qui recueille des données auprès du patient :",
@@ -1306,7 +1400,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pour faire vibrer le diapason il faut le tenir par les branches et frapper le manche ?",
@@ -1318,7 +1413,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors de la manipulation de l'otoscope en faisant une otoscopie, que veut-on dire par \"position de sécurité\" ?",
@@ -1330,7 +1426,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La manoeuvre de Toynbee crée une pression négative dans la cavité tympanique",
@@ -1342,7 +1439,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors du test de Weber, nous devons placer le diapason sur la mastoïde et devant le CAE",
@@ -1354,7 +1452,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le test de Rinne compare la VA et la VO de la même oreille",
@@ -1366,7 +1465,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors de la mise en place de lotoscope dans loreille du patient il faut y aller vite et sèchement afin de prendre le patient par surprise ?",
@@ -1378,7 +1478,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le triangle lumineux se produit en éclairant le tympan avec une lumière artificielle. Il sagit dun reflet produit sur la membrane tympanique par la lumière et est toujours situé dans le quadrant antéroinférieur de la membrane.",
@@ -1390,7 +1491,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les questions que nous posons ont aussi pour objectif de déterminer la capacité économique du patient à acheter des aides auditives",
@@ -1402,7 +1504,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle manuvre peut être observée avec un otoscope ?",
@@ -1414,7 +1517,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le triangle lumineux se situe dans le quadrant :",
@@ -1426,7 +1530,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors du test de Rinne, le patient entend mieux en voie aérienne quen voie osseuse ; nous pouvons en déduire :",
@@ -1438,7 +1543,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si le manche du marteau est incliné vers la droite, cest loreille droite",
@@ -1450,7 +1556,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lanamnèse est un questionnaire réalisé :",
@@ -1462,7 +1569,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lotoscopie est une technique de base pour lexamen de :",
@@ -1474,7 +1582,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors de la manuvre de Valsalva, on force la fermeture de la trompe dEustache à partir du pharynx, lair entre dans les oreilles moyennes avec une pression positive et pousse la membrane vers l'extérieur, en direction du CAE (membrane tympanique bombée).",
@@ -1486,7 +1595,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Avant de la prise d'empreinte, doit-on effectuer une otoscopie ?",
@@ -1498,7 +1608,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors du test de lUCL, le seuil d'inconfort, le test consiste à pincer le patient pendant l'audiométrie ?",
@@ -1510,7 +1621,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le symbole de la VA (OD) en audiométrie tonale est identique au symbole de l'audiométrie verbale ?",
@@ -1522,7 +1634,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laudiométrie se compose :",
@@ -1534,7 +1647,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "ATL, Audiométrie vocale et UCL",
@@ -1546,7 +1660,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La VO est représentée par un triangle",
@@ -1558,7 +1673,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors dune audiométrie tonale avec masquage en VA, le calcul de lintensité du bruit de masquage est :",
@@ -1570,7 +1686,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le masquage est un processus permettant dobtenir le seuil auditif réel lorsque les deux oreilles présentent une différence daudition significative. Lobjectif du masquage est déviter la latéralisation du son et déviter les courbes fantômes. Pour masquer, nous utilisons un bruit de masquage qui annule laudition de loreille NTE afin dobtenir la valeur réelle de l'audition de loreille TE.",
@@ -1582,7 +1699,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "O NTE Signifie :",
@@ -1594,7 +1712,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "LATL nous permet de déterminer les seuils auditifs avec un stimulus tonal à différentes intensités (dBHL) à la fois par voie aérienne et par voie osseuse; à différentes fréquences entre 125 et 8000 Hz en général.",
@@ -1606,7 +1725,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laudiométrie est le principal test audiologique qui permet de connaître le niveau daudition de nos patients de manière objective :",
@@ -1618,7 +1738,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "LURV, le seuil de réception verbale correspond à:",
@@ -1630,7 +1751,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle type de perte pouvons-nous constater sur cette courbe de discrimination ?",
@@ -1642,7 +1764,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": "https://i.postimg.cc/zvsXg2Mv/Image-HNS.jpg"
   },
   {
     "question": "Le pourcentage de discrimination maximal sobtient un fois lURV trouvée en :",
@@ -1654,7 +1777,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle type de perte pouvons-nous constater sur cette courbe de discrimination?",
@@ -1666,7 +1790,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": "https://i.postimg.cc/Nj7fK4xG/Image-Pas-de-Perte.jpg"
   },
   {
     "question": "Le crosshearing est :",
@@ -1678,7 +1803,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La voie osseuse doit être masqué lorsque :",
@@ -1690,7 +1816,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le crossover est la quantité de son qui traverse le crâne de loreille TE à loreille NTE.",
@@ -1702,7 +1829,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Leffet docclusion se produit :",
@@ -1714,7 +1842,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'atténuation intéraurale ou interauriculaire, correspond à l'isolation de la cabine insonorisée ?",
@@ -1726,7 +1855,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laudiométrie vocale évalue à différentes intensités :",
@@ -1738,7 +1868,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "TDT indique une HNS rétro cochléaire lorsque on a :",
@@ -1750,7 +1881,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Tests permettant de confirmer la présence ou labsence dun recrutement :",
@@ -1762,7 +1894,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "HNS rétrochochléaire sans recrutement indique une lésion au niveau :",
@@ -1774,7 +1907,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Test de SISI indique un recrutement lorsque :",
@@ -1786,7 +1920,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le test de limpédance permet de :",
@@ -1798,7 +1933,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels tests pouvons-nous effectuer avec limpédancemètre :",
@@ -1810,7 +1946,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une tympanométrie avec une courbe de type A peut-être :",
@@ -1822,7 +1959,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Courbe tympanométrique de type As :",
@@ -1834,7 +1972,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Limpédance est :",
@@ -1846,7 +1985,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Etude de la fatigue auditive avec les tests de :",
@@ -1858,7 +1998,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La tympanométrie est un test :",
@@ -1870,7 +2011,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Courbe tymanométrique de type B présente :",
@@ -1882,7 +2024,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "HNS avec recrutement :",
@@ -1894,7 +2037,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Courbe tympanométrique de type C :",
@@ -1906,7 +2050,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La compliance est :",
@@ -1918,7 +2063,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une hypoacousie de transmission supérieur à 30 Db :",
@@ -1930,7 +2076,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "TDT est un test réalisé par :",
@@ -1942,7 +2089,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le test de Metz est le résultat de :",
@@ -1954,7 +2102,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La pression de loreille moyenne est la pression à laquelle se trouve la valeur maximale de distension du système, elle est généralement à :",
@@ -1966,7 +2115,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "HNS cochléaire sans recrutement indique une lésion au niveau :",
@@ -1978,7 +2128,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les PEA les plus utiles sont :",
@@ -1990,7 +2141,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les PEATC sont composées dondes qui sont nommées par des chiffres romains de :",
@@ -2002,7 +2154,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le diagnostic tardif de lhypoacousie infantile permet un pronostic meilleur :",
@@ -2014,7 +2167,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En général il est essentiel de réaliser lors dune perte daudition chez lenfant :",
@@ -2026,7 +2180,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les OEA sont des sons générés à lintérieur de la cochlée normale de manière spontanée ou en réponse à une stimulation acoustique, dans ce cas elles sont appelées évoquées .",
@@ -2038,7 +2193,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le potentiel évoqué auditifs PEA permet :",
@@ -2050,7 +2206,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les OEA les plus utilisés sont :",
@@ -2062,7 +2219,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une hypoacousie centrale se manifeste par :",
@@ -2074,7 +2232,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lors dune neuropathie auditive :",
@@ -2086,7 +2245,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "PEATC dans une HNS cochléaire",
@@ -2098,7 +2258,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "PEATC dans une HNS rétro cochléaire",
@@ -2110,7 +2271,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La perte daudition chez lenfant entraîne :",
@@ -2122,7 +2284,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "PEATC dans une hypoacousie de transmission",
@@ -2134,7 +2297,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Limportance des PEATC est dans le fait quils :",
@@ -2146,7 +2310,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le ASSR a comme limite :",
@@ -2158,7 +2323,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les potentiels évoqués auditifs du tronc cérébral PEATC sont :",
@@ -2170,7 +2336,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si les émissions otoacoustiques ne sont pas enregistrées, il faut exclure les problèmes doreille moyenne avant de considérer la possibilité dune lésion cochléaire",
@@ -2182,7 +2349,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les Otoémissions acoustiques OEA est un test :",
@@ -2194,7 +2362,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Létude de laudition chez les enfants comprend :",
@@ -2206,7 +2375,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Test découte dichotique de chiffres EDC",
@@ -2218,7 +2388,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "---------------------------------------, est responsable de la formation des tissus conjonctifs, cartilagineux, osseux et musculaires. De cette couche dépendent plusieurs structures de l'oreille, tant de l'externe, de la moyenne comme de l'interne.",
@@ -2230,7 +2401,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans l'oreille interne, à quelle fenêtre est fixé l'étrier ?",
@@ -2242,7 +2414,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans l'oreille interne, avec quelle rampe la fenêtre ronde est-elle connectée ?",
@@ -2254,7 +2427,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans l'oreille interne, on distingue deux zones : le labyrinthe antérieur et le labyrinthe postérieur. Dans quelle zone se trouve la cochlée ?",
@@ -2266,7 +2440,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans l'organe de Corti, nous pouvons situer les cellules ciliées, quelles sont les cellules qui sont activées par le mouvement de la membrane basilaire et qui fonctionnent comme récepteurs sensoriels impliqués dans la transduction du son ?",
@@ -2278,7 +2453,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les phases du développement embryonnaire, l'ovule est fécondé par le spermatozoïde, formant le ------------------------ ou l'embryon unicellulaire, composé de 23 chromosomes.",
@@ -2290,7 +2466,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel espace se trouve lendolymphe ?",
@@ -2302,7 +2479,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En ce qui concerne l'innervation du pavillon de l'oreille, nous pouvons distinguer trois zones : la conque, la zone supérieure et la zone postéro-inférieure. Quel nerf crânien est responsable de l'innervation de la conque ?",
@@ -2314,7 +2492,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En ce qui concerne la région céphalique qui formera la tête, pour continuer à comprendre le développement de l'audition, nous allons distinguer ----------------------------------------------- C'est à partir de ces zones que se développeront les différentes structures du système auditif.",
@@ -2327,7 +2506,8 @@
     "correctAnswers": [
       1,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Etude de la fatigue auditive avec les tests de :",
@@ -2339,7 +2519,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "HNS avec recrutement :",
@@ -2351,7 +2532,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Loreille est un organe pair et symétrique, située de chaque coté du crâne, dans los temporal :",
@@ -2363,7 +2545,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "LURV théorique est le PTA ± ¿ ?:",
@@ -2375,7 +2558,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La caisse du tympan est formée de six parois, pourriez-vous me dire sur quelle paroi se trouve le promontoire ?",
@@ -2387,7 +2571,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Où se trouve l'organe sensoriel de l'audition (l'organe de Corti) ?",
@@ -2399,7 +2584,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les fonctions de l'oreille interne, il y a l'audition et l'équilibre. Pourriez-vous me dire quelles parties sont impliquées dans l'équilibre ?",
@@ -2414,7 +2600,8 @@
       1,
       2,
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la cinquième station de la voie afférente ?",
@@ -2426,7 +2613,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles structures pouvons-nous trouver dans l'oreille interne ?",
@@ -2439,7 +2627,8 @@
     "correctAnswers": [
       0,
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les émissions otoacoustiques sont des sons de faible intensité produits par une activité normale de la cochlée qui peuvent être mesurés à l'aide d'un microphone placé dans une sonde insérée dans le conduit auditif externe",
@@ -2451,7 +2640,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Cette qualité identifie l'instrument qui produit le son.",
@@ -2463,7 +2653,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Nous distinguons les sons en fonction de leur hauteur.",
@@ -2475,7 +2666,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sa valeur est une intensité de 10-16 W/cm2, et une fréquence de 1 000 Hz.",
@@ -2487,7 +2679,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La gamme des niveaux d'intensité perçus par l'oreille humaine est la suivante.",
@@ -2499,7 +2692,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Représente le zéro standard de l'intensité du son :",
@@ -2511,7 +2705,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Cette qualité identifie l'instrument qui produit le son.",
@@ -2523,7 +2718,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Nous distinguons les sons en fonction de leur hauteur.",
@@ -2535,7 +2731,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qualité du son qui dépend de la fréquence du mouvement vibratoire de l'instrument qui le produit.",
@@ -2547,7 +2744,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte ?",
@@ -2559,7 +2757,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Ondes sonores comprises entre 20 et 20 000 Hz.",
@@ -2571,7 +2770,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Ondes dont les fréquences sont inférieures à la gamme audible :",
@@ -2583,7 +2783,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La puissance transférée par une onde sonore à travers une unité de surface normale à la direction de propagation.",
@@ -2595,7 +2796,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces sonomètres est le plus précis ?",
@@ -2607,7 +2809,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les caractéristiques suivantes, lesquelles sont importantes pour un haut-parleur ?",
@@ -2619,7 +2822,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lesquels de ces paramètres sont utilisés dans les microphones ?",
@@ -2631,7 +2835,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si un haut-parleur a un rendement de 10 % et que l'amplificateur a une puissance de 40 W, quelle sera sa puissance sonore ?",
@@ -2643,7 +2848,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi sert un sonomètre ?",
@@ -2655,7 +2861,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel réseau de pondération fréquentielle doit-on utiliser si l'on veut mesurer des sons de faible intensité ?",
@@ -2667,7 +2874,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel réseau de pondération fréquentielle doit-on utiliser si l'on veut mesurer des sons de forte intensité ?",
@@ -2679,7 +2887,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces microphones a la meilleure sensibilité ?",
@@ -2691,7 +2900,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les dispositifs utilisés dans les tests audiologiques pour évaluer la perte auditive ?",
@@ -2703,7 +2913,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "De quel type de microphones parle-t-on lorsqu'on évoque les microphones spécialement conçus pour mieux répondre aux sons provenant de l'avant, tout en ayant tendance à rejeter les sons provenant d'autres directions ?",
@@ -2715,7 +2926,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment les effets atmosphériques affectent-ils la propagation du bruit ?",
@@ -2727,7 +2939,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle de ces affirmations est correcte ?",
@@ -2739,7 +2952,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle de ces définitions du bruit n'est pas correcte ?",
@@ -2751,7 +2965,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte ?",
@@ -2763,7 +2978,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces effets physiologiques n'est pas causé par le bruit ?",
@@ -2775,7 +2991,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces facteurs n'a pas d'incidence sur le niveau de stress provoqué par le bruit ?",
@@ -2787,7 +3004,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pour quels niveaux de bruit le port d'un équipement de protection est-il obligatoire ?",
@@ -2799,7 +3017,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une perte auditive ?",
@@ -2811,7 +3030,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le niveau d'exposition au bruit qui ne doit pas être dépassé au cours d'une journée de travail ?",
@@ -2823,7 +3043,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la différence entre les acouphènes et l'hypersensibilité ?",
@@ -2835,7 +3056,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment la loi sur le bruit définit-elle la pollution sonore ?",
@@ -2847,7 +3069,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une zone sonore ?",
@@ -2859,7 +3082,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment définit-on la qualité acoustique ?",
@@ -2871,7 +3095,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une carte de bruit ?",
@@ -2883,7 +3108,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces objectifs n'est pas celui d'une carte sonore ?",
@@ -2895,7 +3121,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de cartes utiliser pour évaluer l'exposition globale au bruit dans une zone donnée ?",
@@ -2907,7 +3134,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "De combien de façons une carte de bruit peut-elle être produite ?",
@@ -2919,7 +3147,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les indicateurs de bruit reflétés dans les zones sonores bâties ?",
@@ -2931,7 +3160,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lesquelles de ces données supplémentaires ne sont pas nécessaires à l'établissement d'une carte sonore ?",
@@ -2943,7 +3173,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les principales sources de pollution sonore ?",
@@ -2955,7 +3186,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, il existe une relation constante entre l'accélération et ?",
@@ -2967,7 +3199,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, lorsque le déplacement est égal à 0",
@@ -2979,7 +3212,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un système masse-ressort, si l'on étire le ressort",
@@ -2991,7 +3225,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En acoustique, il y a résonance :",
@@ -3003,7 +3238,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, le déplacement maximal par rapport à la position d'équilibre est",
@@ -3015,7 +3251,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une masse de 10 kg oscille avec une amplitude de 20 cm, attachée à un ressort dont la constante élastique est de 100 N/m. L'énergie cinétique lors du passage par la position d'équilibre est de",
@@ -3027,7 +3264,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, lorsque l'amplitude maximale est atteinte",
@@ -3039,7 +3277,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, la vitesse est maximale lorsque",
@@ -3051,7 +3290,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, le temps nécessaire à un objet pour se déplacer de la position initiale jusqu'à ce qu'il revienne à la position d'équilibre est?",
@@ -3063,7 +3303,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un mouvement périodique simple, lorsque l'élongation par rapport au point d'équilibre est maximale",
@@ -3075,7 +3316,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'énergie d'un oscillateur periodique simple:",
@@ -3087,7 +3329,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un système masse-ressort, la relation entre l'accélération et le déplacement de la masse est:",
@@ -3099,7 +3342,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'énergie transportée par les ondes :",
@@ -3111,7 +3355,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pour que le son se propage, les conditions suivantes doivent être remplies :",
@@ -3123,7 +3368,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel de ces facteurs influence la vitesse des ondes sonores dans un gaz ?",
@@ -3135,7 +3381,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon la direction de vibration des ondes, celles-ci peuvent être classées comme suit :",
@@ -3147,7 +3394,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Indiquez laquelle des affirmations suivantes est correcte :",
@@ -3159,7 +3407,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle de ces affirmations concernant les ondes périodiques est correcte:",
@@ -3171,7 +3420,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la relation entre la longueur d'onde, le nombre d'ondes et la vitesse de phase ?",
@@ -3183,7 +3433,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La différence entre une impulsion et un train d'ondes est",
@@ -3195,7 +3446,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'intensité d'une onde sonore sphérique :",
@@ -3207,7 +3459,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'impédance ?",
@@ -3219,7 +3472,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le phénomène par lequel une onde rebondit en changeant de direction lorsqu'elle frappe une surface de manière oblique?",
@@ -3231,7 +3485,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un tube sonore fermé, il y a :",
@@ -3243,7 +3498,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si deux ondes périodiques sont en phase ou diffèrent en phase d'un multiple entier de 2 ?, l'interférence est... :",
@@ -3255,7 +3511,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans le cas d'une corde fixée aux deux extrémités, la condition d'onde stationnaire stipule que la longueur de la corde est. :",
@@ -3267,7 +3524,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon le théorème de Fourier, toute onde périodique :",
@@ -3279,7 +3537,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le principe de Huygens stipule que chaque point d'un front d'onde arrivant sur une fente devient une source d'ondes secondaires. Le principe de Huygens s'applique réellement:",
@@ -3291,7 +3550,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le phénomène par lequel une onde change de direction en raison d'un changement de milieu de propagation ?",
@@ -3303,7 +3563,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le nom donné au changement de direction d'une onde lorsqu'elle touche le bord d'un objet, selon le principe de Huygens?:",
@@ -3315,7 +3576,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorsqu'un battement se produit, la fréquence du battement est égale à:",
@@ -3327,7 +3589,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'interférence de deux ondes périodiques de même amplitude, de même fréquence et de même nombre d'ondes dépend de :",
@@ -3339,7 +3602,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le phénomène par lequel une partie de l'énergie transmise par l'onde sonore est absorbée par le mur ?",
@@ -3351,7 +3615,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En quoi consiste le phénomène de réverbération ?",
@@ -3363,7 +3628,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte ?",
@@ -3375,7 +3641,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte ?",
@@ -3387,7 +3654,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le comportement de la pression sonore dans une pièce?",
@@ -3399,7 +3667,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de pièce permet de minimiser les réflexions sonores à l'intérieur?",
@@ -3411,7 +3680,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le nom donné au champ sonore qui inclut les sons provenant de différentes réflexions ?",
@@ -3423,7 +3693,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un champ libre, le niveau de pression sonore à 2 m est de 78 dB, quel sera le niveau de pression sonore à 8 m?",
@@ -3435,7 +3706,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des théories suivantes explique le comportement du son sur de grandes surfaces réfléchissantes ?",
@@ -3447,7 +3719,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel doit être le niveau de bruit à l'intérieur des cabines audiométriques?",
@@ -3459,7 +3732,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "A quelles fréquences l'appareil auditif est-il le plus sensible ?",
@@ -3471,7 +3745,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "De quels paramètres dépend le coefficient d'absorption d'un matériau ?",
@@ -3483,7 +3758,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels types de matériaux utiliser pour réduire le temps de réverbération d'une pièce ?",
@@ -3495,7 +3771,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment améliorer l'isolation acoustique d'un mur double ?",
@@ -3507,7 +3784,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les matériaux suivants, lequel a le coefficient d'absorption le plus élevé ?",
@@ -3519,7 +3797,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si les niveaux de pression sonore incidents et transmis sont respectivement Lpi = 90 dB et Lpt = 45 dB, l'isolation acoustique brute est la suivante",
@@ -3531,7 +3810,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte ?",
@@ -3543,7 +3823,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'isolation acoustique d'une pièce signifie",
@@ -3555,7 +3836,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de verre permet d'améliorer l'isolation des fenêtres ?",
@@ -3567,7 +3849,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur quoi se fonde la méthode de Kundt ?",
@@ -3579,7 +3862,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sur quoi repose la méthode de la chambre réverbérante ?",
@@ -3591,7 +3875,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les ondes sonores :",
@@ -3603,7 +3888,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La puissance dissipée par une résistance est :",
@@ -3615,7 +3901,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est l'unité de mesure du courant ?",
@@ -3627,7 +3914,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel signal aurait une fréquence plus élevée, celui dans lequel 3 cycles sont introduits en une seconde ou celui dans lequel 5 cycles sont introduits ?",
@@ -3639,7 +3927,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que la résistance électrique ?",
@@ -3651,7 +3940,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est l'unité de mesure de la résistance électrique ?",
@@ -3663,7 +3953,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment s'appelle le temps qu'il faut à une onde alternative pour effectuer un cycle ?",
@@ -3675,7 +3966,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de millivolts représentent 0,65 V",
@@ -3687,7 +3979,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une période ?",
@@ -3699,7 +3992,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de mesures un multimètre peut-il effectuer ?",
@@ -3711,7 +4005,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une tension ?",
@@ -3723,7 +4018,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorsque le courant circule dans le même sens et que sa valeur est constante, on parle de :",
@@ -3735,7 +4031,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle serait la période d'une onde dont la fréquence est de 50 Hz ?",
@@ -3747,7 +4044,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est l'unité de mesure de la puissance",
@@ -3759,7 +4057,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel instrument mesure l'intensité du courant continu ?",
@@ -3771,7 +4070,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si une tension varie dans le temps, on dit qu'il s'agit d'une tension",
@@ -3783,7 +4083,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle grandeur physique peut être mesurée à l'aide d'un voltmètre ?",
@@ -3795,7 +4096,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment appelle-t-on la tension variable dans le temps ?",
@@ -3807,7 +4109,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La direction du flux d'électrons est :",
@@ -3819,7 +4122,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de kilo ohms représentent 140 000 Ohms?",
@@ -3831,7 +4135,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit de résistances en parallèle, la résistance totale est",
@@ -3843,7 +4148,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En théorie, quelle est la résistance d'un condensateur connecté à une source de courant continu ?",
@@ -3855,7 +4161,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tension de l'émetteur de base à saturation",
@@ -3867,7 +4174,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la valeur d'une résistance dont le code couleur est rouge-vert-marron-argent",
@@ -3879,7 +4187,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Théoriquement, un condensateur connecté à une source de courant alternatif se comporte comme ?",
@@ -3891,7 +4200,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le transistor représenté sur la figure est un transistor du type C  B > E",
@@ -3903,7 +4213,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": "https://i.postimg.cc/LXyJnT2g/NPN.jpg"
   },
   {
     "question": "Quelle est la valeur d'une résistance dont le code couleur est jaune-violet-noir-bleu-marron",
@@ -3915,7 +4226,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les types de résistances",
@@ -3927,7 +4239,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une résistance SMD dont le corps est marqué du chiffre 122 a une valeur de",
@@ -3939,7 +4252,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La loi d'Ohm est",
@@ -3951,7 +4265,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le symbole de la figure représente",
@@ -3963,7 +4278,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": "https://i.postimg.cc/hj80wN8W/Image-4.jpg"
   },
   {
     "question": "Combien de nF représente 1mF ?",
@@ -3975,7 +4291,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une résistance SMD dont le corps porte le numéro R22 a une valeur de R22",
@@ -3987,7 +4304,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le symbole de la figure représente (condensateur barré d'une flèche)",
@@ -3999,7 +4317,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": "https://i.postimg.cc/xCZZfwJk/Image-2.jpg"
   },
   {
     "question": "Comment s'appellent les broches d'un transistor",
@@ -4011,7 +4330,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que Tau ?",
@@ -4023,7 +4343,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans lequel des circuits suivants le condensateur mettra-t-il le plus de temps à se charger ?",
@@ -4035,7 +4356,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": "https://i.postimg.cc/85c3Vp5Q/circuit.jpg"
   },
   {
     "question": "Comment s'appellent les broches d'un transistor ?",
@@ -4047,7 +4369,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si l'on veut mesurer la tension aux bornes d'une résistance, comment connecter le voltmètre à la résistance ?",
@@ -4059,7 +4382,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les condensateurs qui ont une polarité sont",
@@ -4071,7 +4395,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon la loi d'Ohm",
@@ -4083,7 +4408,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans une diode de redressement, la broche négative",
@@ -4095,7 +4421,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la valeur d'une résistance dont le code couleur est bleu-gris-rouge-or ?",
@@ -4107,7 +4434,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit parallèle de résistances, il est vrai que",
@@ -4119,7 +4447,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En termes de caractéristiques, quels sont les meilleurs composants conventionnels ou SMD",
@@ -4131,7 +4460,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est correcte",
@@ -4143,7 +4473,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle des affirmations suivantes est valable pour un circuit de résistance en série",
@@ -4155,7 +4486,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit en série, la tension appliquée est répartie",
@@ -4167,7 +4499,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit de résistances en série, la résistance totale est",
@@ -4179,7 +4512,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la valeur d'une résistance dont le code couleur est vert-bleu-orange-argent",
@@ -4191,7 +4525,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le symbole de la figure représente",
@@ -4203,7 +4538,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": "https://i.postimg.cc/x1dFmjvk/Condo.jpg"
   },
   {
     "question": "Si nous voyons que la valeur d'une résistance est de 2K7, cela signifie que sa valeur est de",
@@ -4215,7 +4551,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le transistor de la figure représente un transistor de type",
@@ -4227,7 +4564,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": "https://i.postimg.cc/t40YZ7Qk/PNP.jpg"
   },
   {
     "question": "Le symbole de la figure est un:",
@@ -4239,7 +4577,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": "https://i.postimg.cc/WpWZ321Y/Diode.jpg"
   },
   {
     "question": "Quel est le nom de l'appareil électronique de la figure",
@@ -4251,7 +4590,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": "https://i.postimg.cc/R04hd80n/ResVar.jpg"
   },
   {
     "question": "Avec quelle unité mesure-t-on la capacité d'un condensateur ?",
@@ -4263,7 +4603,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de nF correspondent à 1mF ?",
@@ -4275,7 +4616,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si l'on veut mesurer le courant dans une résistance, comment connecter l'ampèremètre à la résistance",
@@ -4287,7 +4629,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de µF représentent 100 pF ?",
@@ -4299,7 +4642,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si l'on voit que la valeur d'une résistance est de 5K2, cela signifie que sa valeur est de",
@@ -4311,7 +4655,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tension sur le collecteur de l'émetteur lorsque le transistor est en coupure",
@@ -4323,7 +4668,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les trois types de condensateurs ?",
@@ -4335,7 +4681,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit parallèle de résistances, la réponse suivante est vraie",
@@ -4347,7 +4694,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de nF correspondent à 10 µF",
@@ -4359,7 +4707,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une résistance SMD dont le corps est marqué du chiffre 2R2 a une valeur de",
@@ -4371,7 +4720,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si l'on met en parallèle une résistance de 1 Mohm et une résistance de 1 ohm, la résistance équivalente sera",
@@ -4383,7 +4733,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La transmission du son par câble s'effectue au moyen de:",
@@ -4395,7 +4746,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lignes/cables symétriques...:",
@@ -4407,7 +4759,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le bruit utilisé pour analyser le comportement des haut-parleurs et des équipements de sonorisation est",
@@ -4419,7 +4772,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Basses/graves fréquences.",
@@ -4431,7 +4785,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un microphone est:",
@@ -4443,7 +4798,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Entre quelles valeurs de fréquence la bande passante est-elle audible pour l'homme ?",
@@ -4455,7 +4811,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qui a pour fonction de transformer les signaux sonores physiques en signaux sonores mécaniques ?",
@@ -4467,7 +4824,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Types de microphones unidirectionnels en fonction de leur diagramme polaire ?",
@@ -4479,7 +4837,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les Microphones",
@@ -4491,7 +4850,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le seuil du son est:",
@@ -4503,7 +4863,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi sert un sonomètre ?",
@@ -4515,7 +4876,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le nom du haut-parleur à l'endroit où se trouverait la partie de la parole ?",
@@ -4527,7 +4889,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel bruit toutes les fréquences ont la même puissance",
@@ -4539,7 +4902,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une ligne/ un cable symétrique :",
@@ -4551,7 +4915,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment s'appelle le haut-parleur qui reproduit les fréquences moyennes ?",
@@ -4563,7 +4928,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les lignes asymétriques....",
@@ -4575,7 +4941,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les parties de l'oreille ?",
@@ -4587,7 +4954,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de diodes un transistor contient-il ?",
@@ -4599,7 +4967,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de millivolts représentent 0,65 V",
@@ -4611,7 +4980,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un circuit parallèle de résistances, il est vrai que",
@@ -4623,7 +4993,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un égaliseur graphique, sur quel type d'appareil auditif se monte-t-il?",
@@ -4635,7 +5006,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'étain utilisé pour la soudure est-il pur?",
@@ -4647,7 +5019,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le bruit utilisé pour analyser le comportement des haut-parleurs et des équipements de sonorisation est",
@@ -4659,7 +5032,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les principales caractéristiques d'un filtre passe-bande sont les suivantes:",
@@ -4671,7 +5045,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel nombre viendrait après l'hexadécimal 3FE ?",
@@ -4683,7 +5058,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel signal aurait une fréquence plus élevée, celui dans lequel 3 cycles sont introduits en une seconde ou celui dans lequel 5 cycles sont introduits ?",
@@ -4695,7 +5071,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un signal d'une fréquence de 1 KHz a une période :",
@@ -4707,7 +5084,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si je veux assembler un circuit suiveur de tension:",
@@ -4719,7 +5097,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un amplificateur à symétrie complémentaire Comment sort-il le signal de sortie par rapport à l'entrée",
@@ -4731,7 +5110,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Citez les différentes façons de connecter le transistor bipolaire",
@@ -4743,7 +5123,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de diodes un transistor contient-il ?",
@@ -4755,7 +5136,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quelle phase un amplificateur opérationnel inverseur émet-il le signal de sortie par rapport à l'entrée ?",
@@ -4767,7 +5149,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Est-il possible de supprimer la distorsion de croisement dans un amplificateur?",
@@ -4779,7 +5162,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'offset null dans un amplificateur opérationnel est",
@@ -4791,7 +5175,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le transistor fonctionnant en classe A",
@@ -4803,7 +5188,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pour calculer le gain en tension d'un amplificateur :",
@@ -4815,7 +5201,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'amplification de classe AB ?",
@@ -4827,7 +5214,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le gain d'un suiveur de tension ?",
@@ -4839,7 +5227,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tension collecteur émetteur à saturation ?",
@@ -4851,7 +5240,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tension du collecteur émetteur en actif ?",
@@ -4863,7 +5253,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si un client a besoin d'une amplification de sortie de faible puissance, quel amplificateur son appareil auditif doit-il utiliser ?",
@@ -4875,7 +5266,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un amplificateur opérationnel non inverseur émet le signal de sortie dans quelle phase par rapport à l'entrée ?",
@@ -4887,7 +5279,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un amplificateur...",
@@ -4899,7 +5292,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un appareil auditif puissant. Pourquoi n'est-il pas polarisé en actif?",
@@ -4911,7 +5305,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un circuit de transistor avec une configuration d'émetteur commun signifie",
@@ -4923,7 +5318,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une amplification symétrique complémentaire?",
@@ -4935,7 +5331,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un filtre passif, si l'on augmente la fréquence dans son condensateur:",
@@ -4947,7 +5344,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de fréquences un filtre passe-bande a-t-il?",
@@ -4959,7 +5357,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les types de filtres qui existent en fonction de leurs composants?",
@@ -4971,7 +5370,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les types de filtres selon leur configuration?",
@@ -4983,7 +5383,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un filtre coupe-bande laisse passer quelles fréquences?",
@@ -4995,7 +5396,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un égaliseur sera meilleur:",
@@ -5007,7 +5409,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les types d'égaliseurs?",
@@ -5019,7 +5422,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La fréquence de coupure est:",
@@ -5031,7 +5435,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les principales caractéristiques d'un filtre passe-bande sont les suivantes:",
@@ -5043,7 +5448,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "A quoi servent les potentiomètres dans un égaliseur?",
@@ -5055,7 +5461,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un filtre passe-bas a-t-il une fréquence centrale?",
@@ -5067,7 +5474,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un égaliseur paramétrique se monte sur:",
@@ -5079,7 +5487,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le composant principal d'un filtre actif?",
@@ -5091,7 +5500,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La fréquence de coupure est:",
@@ -5103,7 +5513,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi sert un filtre?",
@@ -5115,7 +5526,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les filtres actifs ...",
@@ -5127,7 +5539,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un égaliseur graphique, sur quel type d'appareil auditif se monte-t-il?",
@@ -5139,7 +5552,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les filtres de troisième ordre sont ceux qui ont une atténuation de:",
@@ -5151,7 +5565,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les filtres de second ordre sont ceux qui ont une atténuation de:",
@@ -5163,7 +5578,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans une porte NOT:",
@@ -5175,7 +5591,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien de volts équivalent à 1 dans la technologie TTL ?",
@@ -5187,7 +5604,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une table de vérité ?",
@@ -5199,7 +5617,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Combien d'états peut avoir l'électronique numérique ?",
@@ -5211,7 +5630,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le nombre décimal est 10101101?",
@@ -5223,7 +5643,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi correspond 1010 en hexadécimal ?",
@@ -5235,7 +5656,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel nombre en décimal est 011101?",
@@ -5247,7 +5669,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle serait la somme de 1000 + 0011 ?",
@@ -5259,7 +5682,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le nombre décimal de 1101 ?",
@@ -5271,7 +5695,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel numéro irait après 5FF ?",
@@ -5283,7 +5708,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel nombre viendrait après l'hexadécimal 3FE ?",
@@ -5295,7 +5721,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel nombre décimal correspond à 1010 ?",
@@ -5307,7 +5734,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi correspond 01101011 en hexadécimal ?",
@@ -5319,7 +5747,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment fonctionne une porte XOR ?",
@@ -5331,7 +5760,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi correspond 1110 en décimal ?",
@@ -5343,7 +5773,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel numéro irait après le décimal 5FE?",
@@ -5355,7 +5786,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En binaire, quel est le nombre B8 ?",
@@ -5367,7 +5799,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En termes canoniques :",
@@ -5379,7 +5812,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que cela signifie qu'il est activé à un faible niveau ?",
@@ -5391,7 +5825,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En quoi le système binaire diffère-t-il du système hexadécimal ?",
@@ -5403,7 +5838,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel équipement est utilisé pour protéger la tête de possibles impacts dans l'environnement de travail ? :",
@@ -5415,7 +5851,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans un plan d'autoprotection, quelle mesure serait la plus efficace pour prévenir un désastre en cas de déversement de substances chimiques dangereuses ? :",
@@ -5427,7 +5864,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi ces propositions laquelle est une mesure spécifique pour protéger les femmes enceintes au travail ? :",
@@ -5439,7 +5877,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la principale différence entre un risque ergonomique et un risque psychosocial dans l'environnement de travail ? :",
@@ -5451,7 +5890,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de dommage peut être causé par une exposition prolongée au bruit dans l'environnement de travail ? :",
@@ -5463,7 +5903,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel risque de sécurité est associé à la mauvaise manipulation de machines lourdes ? :",
@@ -5475,7 +5916,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel droit ont les travailleurs en ce qui concerne leur santé au travail ? :",
@@ -5487,7 +5929,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les propositions suivantes, quel risque est un risque environnemental ? :",
@@ -5499,7 +5942,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel organisme public supervise la conformité à la législation sur la prévention des risques professionnels en Espagne ? :",
@@ -5511,7 +5955,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est lobligation des travailleurs par rapport aux normes de prévention des risques professionnels ? :",
@@ -5523,7 +5968,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels facteurs de risques incluent l'exposition au bruit, à un éclairage inadéquat et aux vibrations ? :",
@@ -5535,7 +5981,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Laquelle de ces propositions est un exemple daccident du travail ? :",
@@ -5547,7 +5994,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de facteurs de risques se réfère à l'organisation du travail et aux relations interpersonnelles ? :",
@@ -5559,7 +6007,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la première étape dans le protocole d'intervention en cas de situation d'urgence ? :",
@@ -5571,7 +6020,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels risques sont principalement associés aux expositions, aux virus et aux bactéries dans l'environnement de travail ? :",
@@ -5583,7 +6033,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel impact peut avoir une condition de travail qui engendre du stress sur le travailleur ? :",
@@ -5595,7 +6046,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la fonction principale des équipements de protection individuelle (EPI) ? :",
@@ -5607,7 +6059,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle mesure préventive se concentre sur l'élimination des contaminants de l'air sur le lieu de travail ? :",
@@ -5619,7 +6072,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle condition ergonomique défectueuse peut causer un mal de dos et des lésions articulaires ? :",
@@ -5631,7 +6085,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans l'évaluation des risques professionnels, quel critère est utilisé pour déterminer la priorité dans la mise en uvre des mesures préventives ? :",
@@ -5643,7 +6098,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel cas le travailleur a-t-il le droit de résilier le contrat de travail en ayant droit à une indemnité de 20 jours de salaire par année travaillée, avec un maximum de 9 mois ?",
@@ -5655,7 +6111,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la durée maximale de la période d'essai pour les techniciens qualifiés, à moins que la convention collective n'en dispose autrement ?",
@@ -5667,7 +6124,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les éléments suivants quel est celui qui doit être inclus dans le reçu de salaire ?",
@@ -5679,7 +6137,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans le cadre d'une invalidité temporaire quel pourcentage du salaire reçoit le salarié, à partir du 21ème jour de la suspension temporaire du contrat de travail ?",
@@ -5691,7 +6150,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la procédure judiciaire du travail qui commence par une conciliation préalable devant le SMAC ?",
@@ -5703,7 +6163,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le service de médiation, d'arbitrage et de conciliation (SMAC) a pour fonction principale de :",
@@ -5715,7 +6176,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel élément constitue un droit des employeurs ?",
@@ -5727,7 +6189,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le droit du travailleur à la formation professionnelle continue est :",
@@ -5739,7 +6202,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le statut des travailleurs réglemente les aspects suivants, à l'exception :",
@@ -5751,7 +6215,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La suspension du contrat de travail implique:",
@@ -5763,7 +6228,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le délai général pour qu'un travailleur intente une action en justice suite à un licenciement ?",
@@ -5775,7 +6241,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Le congé de maternité est de :",
@@ -5787,7 +6254,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Un travailleur qui a épuisé les allocations de chômage contributives peut avoir droit à :",
@@ -5799,7 +6267,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les motifs suivants, quel est celui qui constitue une suspension du contrat de travail ?",
@@ -5811,7 +6280,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une des causes d'extinction du contrat de travail comme décision du travailleur est:",
@@ -5823,7 +6293,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la principale norme qui régit les droits et les obligations du travail en Espagne ?",
@@ -5835,7 +6306,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La convention collective peut comprendre des clauses de compléments de salaire fondées sur :",
@@ -5847,7 +6319,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les éléments obligatoires à inclure dans une convention collective, selon la législation espagnole ?",
@@ -5859,7 +6332,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel article de la constitution espagnole réglemente la négociation collective ?",
@@ -5871,7 +6345,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La procédure qui permet à un travailleur d'interrompre temporairement son activité professionnelle pour des raisons personnelles, tout en préservant son droit de réintégrer l'entreprise, s'appelle :",
@@ -5883,7 +6358,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que la téléaudiologie ?",
@@ -5895,7 +6371,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel aspect de lutilisation de lintelligence artificielle (IA) révolutionne le diagnostic audiologique ?",
@@ -5907,7 +6384,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle compétence interpersonnelle est la plus pertinente pour un audioprothésiste face à des patients frustrés par leur perte auditive ?",
@@ -5919,7 +6397,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la compétence la plus pertinente pour un audioprothésiste ?",
@@ -5931,7 +6410,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels types de tests effectuent généralement les audioprothésistes ?",
@@ -5943,7 +6423,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce qui a récemment transformé le secteur de laudiologie prothétique ?",
@@ -5955,7 +6436,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce qui représente un défi pour le secteur de laudiologie prothétique ?",
@@ -5967,7 +6449,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est lenjeu majeur du secteur de laudiologie prothétique ?",
@@ -5979,7 +6462,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle compétence est essentielle pour un audioprothésiste lors du réglage des appareils auditifs ?",
@@ -5991,7 +6475,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel rôle peut jouer un consultant en audiologie ?",
@@ -6003,7 +6488,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle compétence est essentielle pour un responsable de centre auditif ?",
@@ -6015,7 +6501,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel facteur a accru la demande de services auditifs parmi les populations plus jeunes ?",
@@ -6027,7 +6514,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La prise de conscience de limportance de la santé auditive",
@@ -6039,7 +6527,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce qui a motivé ladoption de technologies pour les soins à distance en audiologie ?",
@@ -6051,7 +6540,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les propositions suivantes, quelle est celle qui décrit correctement lobjectif principal du secteur de laudiologie prothétique ?",
@@ -6063,7 +6553,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le facteur clé qui a contribué à la croissance de la demande de services daudiologie prothétique ?",
@@ -6075,7 +6566,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tendance sur le marché du travail en audiologie prothétique ?",
@@ -6087,7 +6579,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels types dentreprises sont majoritaires dans le secteur de laudiologie prothétique ?",
@@ -6099,7 +6592,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le rôle dun représentant commercial dappareils auditifs ?",
@@ -6111,7 +6605,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel environnement de travail un audioprothésiste a-t-il le moins de possibilités de travailler (bien que ce ne soit pas impossible) ?",
@@ -6123,7 +6618,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les éléments de l'analyse du potentiel professionnel ?",
@@ -6135,7 +6631,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi est-il important de réfléchir sur nos compétences personnelles ?",
@@ -6147,7 +6644,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'acceptation de soi implique ?",
@@ -6159,7 +6657,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que la flexibilité cognitive ?",
@@ -6171,7 +6670,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la définition de l'estime de soi ?",
@@ -6183,7 +6683,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les avantages des programmes européens comme Erasmus+ ?",
@@ -6195,7 +6696,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les éléments essentiels d'un CV ?",
@@ -6207,7 +6709,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les bénéfices d'une mentalité de croissance ?",
@@ -6219,7 +6722,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels facteurs influencent la perception de soi ?",
@@ -6231,7 +6735,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le rôle de la connaissance de soi dans la croissance professionnelle ?",
@@ -6243,7 +6748,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que comprend le plan cognitif ?",
@@ -6255,7 +6761,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi l'empathie est-elle essentielle dans le milieu professionnel ?",
@@ -6267,7 +6774,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'une auto-analyse SWOT ?",
@@ -6279,7 +6787,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les aspects de la connaissance de soi ?",
@@ -6291,7 +6800,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels outils d'intelligence artificielle favorisent la connaissance de soi ?",
@@ -6303,7 +6813,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'analyse du potentiel professionnel ?",
@@ -6315,7 +6826,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi les valeurs personnelles et professionnelles sont-elles importantes ?",
@@ -6327,7 +6839,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que permet la conscience émotionnelle de soi ?",
@@ -6339,7 +6852,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les impacts d'une perception positive de soi sur le développement professionnel ?",
@@ -6351,7 +6865,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que signifie \"adaptabilité\" dans un contexte professionnel ?",
@@ -6363,7 +6878,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'un PLE (Personal Learning Environment) ?",
@@ -6375,7 +6891,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel réseau professionnel est particulièrement utile pour les connexions et opportunités ?",
@@ -6387,7 +6904,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quoi sert Prezi ?",
@@ -6399,7 +6917,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les risques dune mauvaise gestion de lidentité numérique ?",
@@ -6411,7 +6930,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'identité numérique ?",
@@ -6423,7 +6943,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel outil facilite la gestion de projets dapprentissage ?",
@@ -6435,7 +6956,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les bonnes pratiques pour sécuriser ses données personnelles ?",
@@ -6447,7 +6969,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles plateformes proposent des cours en ligne reconnus ?",
@@ -6459,7 +6982,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que l'apprentissage autonome ?",
@@ -6471,7 +6995,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi est-il important dévaluer périodiquement un PDP (plan de développement personnel) ?",
@@ -6483,7 +7008,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les éléments clés dun PLE ?",
@@ -6495,7 +7021,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi la protection des données personnelles est-elle importante pour lemploi ?",
@@ -6507,7 +7034,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel outil est utile pour prendre des notes et les organiser ?",
@@ -6519,7 +7047,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment Slack peut-il aider dans lapprentissage ?",
@@ -6531,7 +7060,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment identifier ses besoins d'apprentissage ?",
@@ -6543,7 +7073,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce quune empreinte numérique ?",
@@ -6555,7 +7086,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels éléments composent un plan de développement personnel (PDP) ?",
@@ -6567,7 +7099,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que peut-on faire pour gérer correctement son identité numérique ?",
@@ -6579,7 +7112,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce qu'un PLN (Personal Learning Network) ?",
@@ -6591,7 +7125,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les avantages de l'apprentissage autonome ?",
@@ -6603,7 +7138,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est lun des principaux avantages dun environnement dapprentissage personnel (PLE) ?",
@@ -6615,7 +7151,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que lanalyse du potentiel professionnel ?",
@@ -6627,7 +7164,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est l'objectif principal de la prévention des risques professionnels ?",
@@ -6639,7 +7177,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi ces options, laquelle est une mesure de prévention collective en entreprise ?",
@@ -6651,7 +7190,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi est-il important dévaluer périodiquement ses progrès dans un plan de développement personnel (PDP) ?",
@@ -6663,7 +7203,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est l'objectif principal du droit du travail ?",
@@ -6675,7 +7216,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est une bonne pratique pour protéger son identité numérique ?",
@@ -6687,7 +7229,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi la formation continue est-elle essentielle pour un audioprothésiste ?",
@@ -6699,7 +7242,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que lapprentissage autonome ?",
@@ -6711,7 +7255,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type d'entreprise est majoritaire dans le secteur de l'audiologie prothétique ?",
@@ -6723,7 +7268,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est lavantage principal dune auto-analyse SWOT pour lemploi ?",
@@ -6735,7 +7281,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est l'objectif principal du secteur de l'audiologie prothétique ?",
@@ -6747,7 +7294,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi ladaptabilité est-elle une compétence clé sur le marché du travail ?",
@@ -6759,7 +7307,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de risque est lié au stress, au harcèlement et à la surcharge de travail ?",
@@ -6771,7 +7320,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est une obligation fondamentale de lemployeur en matière de sécurité sociale ?",
@@ -6783,7 +7333,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est un des droits fondamentaux des travailleurs selon le statut des travailleurs en Espagne ?",
@@ -6795,7 +7346,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la principale prestation offerte par la sécurité sociale en cas dinvalidité temporaire ?",
@@ -6807,7 +7359,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les compétences essentielles d'un technicien en audiologie prothétique, laquelle est la plus importante ?",
@@ -6819,7 +7372,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que doit contenir une trousse de premiers secours en entreprise ?",
@@ -6831,7 +7385,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est limportance de la connaissance de soi dans la croissance professionnelle ?",
@@ -6843,7 +7398,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi dit-on que les phonèmes nont pas de signification propre?",
@@ -6855,7 +7411,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si on parle du stade illocutif, nous faisons référence à une période durant laquelle:",
@@ -6867,7 +7424,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les signes dalerte indiquant un retard dans le développement du langage chez un enfant?",
@@ -6879,7 +7437,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la conséquence principale dune perte auditive prélinguale sur le développement du langage?",
@@ -6891,7 +7450,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel terme décrit la capacité minimale significative du langage?",
@@ -6903,7 +7463,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi les sourds profonds prélinguistiques ont-ils plus de difficultés à lire que les enfants entendants?",
@@ -6915,7 +7476,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la relation entre le signifiant et le signifié dans le cadre du signe linguistique?",
@@ -6927,7 +7489,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les éléments nécessaires au processus de communication pour qu'il soit réussi?",
@@ -6939,7 +7502,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la fonction principale de laire de Wernicke dans le traitement du langage?",
@@ -6951,7 +7515,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment les traits distinctifs des phonèmes influencent-ils la signification dun mot?",
@@ -6963,7 +7528,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que la redondance dans la communication linguistique, et pourquoi est-elle importante?",
@@ -6975,7 +7541,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À partir de quel degré de perte auditive recommande-t-on souvent un implant cochléaire?",
@@ -6987,7 +7554,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la fonction principale de l'aire de Broca?",
@@ -6999,7 +7567,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les répercussions d'une hypoacousie non traitée de manière précoce sur le développement cognitif et social des sourds profonds prélinguistique?",
@@ -7011,7 +7580,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel trouble est caractérisé par une incapacité à identifier des objets par le son, malgré un organe sensoriel de louïe fonctionnant normalement?",
@@ -7023,7 +7593,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la principale caractéristique qui différencie la communication humaine de la communication animale?",
@@ -7035,7 +7606,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel facteur est crucial pour minimiser les conséquences d'une perte auditive?",
@@ -7047,7 +7619,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la différence principale entre la dyslalie et la dysglossie?",
@@ -7059,7 +7632,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la différence entre une hypoacousie congénitale et une hypoacousie acquise selon la classification étiologique?",
@@ -7071,7 +7645,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que le feedback dans la communication?",
@@ -7083,7 +7658,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'effet Bernoulli est essentiel à la phonation car il :",
@@ -7095,7 +7671,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les cartilages appariés du larynx ?",
@@ -7107,7 +7684,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon la théorie myoélastique primitive, la vibration des cordes vocales est provoquée par :",
@@ -7119,7 +7697,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les caractéristiques de l'inspiration (inhalation) dans le processus de respiration, et comment se modifie-t-elle en cas de respiration fatiguée ?",
@@ -7131,7 +7710,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels organes font partie de la cavité infraglottique ?",
@@ -7143,7 +7723,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les fonctions principales des structures internes de la cavité nasale ?",
@@ -7155,7 +7736,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La fréquence de vibration des cordes vocales chez un homme adulte est denviron :",
@@ -7167,7 +7749,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la tâche des organes phonatoires ?",
@@ -7179,7 +7762,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment se produisent les sons oraux ?",
@@ -7191,7 +7775,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi la cavité glottique est-elle considérée comme l'élément le plus important de l'appareil phonatoire, et quel est son rôle dans la production de la voix ?",
@@ -7203,7 +7788,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "L'oreille humaine peut percevoir des signaux de fréquences comprises entre :",
@@ -7215,7 +7801,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les principaux facteurs qui influencent l'intelligibilité de la parole ?",
@@ -7227,7 +7814,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "À quel moment une intensité sonore n'est-elle plus perçue comme un son mais plutôt comme une douleur ou une gêne ?",
@@ -7239,7 +7827,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel domaine la phonétique est-elle utilisée pour analyser les voix de suspects dans des affaires criminelles ?",
@@ -7251,7 +7840,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Qu'est-ce que la phonétique ?",
@@ -7263,7 +7853,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Larchiphonème /B/ est le résultat de la neutralisation des phonèmes :",
@@ -7275,7 +7866,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La lettre h",
@@ -7287,7 +7879,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La phonétique acoustique",
@@ -7299,7 +7892,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quel cas le masquage partiel affecte-t-il particulièrement l'intelligibilité de la parole ?",
@@ -7311,7 +7905,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que représente un allophone ?",
@@ -7323,7 +7918,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi la \"banane vocale\" est-elle importante pour comprendre les effets de la perte auditive sur l'intelligibilité de la parole ?",
@@ -7335,7 +7931,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Si je trouve un symbole entre < > :",
@@ -7347,7 +7944,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En parlant du phonème, choisissez la réponse incorrecte :",
@@ -7359,7 +7957,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel phénomène se produit lorsqu'un son est accompagné d'un autre son ayant une intensité nettement supérieure, rendant le premier son imperceptible ?",
@@ -7371,7 +7970,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorsqu'on parle de la neutralisation des phonèmes selon la position dans la chaîne parlée, on fait référence à :",
@@ -7383,7 +7983,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le point darticulation de la consonne [k] ?",
@@ -7395,7 +7996,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que représente le triangle acoustique des voyelles ?",
@@ -7407,7 +8009,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle relation existe-t-il entre louverture de la cavité buccale et le premier formant (F1)?",
@@ -7419,7 +8022,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Une consonne _______ est produite lorsque lair passe entre les dents et la lèvre inférieure, comme le son [f].",
@@ -7431,7 +8035,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "La classification articulatoire des consonnes se base sur :",
@@ -7443,7 +8048,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quest-ce que le ton fondamental ?",
@@ -7455,7 +8061,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les voyelles",
@@ -7467,7 +8074,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la principale caractéristique d'une consonne occlusive ?",
@@ -7479,7 +8087,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel paramètre acoustique est principalement influencé par larrondissement des lèvres ?",
@@ -7491,7 +8100,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Pourquoi la lecture labio-faciale est-elle essentielle pour les malentendants ?",
@@ -7503,7 +8113,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la relation entre F1 et la hauteur de la langue ?",
@@ -7515,7 +8126,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel type de son a une structure formantique bien définie ?",
@@ -7527,7 +8139,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel instrument permet de visualiser les variations d'amplitude de la parole dans le temps ?",
@@ -7539,7 +8152,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les voyelles rétroflexes",
@@ -7551,7 +8165,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmis ces consonnes, laquelle est une consonne nasale?",
@@ -7563,7 +8178,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les voyelles nasales",
@@ -7575,7 +8191,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment différencie-t-on une consonne dune voyelle ?",
@@ -7587,7 +8204,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel est le rôle principal des formants dans la parole ?",
@@ -7599,7 +8217,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel paramètre acoustique est lié à la nasalité dun son ?",
@@ -7611,7 +8230,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmis ces consonnes, laquelle est une occlusive sonore ?",
@@ -7623,7 +8243,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Comment se produisent les sons oronasaux ?",
@@ -7635,7 +8256,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans les aires cérébrales, laire de Broca est :",
@@ -7647,7 +8269,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Dans quelle situation le masquage partiel est-il fréquent ?",
@@ -7659,7 +8282,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "En ce qui concerne les éléments structurels de la langue liés aux patients malentendants, sélectionnez les affirmations correctes :",
@@ -7672,7 +8296,8 @@
     "correctAnswers": [
       0,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Larchiphonème /D/ est le résultat de la neutralisation des phonèmes :",
@@ -7684,7 +8309,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lequel des éléments suivants constitue un signe dalerte du développement du langage chez un enfant, selon les repères développementaux ?",
@@ -7696,7 +8322,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les sons doux et de moyenne intensité deviennent inaudibles en cas :",
@@ -7708,7 +8335,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les traits distinctifs acoustiques prosodiques font référence à :",
@@ -7720,7 +8348,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Les troubles du langage causés uniquement par une altération de la production sont :",
@@ -7732,7 +8361,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Parmi les traits distinctifs suivants, sélectionnez ceux qui correspondent aux traits acoustiques",
@@ -7745,7 +8375,8 @@
     "correctAnswers": [
       1,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Lorsquon mesure le UCL en audiométrie tonale liminaire, à quel seuil du champ auditif humain correspond-il ?",
@@ -7757,7 +8388,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Que représente un allophone ?",
@@ -7769,7 +8401,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel facteur influence principalement la hauteur (tonalité) du son produit lors de la phonation ?",
@@ -7781,7 +8414,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quel phénomène rend la distinction entre des sons comme «?c?» et «?t?» plus difficile ?",
@@ -7793,7 +8427,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle affirmation décrit correctement laction des muscles intercostaux internes ?",
@@ -7805,7 +8440,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle affirmation est correcte concernant limportance des formants dans la perception des voyelles ?",
@@ -7817,7 +8453,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle approche phonétique étudie les organes impliqués dans la production des sons ?",
@@ -7829,7 +8466,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la partie du larynx la plus étroite située entre les cordes vocales ?",
@@ -7841,7 +8479,8 @@
     ],
     "correctAnswers": [
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelle est la relation entre le signifiant et le signifié dans le cadre du signe linguistique?",
@@ -7853,7 +8492,8 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les étapes de lacquisition du langage ?",
@@ -7866,7 +8506,8 @@
     "correctAnswers": [
       2,
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quelles sont les tâches des organes phonatoires dans la production de la voix humaine?",
@@ -7879,7 +8520,8 @@
     "correctAnswers": [
       2,
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les facteurs qui déterminent les conséquences et limpact dune perte auditive ou dune hypoacousie ?",
@@ -7892,7 +8534,8 @@
     "correctAnswers": [
       1,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels sont les phénomènes phonétiques qui génère des changements dus à la vitesse de la parole ou à la diction ?",
@@ -7904,7 +8547,8 @@
     ],
     "correctAnswers": [
       0
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Quels traits articulatoires le /p/ et le /b/ ont-ils en commun ?",
@@ -7916,7 +8560,8 @@
     ],
     "correctAnswers": [
       1
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sélectionnez les approches qui correspondent à la phonétique :",
@@ -7929,7 +8574,8 @@
     "correctAnswers": [
       0,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sélectionnez les cartilages appariés du larynx:",
@@ -7942,7 +8588,8 @@
     "correctAnswers": [
       1,
       2
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Sélectionnez les traits articulatoires de la voyelle /o/:",
@@ -7955,7 +8602,8 @@
     "correctAnswers": [
       1,
       3
-    ]
+    ],
+    "image": ""
   },
   {
     "question": "Selon le mode darticulation, les voyelles sont classées en :",
@@ -7967,6 +8615,7 @@
     ],
     "correctAnswers": [
       3
-    ]
+    ],
+    "image": ""
   }
 ]
