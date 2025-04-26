@@ -9,19 +9,32 @@
 <body>
   <div class="container">
     <h1>Quiz à Choix Multiples</h1>
-    <div id="quiz-container">
+
+    <!-- Bloc choix matière -->
+    <div id="subject-selection">
+      <h2>Choisissez une matière :</h2>
+      <select id="subject-select"></select>
+      <button id="start-btn">Commencer</button>
+    </div>
+
+    <!-- Bloc quiz -->
+    <div id="quiz-container" class="hidden">
       <div id="question"></div>
       <img id="question-image" src="" alt="" class="hidden" style="max-width:100%; margin:10px 0;">
       <form id="answers-form"></form>
       <button id="submit-btn">Valider</button>
       <div id="feedback"></div>
     </div>
+
+    <!-- Bloc résultats -->
     <div id="result" class="hidden">
       <h2>Résultat</h2>
       <p id="score"></p>
       <button id="restart-btn">Recommencer</button>
     </div>
+
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>
