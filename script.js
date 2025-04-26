@@ -6,8 +6,8 @@ let mistakes = [];
 let startTime = null;
 let currentShuffledOptions = [];
 
-fetch('./questions_with_subject_cleaned.json')
-  .then(response => response.json()) // Lecture directe en JSON (plus de .text() + JSON.parse)
+fetch('./questions_with_subject_cleaned.json?v=' + Date.now())
+  .then(response => response.json())
   .then(data => {
     allQuestions = data;
     populateSubjects();
