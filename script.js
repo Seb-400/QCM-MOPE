@@ -6,13 +6,11 @@ let mistakes = [];
 let startTime = null;
 let currentShuffledOptions = [];
 
-fetch('questions_with_subject.json')
-  .then(response => response.json())
+fetch('questions_with_subject_cleaned.json')
+  .then(response => response.text())
+  .then(text => JSON.parse(text))
   .then(data => {
-    allQuestions = data.map(q => {
-      q.options = q.options.filter(opt => opt && opt.toLowerCase() !== "nan");
-      return q;
-    });
+    allQuestions = data;
     populateSubjects();
   });
 
