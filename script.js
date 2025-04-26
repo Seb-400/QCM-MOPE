@@ -16,11 +16,19 @@ const feedbackEl = document.getElementById("feedback");
 const resultEl = document.getElementById("result");
 const scoreEl = document.getElementById("score");
 const restartBtn = document.getElementById("restart-btn");
+const questionImage = document.getElementById("question-image");
 
 function loadQuestion() {
   const currentQuestion = questions[currentQuestionIndex];
   questionEl.textContent = currentQuestion.question;
   answersForm.innerHTML = "";
+
+  if (currentQuestion.image && currentQuestion.image !== "") {
+    questionImage.src = currentQuestion.image;
+    questionImage.classList.remove("hidden");
+  } else {
+    questionImage.classList.add("hidden");
+  }
 
   currentQuestion.options.forEach((option, index) => {
     const label = document.createElement("label");
