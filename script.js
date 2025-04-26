@@ -47,7 +47,7 @@ startBtn.addEventListener("click", () => {
   const selectedSubject = subjectSelect.value;
   let filteredQuestions = allQuestions.filter(q => q.subject === selectedSubject);
 
-  // 🔥 TIRAGE ALÉATOIRE LIMITÉ À 20
+  // Tirer 20 questions maximum
   filteredQuestions = shuffleArray(filteredQuestions).slice(0, 20);
 
   questions = filteredQuestions;
@@ -140,12 +140,10 @@ function showResult() {
 
   scoreEl.textContent = "Vous avez obtenu " + score + " sur " + questions.length + " bonnes réponses.";
   
-  // Chronomètre
   const endTime = new Date();
   const elapsedSeconds = Math.round((endTime - startTime) / 1000);
   timeEl.textContent = "Temps total : " + elapsedSeconds + " secondes.";
 
-  // Détail des erreurs
   recapEl.innerHTML = "<h3>Corrections :</h3>";
   mistakes.forEach(mistake => {
     recapEl.innerHTML += `
