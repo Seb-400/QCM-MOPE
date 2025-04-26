@@ -8,7 +8,11 @@ let startTime = null;
 fetch('questions_with_subject.json')
   .then(response => response.json())
   .then(data => {
-    allQuestions = data;
+    allQuestions = data.map(q => {
+      // 🔥 Correction ici pour ENLEVER les "Nan" dans les données
+      q.options = q.options.filter(opt => opt && opt.toLowerCase() !== "nan");
+      return q;
+    });
     populateSubjects();
   });
 
@@ -47,7 +51,6 @@ startBtn.addEventListener("click", () => {
   const selectedSubject = subjectSelect.value;
   let filteredQuestions = allQuestions.filter(q => q.subject === selectedSubject);
 
-  // Tirer 20 questions maximum
   filteredQuestions = shuffleArray(filteredQuestions).slice(0, 20);
 
   questions = filteredQuestions;
@@ -72,14 +75,16 @@ function loadQuestion() {
     questionImage.classList.add("hidden");
   }
 
-  // Mélanger les options et supprimer celles qui sont "Nan"
-  const shuffledOptions = currentQuestion.options.map((opt, idx) => ({opt, idx}));
-  const validOptions = shuffledOptions.filter(item => item.opt.toLowerCase() !== "nan");
-  shuffleArray(validOptions);
+  const shuffledOptions = shuffleArray(currentQuestion.options);
 
-  validOptions.forEach(({opt, idx}) => {
+  shuffledOptions.forEach((opt, idx) => {
     const label = document.createElement("label");
-    label.style.display = "block"; // Affichage sur une nouvelle ligne
+    label.style.display = "block"; // ✅ Forcer chaque réponse sur une nouvelle ligne
+    label.style.padding = "8px";
+    label.style.marginBottom = "8px";
+    label.style.backgroundColor = "#f9f9f9";
+    label.style.border = "1px solid #ddd";
+    label.style.borderRadius = "6px";
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
     checkbox.name = "answer";
