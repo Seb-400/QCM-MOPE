@@ -4292,7 +4292,7 @@
     "options": [
       "Le nombre de cycles qui se produisent en une seconde",
       "Le nombre de demi-cycles compris dans une seconde",
-      "",
+      "La plus petite durée au bout de laquelle le motif élémentaire se reproduit identique à lui-même",
       "C'est la fréquence"
     ],
     "correctAnswers": [
