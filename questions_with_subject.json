@@ -214,9 +214,7 @@
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -228,9 +226,7 @@
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -242,9 +238,7 @@
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -298,9 +292,7 @@
     "question": "Loreille externe a pour fonction principale de capter les ondes sonores afin quelles puissent être dirigées vers loreille moyenne",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -312,9 +304,7 @@
     "question": "Loreille moyenne a une fonction mécanique et conduit les ondes sonores du CAE vers loreille interne grâce à la vibration de la membrane tympanique et de la chaîne des osselets. De plus, il possède également des fonctions de protection contre les infections et de drainage",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -326,9 +316,7 @@
     "question": "La fonction principale de lectoderme est de créer le système nerveux et le tissu épithélial",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -382,9 +370,7 @@
     "question": "Entendre est un processus volontaire qui implique dautres processus cognitifs?",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -410,9 +396,7 @@
     "question": "Létrier est attaché à la fenêtre ovale par le ligament annulaire.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -424,9 +408,7 @@
     "question": "La trompe dEustache chez un enfant est plus longue et plus étroite que chez un adulte. Cest pourquoi on retrouve plus souvent des pathologies de loreille moyenne comme des otites récurrentes chez les enfants.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -466,9 +448,7 @@
     "question": "La trompe dEustache s' ouvre lors du bâillement ou de la déglutition, en raison de la contraction musculaire.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -507,10 +487,8 @@
     "subject": "CASA",
     "question": "Loreille externe transmet londe du son à loreille interne, transformant londe sonore en onde mécanique.",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -519,12 +497,10 @@
   },
   {
     "subject": "CASA",
-    "question": "Il existe le muscle du marteau et le muscle de lenclume. ",
+    "question": "Il existe le muscle du marteau et le muscle de lenclume.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -564,9 +540,7 @@
     "question": "Le tympan est ancré à los tympanique par le ligament annulaire qui le fixe à los temporal.",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -589,12 +563,10 @@
   },
   {
     "subject": "CASA",
-    "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou lon trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de lépithélium contre lentrée de particules étrangères de poussières, insectes",
+    "question": "Le premier tiers du CAE est formé par un tissu cartilagineux, ou lon trouve les cellules qui sécrètent de la cire et les follicules sébacés dont la fonction est de créer un système de défense de lépithélium contre lentrée de particules étrangères de poussières, insectes",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -648,9 +620,7 @@
     "question": "Sur la paroi externe du vestibule, se trouve la fenêtre ovale et la fenêtre ronde de la caisse du tympan de loreille moyenne.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -662,9 +632,7 @@
     "question": "Les CCI sont de forme ovale avec la partie supérieure plus étroite. Elles sont situées près de laxe de lescargot. Les CCI sont moins nombreuses que les CCE et forment une seule rangée.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -704,9 +672,7 @@
     "question": "La transduction sonore se fait dans le labyrinthe postérieur grâce aux cellules de lorgane de Corti.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -718,9 +684,7 @@
     "question": "L'aqueduc cochléaire est un conduit osseux qui sétend de la rampe tympanique, près de la fenêtre ronde, jusquà la partie postérieure du rocher de los temporal, sous le CAI.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -802,9 +766,7 @@
     "question": "Lorgane de Corti se situe dans le canal cochléaire :",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -984,9 +946,7 @@
     "question": "Les PEATC (le test des potentiels évoqués auditifs du tronc cérébral sont au nombre de 5 dondes)",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -1180,9 +1140,7 @@
     "question": "Pour le calcul de pourcentage de perte binaurale la formule = (% valeur meilleure oreille x7) + (% valeur mauvaise oreille x1) / 8",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1208,9 +1166,7 @@
     "question": "Une hypoacousie mixte signifie que cest une perte qui peut toucher les hommes et les femmes ?",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -1222,9 +1178,7 @@
     "question": "Si votre patient contracte la maladie de Ménière il aura une perte plus importante dans les fréquences graves ?",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1278,9 +1232,7 @@
     "question": "LE PTA (Power Tone Average) ou moyenne des sons purs, se calcule selon la formule suivante : PTA = (VA 500 Hz + VA 1000Hz+VA 2000HZ) /4",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -1305,10 +1257,8 @@
     "subject": "CASA",
     "question": "Laudiométrie conventionnelle mesure les fréquences entre 125 Hz et 6000 Hz ?",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -1376,9 +1326,7 @@
     "question": "Sur un audiogramme tonal, laxe vertical représente les intensités et laxe horizontal représente les fréquences ?",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1432,9 +1380,7 @@
     "question": "La plage dynamique = UCL  VA ?",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1460,9 +1406,7 @@
     "question": "Il existe plusieurs tailles de spéculums pour lotoscopie ?",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -1488,9 +1432,7 @@
     "question": "Il est conseillé de tenir lotoscope dans la même main que loreille examinée (main droite/oreille droite-main gauche/oreille gauche)",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -1544,9 +1486,7 @@
     "question": "La manoeuvre de Toynbee crée une pression négative dans la cavité tympanique",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -1558,9 +1498,7 @@
     "question": "Lors du test de Weber, nous devons placer le diapason sur la mastoïde et devant le CAE",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -1572,9 +1510,7 @@
     "question": "Le test de Rinne compare la VA et la VO de la même oreille",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1585,10 +1521,8 @@
     "subject": "CASA",
     "question": "Lors de la mise en place de lotoscope dans loreille du patient il faut y aller vite et sèchement afin de prendre le patient par surprise ?",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -1600,9 +1534,7 @@
     "question": "Le triangle lumineux se produit en éclairant le tympan avec une lumière artificielle. Il sagit dun reflet produit sur la membrane tympanique par la lumière et est toujours situé dans le quadrant antéroinférieur de la membrane.",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1614,9 +1546,7 @@
     "question": "Les questions que nous posons ont aussi pour objectif de déterminer la capacité économique du patient à acheter des aides auditives",
     "options": [
       "VRAI",
-      "FAUX",
-      "nan",
-      "nan"
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1669,10 +1599,8 @@
     "subject": "CASA",
     "question": "Si le manche du marteau est incliné vers la droite, cest loreille droite",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1711,10 +1639,8 @@
     "subject": "CASA",
     "question": "Lors de la manuvre de Valsalva, on force la fermeture de la trompe dEustache à partir du pharynx, lair entre dans les oreilles moyennes avec une pression positive et pousse la membrane vers l'extérieur, en direction du CAE (membrane tympanique bombée).",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -1739,10 +1665,8 @@
     "subject": "CASA",
     "question": "Lors du test de lUCL, le seuil d'inconfort, le test consiste à pincer le patient pendant l'audiométrie ?",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -1754,9 +1678,7 @@
     "question": "Le symbole de la VA (OD) en audiométrie tonale est identique au symbole de l'audiométrie verbale ?",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -1795,10 +1717,8 @@
     "subject": "CASA",
     "question": "La VO est représentée par un triangle",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -1823,10 +1743,8 @@
     "subject": "CASA",
     "question": "Le masquage est un processus permettant dobtenir le seuil auditif réel lorsque les deux oreilles présentent une différence daudition significative. Lobjectif du masquage est déviter la latéralisation du son et déviter les courbes fantômes. Pour masquer, nous utilisons un bruit de masquage qui annule laudition de loreille NTE afin dobtenir la valeur réelle de l'audition de loreille TE.",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1851,10 +1769,8 @@
     "subject": "CASA",
     "question": "LATL nous permet de déterminer les seuils auditifs avec un stimulus tonal à différentes intensités (dBHL) à la fois par voie aérienne et par voie osseuse; à différentes fréquences entre 125 et 8000 Hz en général.",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -1865,10 +1781,8 @@
     "subject": "CASA",
     "question": "Laudiométrie est le principal test audiologique qui permet de connaître le niveau daudition de nos patients de manière objective :",
     "options": [
-      "FAUX ",
-      "VRAI",
-      "nan",
-      "nan"
+      "FAUX",
+      "VRAI"
     ],
     "correctAnswers": [
       0
@@ -1963,10 +1877,8 @@
     "subject": "CASA",
     "question": "Le crossover est la quantité de son qui traverse le crâne de loreille TE à loreille NTE.",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -1991,10 +1903,8 @@
     "subject": "CASA",
     "question": "L'atténuation intéraurale ou interauriculaire, correspond à l'isolation de la cabine insonorisée ?",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -2327,10 +2237,8 @@
     "subject": "CASA",
     "question": "Le diagnostic tardif de lhypoacousie infantile permet un pronostic meilleur :",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       1
@@ -2356,9 +2264,7 @@
     "question": "Les OEA sont des sons générés à lintérieur de la cochlée normale de manière spontanée ou en réponse à une stimulation acoustique, dans ce cas elles sont appelées évoquées .",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -2523,10 +2429,8 @@
     "subject": "CASA",
     "question": "Si les émissions otoacoustiques ne sont pas enregistrées, il faut exclure les problèmes doreille moyenne avant de considérer la possibilité dune lésion cochléaire",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -2581,8 +2485,7 @@
     "options": [
       "La couche la plus superficielle, l'ectoderme",
       "La couche intermédiaire, le mésoderme",
-      "La couche la plus interne, l'endoderme",
-      "nan"
+      "La couche la plus interne, l'endoderme"
     ],
     "correctAnswers": [
       1
@@ -2595,8 +2498,7 @@
     "options": [
       "Fenêtre ovale",
       "Fenêtre ronde",
-      "Fenêtre dorsale",
-      "nan"
+      "Fenêtre dorsale"
     ],
     "correctAnswers": [
       0
@@ -2609,8 +2511,7 @@
     "options": [
       "Rampe médiane",
       "Rampe tympanique",
-      "Rampe vestibulaire",
-      "nan"
+      "Rampe vestibulaire"
     ],
     "correctAnswers": [
       1
@@ -2622,9 +2523,7 @@
     "question": "Dans l'oreille interne, on distingue deux zones : le labyrinthe antérieur et le labyrinthe postérieur. Dans quelle zone se trouve la cochlée ?",
     "options": [
       "Dans le labyrinthe postérieur",
-      "Dans le labyrinthe antérieur",
-      "nan",
-      "nan"
+      "Dans le labyrinthe antérieur"
     ],
     "correctAnswers": [
       1
@@ -2637,8 +2536,7 @@
     "options": [
       "Les cellules ciliées externes",
       "Les cellules ciliées de soutien",
-      "Les cellules ciliées internes",
-      "nan"
+      "Les cellules ciliées internes"
     ],
     "correctAnswers": [
       0
@@ -2651,8 +2549,7 @@
     "options": [
       "L'embryoblaste",
       "Zygote",
-      "Trophoblaste",
-      "nan"
+      "Trophoblaste"
     ],
     "correctAnswers": [
       1
@@ -2665,8 +2562,7 @@
     "options": [
       "Dans l'espace qui se trouve à l'intérieur du labyrinthe osseux",
       "Dans l'espace qui se trouve à l'intérieur du labyrinthe membraneux",
-      "Dans l'espace qui se trouve entre le labyrinthe osseux et membraneux",
-      "nan"
+      "Dans l'espace qui se trouve entre le labyrinthe osseux et membraneux"
     ],
     "correctAnswers": [
       1
@@ -2679,8 +2575,7 @@
     "options": [
       "Le nerf facial",
       "Le nerf auriculaire du plexus cervical",
-      "Le nerf trijumeau",
-      "nan"
+      "Le nerf trijumeau"
     ],
     "correctAnswers": [
       0
@@ -2735,9 +2630,7 @@
     "question": "Loreille est un organe pair et symétrique, située de chaque coté du crâne, dans los temporal :",
     "options": [
       "FAUX",
-      "VRAI",
-      "nan",
-      "nan"
+      "VRAI"
     ],
     "correctAnswers": [
       1
@@ -2764,8 +2657,7 @@
     "options": [
       "Paroi supérieure, crânienne ou tegmentaire",
       "La paroi médiale, interne ou labyrinthique",
-      "Paroi postérieure, dorsale ou mastoïdienne",
-      "nan"
+      "Paroi postérieure, dorsale ou mastoïdienne"
     ],
     "correctAnswers": [
       1
@@ -2778,8 +2670,7 @@
     "options": [
       "Sur la membrane de Reissner",
       "Sur la strie vasculaire",
-      "Sur la membrane basilaire",
-      "nan"
+      "Sur la membrane basilaire"
     ],
     "correctAnswers": [
       2
@@ -2809,8 +2700,7 @@
     "options": [
       "Nerf auditif.",
       "Colliculus inférieur.",
-      "Corps géniculé médial du thalamus.",
-      "nan"
+      "Corps géniculé médial du thalamus."
     ],
     "correctAnswers": [
       0
@@ -2836,10 +2726,8 @@
     "subject": "CASA",
     "question": "Les émissions otoacoustiques sont des sons de faible intensité produits par une activité normale de la cochlée qui peuvent être mesurés à l'aide d'un microphone placé dans une sonde insérée dans le conduit auditif externe",
     "options": [
-      "VRAI ",
-      "FAUX",
-      "nan",
-      "nan"
+      "VRAI",
+      "FAUX"
     ],
     "correctAnswers": [
       0
@@ -4294,7 +4182,6 @@
     "options": [
       "Le nombre de cycles qui se produisent en une seconde",
       "Le nombre de demi-cycles compris dans une seconde",
-      "nan",
       "C'est la fréquence"
     ],
     "correctAnswers": [
@@ -5680,8 +5567,7 @@
     "options": [
       "Aucune des réponses ci-dessus n'est correcte.",
       "Il le déphase de 180°.",
-      "Il produit un signal de sortie en phase avec l'entrée.",
-      "nan"
+      "Il produit un signal de sortie en phase avec l'entrée."
     ],
     "correctAnswers": [
       2
@@ -6562,7 +6448,6 @@
     "options": [
       "La préférence du travailleur concerné",
       "La gravité et la probabilité du risque",
-      "nan",
       "Le coût économique de la mesure"
     ],
     "correctAnswers": [
@@ -7094,7 +6979,6 @@
     "options": [
       "Les petites et moyennes entreprises (PME)",
       "Les multinationales",
-      "nan",
       "Les sociétés d'état"
     ],
     "correctAnswers": [
@@ -7122,8 +7006,7 @@
     "options": [
       "Dans les cliniques spécialisées",
       "Dans les centres auditifs",
-      "Dans les hôpitaux et les centres de santé",
-      "nan"
+      "Dans les hôpitaux et les centres de santé"
     ],
     "correctAnswers": [
       3
@@ -8686,7 +8569,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles",
+    "question": "Dans les voyelles",
     "options": [
       "intervient pour leur production le palais avec la langue.",
       "nous pouvons les classifier selon leur mode d'occlusion en hautes, moyennes ou bases.",
@@ -8784,7 +8667,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles rétroflexes",
+    "question": "Dans les voyelles rétroflexes",
     "options": [
       "Dans les voyelles rétroflexes, la pointe de la langue est courbée vers l'intérieur.",
       "la bas de la langue est courbée vers l'intérieur.",
@@ -8812,7 +8695,7 @@
   },
   {
     "subject": "ACV",
-    "question": "Dans les voyelles nasales",
+    "question": "Dans les voyelles nasales",
     "options": [
       "le voile du palais est séparé de la paroi pharyngée postérieure, de sorte que le passage nasal est ouvert et que l'air rentre par le nez et la bouche.",
       "le voile du palais est séparé de la paroi pharyngée postérieure, de sorte que le passage nasal est ouvert et que l'air sort par le nez et la bouche.",
