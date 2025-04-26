@@ -85,3 +85,7 @@ body {
 #submit-btn:hover {
   background-color: #1976D2;
 }
+#question {
+  margin-bottom: 20px;
+  font-size: 1.3em;
+}
