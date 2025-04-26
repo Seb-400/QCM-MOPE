@@ -72,11 +72,14 @@ function loadQuestion() {
     questionImage.classList.add("hidden");
   }
 
+  // Mélanger les options et supprimer celles qui sont "Nan"
   const shuffledOptions = currentQuestion.options.map((opt, idx) => ({opt, idx}));
-  shuffleArray(shuffledOptions);
+  const validOptions = shuffledOptions.filter(item => item.opt.toLowerCase() !== "nan");
+  shuffleArray(validOptions);
 
-  shuffledOptions.forEach(({opt, idx}) => {
+  validOptions.forEach(({opt, idx}) => {
     const label = document.createElement("label");
+    label.style.display = "block"; // Affichage sur une nouvelle ligne
     const checkbox = document.createElement("input");
     checkbox.type = "checkbox";
     checkbox.name = "answer";
