@@ -67,3 +67,30 @@ button {
 #start-btn:hover {
   background-color: #45a049;
 }
+.selection-form {
+  margin: 10px 0;
+  text-align: center;
+}
+
+#subject-select {
+  width: 80%;
+  padding: 10px;
+  font-size: 1em;
+  margin-bottom: 10px; /* réduit l'espace */
+}
+
+#start-btn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1.1em;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px; /* petit espace entre menu et bouton */
+  transition: background-color 0.3s ease;
+}
+
+#start-btn:hover {
+  background-color: #45a049;
+}
