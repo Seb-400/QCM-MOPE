@@ -6,12 +6,14 @@ let mistakes = [];
 let startTime = null;
 let currentShuffledOptions = [];
 
-fetch('questions_with_subject_cleaned.json')
-  .then(response => response.text())
-  .then(text => JSON.parse(text))
+fetch('./questions_with_subject_cleaned.json')
+  .then(response => response.json()) // Lecture directe en JSON (plus de .text() + JSON.parse)
   .then(data => {
     allQuestions = data;
     populateSubjects();
+  })
+  .catch(error => {
+    console.error('Erreur de chargement du JSON :', error);
   });
 
 const subjectSelection = document.getElementById("subject-selection");
@@ -73,10 +75,10 @@ function loadQuestion() {
     questionImage.classList.add("hidden");
   }
 
-  currentShuffledOptions = currentQuestion.options.map((opt, idx) => ({opt, idx}));
+  currentShuffledOptions = currentQuestion.options.map((opt, idx) => ({ opt, idx }));
   shuffleArray(currentShuffledOptions);
 
-  currentShuffledOptions.forEach(({opt}, displayIdx) => {
+  currentShuffledOptions.forEach(({ opt }, displayIdx) => {
     const label = document.createElement("label");
     label.style.display = "block";
     const checkbox = document.createElement("input");
@@ -142,7 +144,7 @@ function showResult() {
   resultEl.classList.remove("hidden");
 
   scoreEl.textContent = "Vous avez obtenu " + score + " sur " + questions.length + " bonnes réponses.";
-  
+
   const endTime = new Date();
   const elapsedSeconds = Math.round((endTime - startTime) / 1000);
   timeEl.textContent = "Temps total : " + elapsedSeconds + " secondes.";
