@@ -6,6 +6,7 @@ let score = 0;
 fetch('questions_with_subject.json')
   .then(response => response.json())
   .then(data => {
+    console.log("Données chargées :", data);
     allQuestions = data;
     populateSubjects();
   });
