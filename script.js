@@ -13,7 +13,7 @@ const questions = [
     question: "La voie afférente auditive possède :",
     options: [
       "Toutes les réponses sont justes.",
-      "L’information atteint les deux côtés du cortex.",
+      "L'information atteint les deux côtés du cortex.",
       "Les fibres ascendantes sont homolatérales et controlatérales.",
       "Un traitement monaural et binaural."
     ],
