@@ -1,4 +1,4 @@
-[
+F[
   {
     "subject": "CASA",
     "question": "Où se situent les cellules ciliées internes ?",
@@ -2813,7 +2813,7 @@
       ""
     ],
     "correctAnswers": [],
-    "image": ""
+    1
   },
   {
     "subject": "CASA",
@@ -2825,8 +2825,8 @@
       "Le canal de Fallope"
     ],
     "correctAnswers": [
-      0,
-      1
+      1,
+      2
     ],
     "image": ""
   },
@@ -5192,7 +5192,7 @@
       "La cochlée."
     ],
     "correctAnswers": [
-      0
+      1
     ],
     "image": ""
   },
@@ -6560,11 +6560,11 @@
     "options": [
       "La préférence du travailleur concerné",
       "La gravité et la probabilité du risque",
-      "",
+      "La facilité de mise en œuvre de la mesure",
       "Le coût économique de la mesure"
     ],
     "correctAnswers": [
-      2
+      1
     ],
     "image": ""
   },
@@ -7121,7 +7121,7 @@
       "Dans les cliniques spécialisées",
       "Dans les centres auditifs",
       "Dans les hôpitaux et les centres de santé",
-      ""
+      "Dans les laboratoires de recherche en appareils auditifs"
     ],
     "correctAnswers": [
       3
