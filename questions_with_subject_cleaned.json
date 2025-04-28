@@ -2812,8 +2812,9 @@
       "Corps géniculé médial du thalamus.",
       ""
     ],
-    "correctAnswers": [],
-    1
+    "correctAnswers": [
+      1
+    ],
   },
   {
     "subject": "CASA",
