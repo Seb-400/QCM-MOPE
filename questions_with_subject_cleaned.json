@@ -4808,7 +4808,7 @@
   },
   {
     "subject": "TEPA",
-    "question": "Laquelle des affirmations suivantes est correcte",
+    "question": "Laquelle des affirmations suivantes est correcte (concernant le condensateur)",
     "options": [
       "Le temps de charge/décharge est d'autant plus long que la résistance et la capacité sont élevées",
       "Sa résistance est pratiquement nulle lorsqu'elle est alimentée en courant alternatif",
