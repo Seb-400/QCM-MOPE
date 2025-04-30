@@ -4528,7 +4528,7 @@
   },
   {
     "subject": "TEPA",
-    "question": "Le transistor représenté sur la figure est un transistor du type C  B > E",
+    "question": "Le transistor représenté sur la figure est un transistor du type ",
     "options": [
       "Toutes les réponses sont correctes",
       "PNP",
@@ -4640,7 +4640,7 @@
   },
   {
     "subject": "TEPA",
-    "question": "Le symbole de la figure représente (condensateur barré d'une flèche)",
+    "question": "Le symbole de la figure représente",
     "options": [
       "Aucune des réponses n'est correcte",
       "Contacteur polarisé",
