@@ -6291,6 +6291,496 @@
     "image": ""
   },
   {
+    "subject": "TEPA",
+    "question": "Si un multiplexeur a 3 entrées de contrôle, combien d'entrées de données a-t-il ?",
+    "options": [
+      "8 entrées.",
+      "32 entrées.",
+      "4 entrées.",
+      "16 entrées."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Une mémoire RAM:",
+    "options": [
+      "Elle peut être enregistrée autant de fois que vous le souhaitez.",
+      "Elle ne peut être enregistrée qu'une seule fois.",
+      "Elle peut être effacé à l'aide d'une lumière ultraviolette autant de fois que vous le souhaitez.",
+      "Elle est gravée en usine."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Dans un appareil auditif numérique, le composant situé avant le haut-parleur est un ?",
+    "options": [
+      "Un additionneur.",
+      "Aucune réponse n'est valable",
+      "Convertisseur numérique analogique.",
+      "Convertisseur analogique numérique."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Dans un appareil auditif numérique, le signal du microphone est transmis au.. :",
+    "options": [
+      "Additionneur.",
+      "Encodeur.",
+      "Convertisseur numérique-analogique.",
+      "Convertisseur analogique-numérique."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quelle est la capacité d'une mémoire qui possède 4 lignes de bus d'adresse ?",
+    "options": [
+      "16 bits.",
+      "8 bits.",
+      "24 bits.",
+      "32 bits."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Comment s'appellent les bus d'un microprocesseur ?",
+    "options": [
+      "Bus de registres internes et bus d'état.",
+      "Bus d'état et compteur de programme.",
+      "Bus de registres internes et externes.",
+      "Bus de données et bus d'adresses."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Avec quel composant peut-on fabriquer une mémoire ?",
+    "options": [
+      "Avec des résistances et des condensateurs.",
+      "Avec des condensateurs et des flip-flops de type D.",
+      "Avec des résistances et des bobines.",
+      "Avec des condensateurs et des bobines."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "A quoi sert le enable dans les systèmes intégrés que nous avons vus dans le thème ?",
+    "options": [
+      "C'est la broche qui doit être validée pour que le système intégré fonctionne correctement.",
+      "C'est l'une des multiples sorties du systéme intégré.",
+      "C'est l'entrée de données du démultiplexeur.",
+      "C'est l'horloge du flip-flop/ de la bascule."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Si j'ai un codeur avec 8 entrées et 3 sorties, toutes actives à haut niveau, et que j'active la broche numéro 3, quel nombre décimal ai-je à la sortie ?",
+    "options": [
+      "Le trois 011.",
+      "Le deux 010.",
+      "L'unique 001.",
+      "Le quatre 100."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quelle est la capacité d'une mémoire qui possède 6 lignes de bus d'adresse ?",
+    "options": [
+      "8 bits",
+      "32 bits.",
+      "Aucune des réponses n'est correcte.",
+      "16 bits."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Une mémoire RAM :",
+    "options": [
+      "Elle peut être effacée à la lumière ultraviolette autant de fois que vous le souhaitez.",
+      "Elle est gravée en usine.",
+      "Elle est volatile.",
+      "Elle ne peut être enregistrée qu'une seule fois."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "À quoi sert la maille/ le treillis?",
+    "options": [
+      "Pour souder le composant à la carte.",
+      "Pour que la soudure coule mieux lors de la soudure d'un composant.",
+      "Pour dessouder un composant d'une prothèse auditive.",
+      "Pour tenir le circuit imprimé afin de pouvoir souder en toute sécurité."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Comment dessouder une aide auditive?",
+    "options": [
+      "Avec une ventouse.",
+      "Avec une station de micro-soudure.",
+      "Avec une maille / treillis.",
+      "Avec un déssoudeur à poire."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Où sont soudés les composants d'un appareil auditif?",
+    "options": [
+      "Sur un amplificateur opérationnel.",
+      "Sur un circuit imprimé.",
+      "Aucune de ces réponses n'est correcte.",
+      "Ils sont soudés dans l'air pour former un circuit."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Les composants SMD sont soudés avec:",
+    "options": [
+      "Avec une maille/un treillis",
+      "Ne peuvent pas être soudés.",
+      "Avec de l'étain pur.",
+      "Soudure à l'air chaud."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "La directive RoHS ne s'applique pas aux:",
+    "options": [
+      "Distributeurs automatiques.",
+      "Équipements grand public.",
+      "Machines industrielles.",
+      "Appareils auditifs."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "L'étain utilisé pour la soudure est-il pur?",
+    "options": [
+      "Oui, il s'agit de 100% d'étain.",
+      "Toutes les réponses sont valables.",
+      "Non, il s'agit de 60% d'étain, 30% de plomb et 10% de résine.",
+      "Non, il est composé de 60% d'étain et de 40% de plomb."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Avec quoi l'appareil auditif est-il soudé?",
+    "options": [
+      "Avec un fer à souder d'une puissance supérieure à 60 watts.",
+      "Avec de la maille.",
+      "Avec une micro station de soudure.",
+      "Avec n'importe quel type de fer à souder."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quels sont les types de fer à souder ?",
+    "options": [
+      "Le fer à souder instantané et le fer à souder à résistance.",
+      "Le fer à souder à pistolet et le fer à souder sur pied.",
+      "Le fer à souder électrique et le fer à souder rapide ?",
+      "Toutes les réponses sont valables."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "À quoi servent les pinces dans le processus de soudure et de dessoudure?",
+    "options": [
+      "À retirer le composant et à le remettre en place.",
+      "Aucune de ces réponses n'est correcte.",
+      "Pour éviter les courts-circuits lors de la soudure du nouveau composant.",
+      "Pour dénuder les petits fils."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Le fer à souder à l'air chaud s'applique à quel type de composant?",
+    "options": [
+      "Les composants SMD.",
+      "Ne peut être soudé.",
+      "Un composant conventionnel.",
+      "Les microphones et les haut-parleurs des appareils auditifs."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quelle température doit atteindre le fer à souder pour effectuer une soudure?",
+    "options": [
+      "Entre 100º et 200º",
+      "Entre 300º et 450º.",
+      "Il n'y a pas de température stipulée, il suffit qu'il soit chaud.",
+      "Entre 3000º et 4500º."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Comment doit être la pointe d'un fer à souder pour l'aide auditive?",
+    "options": [
+      "Aucune des réponses n'est correcte.",
+      "La pointe du fer à souder n'a pas d'importance, ce qui est important c'est qu'il soit de 3w.",
+      "La plus épaisse possible.",
+      "Très fine."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Les appareils auditifs analogiques ont deux potentiomètres NH et AO, à quoi servent-ils ?",
+    "options": [
+      "NH élimine les aigus, AO contrôle le gain.",
+      "NH contrôle le gain, AO élimine les aigus.",
+      "Ces éléments sont programmés en usine.",
+      "NH élimine les graves, AO contrôle le gain."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quelles sont les causes d'une panne traumatique?",
+    "options": [
+      "Aucune des réponses n'est correcte.",
+      "Un accident.",
+      "Un microphone cassé.",
+      "Lorsque la batterie est déchargée."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Que faire avant de remplacer un composant dans un appareil auditif ?",
+    "options": [
+      "Vérifier s'il s'agit d'un appareil analogique ou numérique.",
+      "Vérifier la fiche technique du fabricant.",
+      "Vérifier si l'aide auditive est destinée à l'oreille droite ou à l'oreille gauche.",
+      "Avant de manipuler l'appareil auditif une fois la panne diagnostiquée, il faut retirer la pile."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quels sont les matériaux les plus recommandés pour traiter les décharges ...",
+    "options": [
+      "Matériaux dissipatifs.",
+      "Aucune des réponses n'est correcte.",
+      "Matériaux conducteurs.",
+      "Matériaux isolants."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "En dessous de quelle limite de perception ne perçoit-on pas les décharges ...",
+    "options": [
+      "En dessous de 3.000V.",
+      "En dessous de 4 000 V.",
+      "En dessous de 3.500V.",
+      "En dessous de 5 000 V."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quelles sont les parties d'un appareil auditif ?",
+    "options": [
+      "Aucune de ces réponses n'est correcte.",
+      "Signal d'entrée, contrôle du client, contrôle du technicien et contrôle du microprocesseur.",
+      "Signal d'entrée, partie contrôlée par le client, partie contrôlée par le technicien et signal de sortie.",
+      "Signal d'entrée, signal de sortie, contrôle du microprocesseur et contrôle du technicien."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Dans une aide auditive, qu'est-ce que le MTO?",
+    "options": [
+      "M micro, T bobine téléphonique, O éteint.",
+      "M allumé, T téléphone, O éteint.",
+      "M manuel, T téléphone, O éteint.",
+      "Aucune de ces réponses."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Pourquoi ne faut-il pas laisser de pointes dans les soudures?",
+    "options": [
+      "Parce que les pointes peuvent provoquer des courts-circuits.",
+      "Pour des raisons esthétiques.",
+      "Parce qu'elles peuvent s'accrocher aux bagues ou aux bracelets que vous portez.",
+      "Parce qu'elles peuvent agir comme des antennes et introduire des bruits indésirables dans l'aide auditive."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Comment peut-on savoir sur un appareil auditif s'il est destiné à l'oreille gauche ou à l'oreille droite ?",
+    "options": [
+      "Parce qu'il est écrit D pour droite et G pour gauche sur l'appareil auditif.",
+      "D'après la couleur, l'appareil gauche est bleu et l'appareil droit est rouge.",
+      "D'après la couleur, l'oreille gauche est verte et l'oreille droite est rouge.",
+      "Il n'y a aucun moyen de les différencier."
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Quel est le type de panne le plus difficile à diagnostiquer?",
+    "options": [
+      "Une panne traumatique.",
+      "Aucune de ces réponses n'est valable.",
+      "Une panne totale.",
+      "Une panne intermittente."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Pourquoi une panne totale peut-elle se produire?",
+    "options": [
+      "Par rupture du microphone.",
+      "Obstruction à cause du cérumen.",
+      "Court-circuit.",
+      "Poussière."
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "TEPA",
+    "question": "Pourquoi est-il nécessaire d'enlever les bagues et les bracelets pour réparer un appareil auditif?",
+    "options": [
+      "Aucune de ces réponses n'est correcte.",
+      "Parce que la pile de l'appareil auditif peut me provoquer une décharge si elle touche une bague ou un bracelet.",
+      "Pour des raisons esthétiques.",
+      "Pour ne pas provoquer un autre type de dommage à l'appareil auditif que celui que qu'il y avait déjà."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  }
+  {
     "subject": "IPE",
     "question": "Quel équipement est utilisé pour protéger la tête de possibles impacts dans l'environnement de travail ? :",
     "options": [
