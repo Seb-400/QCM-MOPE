@@ -1471,7 +1471,7 @@
   },
   {
     "subject": "CASA",
-    "question": "Quelle manuvre consiste à insuffler de l'air à l'aide d'une poire dans une des narines tout en maintenant l'autre bouchée avec un doigt ?",
+    "question": "Quelle manoeuvre consiste à insuffler de l'air à l'aide d'une poire dans une des narines tout en maintenant l'autre bouchée avec un doigt ?",
     "options": [
       "Manoeuvre de Politzer",
       "Manoeuvre de Toynbee",
@@ -1770,7 +1770,7 @@
       "ATL et UCL",
       "ATL",
       "Audiométrie vocale",
-      "ATL, Audiométrie vocale et UCL"
+      "ATL, Audiométrie vocale et UCL"  
     ],
     "correctAnswers": [
       3
@@ -1779,7 +1779,7 @@
   },
   {
     "subject": "CASA",
-    "question": "ATL, Audiométrie vocale et UCL",
+    "question": "L’URV théorique est le PTA + OU - :",
     "options": [
       "20 dB HL",
       "15 dB HL",
