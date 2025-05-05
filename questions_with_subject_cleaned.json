@@ -169,20 +169,6 @@
   },
   {
     "subject": "CASA",
-    "question": "La perte auditive brusque est :",
-    "options": [
-      "Progressive",
-      "Causée par le bruit seulement",
-      "Toujours bilatérale",
-      "Une urgence médicale"
-    ],
-    "correctAnswers": [
-      3
-    ],
-    "image": ""
-  },
-  {
-    "subject": "CASA",
     "question": "Quel organe est responsable de l'équilibre ?",
     "options": [
       "Cochlée",
