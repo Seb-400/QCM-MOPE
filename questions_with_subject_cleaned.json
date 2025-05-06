@@ -3747,9 +3747,9 @@
     "question": "Dans un tube sonore fermé, il y a :",
     "options": [
       "Un ventre à l'extrémité ouverte et un ventre à l'extrémité fermée.",
-      "Un nud à l'extrémité ouverte et un ventre à l'extrémité fermée",
-      "Un nud à l'extrémité fermée et un ventre à l'extrémité ouverte",
-      "Un nud à l'extrémité fermée et un nud à l'extrémité ouverte"
+      "Un noeud à l'extrémité ouverte et un ventre à l'extrémité fermée",
+      "Un noeud à l'extrémité fermée et un ventre à l'extrémité ouverte",
+      "Un noeud à l'extrémité fermée et un noeud à l'extrémité ouverte"
     ],
     "correctAnswers": [
       2
