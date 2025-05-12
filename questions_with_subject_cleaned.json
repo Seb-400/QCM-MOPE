@@ -2833,6 +2833,552 @@
     "image": ""
   },
   {
+    "subject": "CASA",
+    "question": "Grâce au pavillon l'audition binaurale est supérieur à laudition monoaurale de :",
+    "options": [
+      "8 db",
+      "2 db",
+      "10 db",
+      "40 db"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Il y a une augmentation de décibels d'environ 23-27 dB due à la différence de taille entre la membrane tympanique et :",
+    "options": [
+      "Le vestibule",
+      "LE CAE",
+      "La fenêtre ronde",
+      "La fenêtre ovale"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "La contraction du muscle stapédien et du muscle tenseur du tympan :",
+    "options": [
+      "Augmente la rigidité de la chaîne des osselets",
+      "Toutes les réponses sont correctes",
+      "Rend plus difficile le passage des sons",
+      "Protège loreille interne"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "La différence de taille entre la membrane tympanique et la fenêtre ovale a un ratio de :",
+    "options": [
+      "\"2:1\"",
+      "\"30:1\"",
+      "\"10:1\"",
+      "\"20:1\""
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "La fenêtre ovale et la fenêtre ronde permettre la transmission du son à travers :",
+    "options": [
+      "Le liquide céphalorachidien",
+      "Lendolymphe",
+      "La périlymphe et lendolymphe",
+      "La périlymphe"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "La rigidité de la membrane basilaire est responsable de la sélectivité des fréquences sonores, quelle affirmation est juste :",
+    "options": [
+      "Les vibrations des basses fréquences produisent une onde près de la fenêtre ovale",
+      "Les vibrations des hautes fréquences produisent une onde près de la fenêtre ovale",
+      "Les vibrations des hautes fréquences produisent une onde près de la fenêtre ronde",
+      "Les vibrations des hautes fréquences produisent une onde près de lapex"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "La transduction est la conversion de lénergie mécanique en énergie bioélectrique :",
+    "options": [
+      "VRAI",
+      "FAUX",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le CAE contient des poils, des glandes sébacées et des glandes de cérumen :",
+    "options": [
+      "Dans sa partie la plus interne",
+      "Toutes les réponses sont correctes",
+      "Dans sa partie la plus externe",
+      "Sur toute la longueur"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le CAE renforce les fréquences comprises entre :",
+    "options": [
+      "3000 hz à 6000 hz",
+      "6000 hz à 8000 hz",
+      "2000 hz à 4000 hz",
+      "125 hz à 250 hz"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le ligament qui permet à la platine de l'étrier de se déplacer vers l'intérieur et vers l'extérieur dans la fenêtre ovale est :",
+    "options": [
+      "Le ligament vasculaire de Rudinger",
+      "Le ligament pavillonnaire de Rudinger",
+      "Le ligament annulaire de Rudinger",
+      "Le ligament annulaire de Brodmann"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le manche de l'étrier est solidement fixé à la membrane tympanique :",
+    "options": [
+      "VRAI",
+      "FAUX",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le pavillon auriculaire capte principalement les fréquences :",
+    "options": [
+      "3000 hz à 6000 hz",
+      "2000 hz à 4000 hz",
+      "6000 hz à 8000 hz",
+      "125hz à 250hz"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le son a plus de difficulté à se propager à travers un liquide qu'à travers de l'air :",
+    "options": [
+      "VRAI",
+      "FAUX",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le stimulus descend jusqu'au muscle stapédien, déclenchant sa contraction par :",
+    "options": [
+      "La voie efférente",
+      "La voie afférente",
+      "La voie cochléaire",
+      "La voie vestibulaire"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le traitement du signal sonore dans la cochlée se déroule en trois phases: la mécanique cochléaire, la micromécanique cochléaire et la transduction mécano-électrique :",
+    "options": [
+      "FAUX",
+      "VRAI",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Les liquides cochléaires, quelle affirmation est correcte :",
+    "options": [
+      "La périlymphe est produite par la transsudation des vaisseaux labyrinthiques et du LCR de l'espace sous-arachnoïdien et est riche en Potassium (K+)",
+      "Lendolymphe est produite par transsudation et sécrétion de la strie vasculaire et est riche en Sodium( NA+)",
+      "La périlymphe est produite par transsudation et sécrétion de la strie vasculaire et est riche en Potassium ( K+)",
+      "Lendolymphe est produite par transsudation et sécrétion de la strie vasculaire et est riche en Potassium ( K+)"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Les sons commencent également à être perçus par voie osseuse à partir de :",
+    "options": [
+      "50 db",
+      "70dB",
+      "60dB",
+      "40dB"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Pour que se produise le réflexe stapédien, une intensité d'environ 70 à 90 dB est nécessaire au-dessus de :",
+    "options": [
+      "De 0 db",
+      "Du seuil d'audition",
+      "Toutes les réponses sont correctes",
+      "Du seuil d'inconfort"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Quelle partie de loreille agit comme un adaptateur d'impédance, facilitant la transmission de la pression sonore de l'air vers milieu liquide :",
+    "options": [
+      "Loreille moyenne",
+      "Loreille interne",
+      "Loreille externe",
+      "Aucune"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Lobstruction du CAE la plus courante est :",
+    "options": [
+      "Le bouchon de cérumen",
+      "Toutes les réponses sont justes.",
+      "Un caillot sanguin faisant suite à une inflammation ou à un traumatisme",
+      "Corps étranger"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Dans le cadre dune OMC, on peut observer :",
+    "options": [
+      "Une perforation tympanique permanente",
+      "Mauvaise pneumatisation mastoïdienne",
+      "Toutes les propositions sont justes.",
+      "Otorrhée constante et fluctuante"
+    ],
+    "correctAnswers": [
+      2
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Une OMS est causée par :",
+    "options": [
+      "Une mauvaise fonctionnalité de la trompe dEustache",
+      "Processus inflammatoire maintenu dans le temps par lOM et sans résolution",
+      "Des agents infectieux",
+      "Toutes les propositions sont justes."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Lotite mycosique provoque en générale :",
+    "options": [
+      "Otorrhée blanchâtre ou jaunâtre à noirâtre",
+      "Pas de douleur,",
+      "Démangeaisons intenses",
+      "Toutes les propositions sont justes."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Une otite moyenne sécrétoire est un processus infectieux avec symptômes cliniques , présence de liquide purulent dans la caisse :",
+    "options": [
+      "VRAI",
+      "FAUX",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Quelles malformations concernent loreille moyenne :",
+    "options": [
+      "Fixation de la chaîne ossiculaire, principalement au niveau de larticulation incudo malléolaire",
+      "Déformation de la chaîne ossiculaire ou absence dun osselet",
+      "Diminution de la cavité de loreille moyenne ou absence de membrane tympanique",
+      "Toutes les réponses sont justes."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Lothématome est une accumulation de sang entre le cartilage et le périchondre, ce qui correspond à un gonflement indolore.",
+    "options": [
+      "FAUX",
+      "VRAI",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Nous pouvons faire une otoplastie chez un enfant à partir de lâge de 7-8 ans.",
+    "options": [
+      "FAUX",
+      "VRAI",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      1
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Lotite externe bulleuse est aussi appelée lotite du baigneur :",
+    "options": [
+      "FAUX",
+      "VRAI",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Quelles sont les pathologies de loreille externe ?",
+    "options": [
+      "Corps étranger dans le CAE",
+      "Bouchons de cérumen",
+      "Malformation comme anotie ou atrésie du CAE",
+      "Toutes les réponses sont justes."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Signes de lotosclérose sont :",
+    "options": [
+      "Tympanométrie avec une courbe plate",
+      "On observe à lotoscopie une tâche noire",
+      "Toutes les propositions sont justes.",
+      "Hypoacousie de transmission avec une baisse plus importante des hautes fréquences et une conservation des basses fréquences"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "HNS par atteinte cochléaire peut être :",
+    "options": [
+      "Toutes les réponses sont justes.",
+      "Presbyacousie ou ototoxicité.",
+      "Surdité induite par le bruit/ Traumatisme acoustique ou Surdité auto-immune.",
+      "Maladie de Ménière ou une surdité soudaine"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Les symptômes du cholestéatome peuvent être :",
+    "options": [
+      "Otorrhée assez abondante et malodorante",
+      "Une masse rougeâtre et une suppuration sortant par la rupture du tympan.",
+      "Toutes les réponses sont justes.",
+      "Fièvre et douleur"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Les pathologies de loreilles internes sont liées à :",
+    "options": [
+      "Toutes les propositions sont justes.",
+      "Une perte auditive lorsque le labyrinthe antérieur est atteint",
+      "Lhypoacousie est neurosensorielle et peut être de nature cochléaire ou rétrocochléaire",
+      "Des vertiges lorsquil y a une atteinte vestibulaire du labyrinthe postérieur"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Quelles sont les pathologies inflammatoires de loreille externe :",
+    "options": [
+      "Otite externe diffuse, maligne et bulleuse",
+      "Otite externe maligne, otomycose et péritonéale",
+      "Otite externe avec furoncle, otite virale",
+      "Réponse a et c sont justes."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Une obstruction du CAE totale ou partielle provoque une hypoacousie de :",
+    "options": [
+      "Transmission",
+      "Neurosensorielle",
+      "Mixte et HNS",
+      "Toutes les réponses sont juste."
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Une hypoacousie neurosensorielle congénitale peut être due à :",
+    "options": [
+      "Une cause génétique",
+      "Rubéole",
+      "Syphilis",
+      "Toutes les réponses sont justes."
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Un traumatisme de loreille moyenne peut être causé par :",
+    "options": [
+      "Fracture de los frontal uniquement",
+      "Toutes les réponses sont juste.",
+      "Explosion avec un blast de loreille interne avec une rupture de la chaîne ossiculaire et une membrane tympanique étanche",
+      "Changements de pressions comme un barotraumatismes en cas de plongée sous-marine par exemple"
+    ],
+    "correctAnswers": [
+      3
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Le cholestéatome peut être une séquelle de lOMC :",
+    "options": [
+      "VRAI",
+      "FAUX",
+      "nan",
+      "nan"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
+    "subject": "CASA",
+    "question": "Un ostéome est :",
+    "options": [
+      "Une tumeur osseuse bénigne généralement unique, solitaire, unilatérale et pédiculé",
+      "Aucune réponse nest juste.",
+      "Une tumeur osseuse maligne généralement unique, solitaire, bilatérale",
+      "Une tumeur osseuse maligne généralement unique, unilatérale"
+    ],
+    "correctAnswers": [
+      0
+    ],
+    "image": ""
+  },
+  {
     "subject": "AEPS",
     "question": "Cette qualité identifie l'instrument qui produit le son.",
     "options": [
